@@ -6,7 +6,7 @@ SourceTitle: Pilton Valley Pork
 SourceURL: Unknown
 ---
 
-![[71DBD938-9A77-4B5F-83BC-8E25C31901E4.jpeg]]
+![[71DBD938-9A77-4B5F-83BC-8E25C31901E4 1.jpeg]]
 
 Serves 4
 ## Ingredients

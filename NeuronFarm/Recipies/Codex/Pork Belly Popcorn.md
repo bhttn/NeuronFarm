@@ -6,7 +6,7 @@ SourceTitle: Pilton Valley Pork
 SourceURL: Pilton Valley Pork
 ---
 
-![[0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD.jpeg]]
+![[0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg]]
 Serves 4
 ## Ingredients
 750g Pilton Valley Premium Pork belly, skin removed and cut

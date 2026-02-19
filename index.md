@@ -1,0 +1,982 @@
+# NeuronFarm
+
+  - **.cache**
+  - **.github**
+    - **workflows**
+  - **.obsidian**
+  - **NeuronFarm**
+    - **.obsidian**
+      - **plugins**
+        - **dataview**
+        - **definition-list**
+        - **obsidian-charts**
+        - **obsidian-folder-index**
+        - **obsidian-itinerary**
+        - **templater-obsidian**
+        - **webpage-html-export**
+      - **snippets**
+      - **snippits**
+      - **themes**
+        - **Things**
+    - **.trash**
+      - [DH Costs(2)](.\NeuronFarm\.trash\DH Costs(2).md)
+      - [DH Costs(3)](.\NeuronFarm\.trash\DH Costs(3).md)
+      - [Spelt Pancakes 1](.\NeuronFarm\.trash\Spelt Pancakes 1.md)
+    - **bōchord**
+      - **Craft**
+        - **Language**
+          - [Index_Language](.\NeuronFarm\bōchord\Craft\Language\Index_Language.md)
+          - [Multimodal Narrative](.\NeuronFarm\bōchord\Craft\Language\Multimodal Narrative.md)
+          - [Old English Word Hoard](.\NeuronFarm\bōchord\Craft\Language\Old English Word Hoard.md)
+          - [One Page Overview Document](.\NeuronFarm\bōchord\Craft\Language\One Page Overview Document.md)
+        - **Literature**
+          - [Lord of the Dance](.\NeuronFarm\bōchord\Craft\Literature\Lord of the Dance.md)
+          - [The Folk of Middle Earth](.\NeuronFarm\bōchord\Craft\Literature\The Folk of Middle Earth.md)
+      - **Inner Life**
+        - **Philosophy**
+          - [Practicing Kindness](.\NeuronFarm\bōchord\Inner Life\Philosophy\Practicing Kindness.md)
+          - [Radical Acceptance](.\NeuronFarm\bōchord\Inner Life\Philosophy\Radical Acceptance.md)
+          - [The Four Buddhist Mantras for Turning Fear into Love](.\NeuronFarm\bōchord\Inner Life\Philosophy\The Four Buddhist Mantras for Turning Fear into Love.md)
+          - [Virtues are Habits we Acquire](.\NeuronFarm\bōchord\Inner Life\Philosophy\Virtues are Habits we Acquire.md)
+        - **Quotes**
+          - [Anything Endless](.\NeuronFarm\bōchord\Inner Life\Quotes\Anything Endless.md)
+          - [No Hope, No Despair](.\NeuronFarm\bōchord\Inner Life\Quotes\No Hope, No Despair.md)
+        - **Theology**
+          - [A Liturgy for Domestic Days](.\NeuronFarm\bōchord\Inner Life\Theology\A Liturgy for Domestic Days.md)
+          - [Reflections on Faith and Politics](.\NeuronFarm\bōchord\Inner Life\Theology\Reflections on Faith and Politics.md)
+          - [Stop Sneering and Get to Work](.\NeuronFarm\bōchord\Inner Life\Theology\Stop Sneering and Get to Work.md)
+      - **Toil**
+        - [Agile](.\NeuronFarm\bōchord\Toil\Agile.md)
+        - [How well do you know your people](.\NeuronFarm\bōchord\Toil\How well do you know your people.md)
+        - [Index_Leadership](.\NeuronFarm\bōchord\Toil\Index_Leadership.md)
+      - **Wonder**
+        - [Universe Size](.\NeuronFarm\bōchord\Wonder\Universe Size.md)
+    - **Central Bureaucracy**
+      - [_Index_of_Central Bureaucracy](.\NeuronFarm\Central Bureaucracy\_Index_of_Central Bureaucracy.md)
+      - [Backlog](.\NeuronFarm\Central Bureaucracy\Backlog.md)
+      - [Bathrooms](.\NeuronFarm\Central Bureaucracy\Bathrooms.md)
+      - [BDC](.\NeuronFarm\Central Bureaucracy\BDC.md)
+      - [Central Bureaucracy](.\NeuronFarm\Central Bureaucracy\Central Bureaucracy.md)
+      - [Cloud Weather Station](.\NeuronFarm\Central Bureaucracy\Cloud Weather Station.md)
+      - [Contract Rummy](.\NeuronFarm\Central Bureaucracy\Contract Rummy.md)
+      - [Index_Central Bureaucracy](.\NeuronFarm\Central Bureaucracy\Index_Central Bureaucracy.md)
+      - [Menu](.\NeuronFarm\Central Bureaucracy\Menu.md)
+      - [Paper Pusher HQ](.\NeuronFarm\Central Bureaucracy\Paper Pusher HQ.md)
+      - [Philips Hue API](.\NeuronFarm\Central Bureaucracy\Philips Hue API.md)
+      - [Procreate Brushes](.\NeuronFarm\Central Bureaucracy\Procreate Brushes.md)
+      - [Wine](.\NeuronFarm\Central Bureaucracy\Wine.md)
+      - [Wishlist](.\NeuronFarm\Central Bureaucracy\Wishlist.md)
+      - **Field Trips**
+        - [_Index_of_Field Trips](.\NeuronFarm\Central Bureaucracy\Field Trips\_Index_of_Field Trips.md)
+        - [Field Trips](.\NeuronFarm\Central Bureaucracy\Field Trips\Field Trips.md)
+        - [Index_Field Trips](.\NeuronFarm\Central Bureaucracy\Field Trips\Index_Field Trips.md)
+        - **Checklists**
+          - [_Index_of_Checklists](.\NeuronFarm\Central Bureaucracy\Field Trips\Checklists\_Index_of_Checklists.md)
+          - [32.01 Camper Trailer](.\NeuronFarm\Central Bureaucracy\Field Trips\Checklists\32.01 Camper Trailer.md)
+          - [Camper Checklists](.\NeuronFarm\Central Bureaucracy\Field Trips\Checklists\Camper Checklists.md)
+          - [Camping Boxes](.\NeuronFarm\Central Bureaucracy\Field Trips\Checklists\Camping Boxes.md)
+          - [Checklists](.\NeuronFarm\Central Bureaucracy\Field Trips\Checklists\Checklists.md)
+          - [Index_Checklists](.\NeuronFarm\Central Bureaucracy\Field Trips\Checklists\Index_Checklists.md)
+        - **Holidays**
+          - [_Index_of_Holidays](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\_Index_of_Holidays.md)
+          - [31.01  Berry Festival](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\31.01  Berry Festival.md)
+          - [31.01 Caravan Park](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\31.01 Caravan Park.md)
+          - [31.01 Stanthorpe 1](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\31.01 Stanthorpe 1.md)
+          - [31.01 Stanthorpe](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\31.01 Stanthorpe.md)
+          - [DH - Stats](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\DH - Stats.md)
+          - [Holidays](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\Holidays.md)
+          - [Index_Holidays](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\Index_Holidays.md)
+          - **31.2112 Natural Bridge**
+            - [_Index_of_31.2112 Natural Bridge](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\31.2112 Natural Bridge\_Index_of_31.2112 Natural Bridge.md)
+            - [31.2112 Natural Bridge](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\31.2112 Natural Bridge\31.2112 Natural Bridge.md)
+            - [Index_31.2112 Natural Bridge](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\31.2112 Natural Bridge\Index_31.2112 Natural Bridge.md)
+          - **312 Dragon Calling**
+            - [_Index_of_312 Dragon Calling](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\312 Dragon Calling\_Index_of_312 Dragon Calling.md)
+            - [312 Dragon Calling](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\312 Dragon Calling\312 Dragon Calling.md)
+            - [Index_312 Dragon Calling](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\312 Dragon Calling\Index_312 Dragon Calling.md)
+            - [Porcupine Gorge](.\NeuronFarm\Central Bureaucracy\Field Trips\Holidays\312 Dragon Calling\Porcupine Gorge.md)
+        - **Index**
+          - [_Index_of_Index](.\NeuronFarm\Central Bureaucracy\Field Trips\Index\_Index_of_Index.md)
+          - [Dino Hunt](.\NeuronFarm\Central Bureaucracy\Field Trips\Index\Dino Hunt.md)
+          - [Index_Index](.\NeuronFarm\Central Bureaucracy\Field Trips\Index\Index_Index.md)
+        - **Notes**
+          - [_Index_of_Notes](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\_Index_of_Notes.md)
+          - [2022 Orchestra](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2022 Orchestra.md)
+          - [Aramac](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Aramac.md)
+          - [Brad's Big Adventure](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Brad's Big Adventure.md)
+          - [Camping Cookbook](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Camping Cookbook.md)
+          - [Cloncurry](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Cloncurry.md)
+          - [DH - Food](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH - Food.md)
+          - [DH Costs](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH Costs.md)
+          - [DH Itinerary - Accomadation 1](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH Itinerary - Accomadation 1.md)
+          - [DH Itinerary - Accomadation](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH Itinerary - Accomadation.md)
+          - [DH Itinerary - Attractions](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH Itinerary - Attractions.md)
+          - [DH Itinerary - Driving](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH Itinerary - Driving.md)
+          - [DH Itinerary - Full](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH Itinerary - Full.md)
+          - [DH Itinerary Full](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\DH Itinerary Full.md)
+          - [Dinosaurs](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Dinosaurs.md)
+          - [Foxbar Falls](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Foxbar Falls.md)
+          - [Gold Coast](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Gold Coast.md)
+          - [Hughenden](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Hughenden.md)
+          - [Index_Notes](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Index_Notes.md)
+          - [Julia Creek](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Julia Creek.md)
+          - [Kookaburra Park](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Kookaburra Park.md)
+          - [Lake Sommerset](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Lake Sommerset.md)
+          - [MaMa Country](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\MaMa Country.md)
+          - [Mouses House](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Mouses House.md)
+          - [Muttaburra](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Muttaburra.md)
+          - [Notes](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Notes.md)
+          - [Porcupine Gorge National Park](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Porcupine Gorge National Park.md)
+          - [Pottsville](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Pottsville.md)
+          - [Richmond](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\Richmond.md)
+          - **2023**
+            - [_Index_of_2023](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2023\_Index_of_2023.md)
+            - [2023](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2023\2023.md)
+            - [Brisbane Getaway](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2023\Brisbane Getaway.md)
+            - [Gold Coast](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2023\Gold Coast.md)
+            - [Index_2023](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2023\Index_2023.md)
+          - **2024**
+            - [_Index_of_2024](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2024\_Index_of_2024.md)
+            - [2024](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2024\2024.md)
+            - [Charleville Itinerary](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2024\Charleville Itinerary.md)
+            - [Index_2024](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2024\Index_2024.md)
+            - [Melbourne - Accounting](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2024\Melbourne - Accounting.md)
+            - [Melbourne - Itinerary](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2024\Melbourne - Itinerary.md)
+            - [Melbourne](.\NeuronFarm\Central Bureaucracy\Field Trips\Notes\2024\Melbourne.md)
+            - **images**
+        - **Resources**
+      - **images**
+      - **Notes**
+        - [_Index_of_Notes](.\NeuronFarm\Central Bureaucracy\Notes\_Index_of_Notes.md)
+        - [Budget](.\NeuronFarm\Central Bureaucracy\Notes\Budget.md)
+        - [Index_Notes](.\NeuronFarm\Central Bureaucracy\Notes\Index_Notes.md)
+        - [Kids Schedule](.\NeuronFarm\Central Bureaucracy\Notes\Kids Schedule.md)
+        - [Notes](.\NeuronFarm\Central Bureaucracy\Notes\Notes.md)
+        - [Office Upgrade](.\NeuronFarm\Central Bureaucracy\Notes\Office Upgrade.md)
+        - [Planner](.\NeuronFarm\Central Bureaucracy\Notes\Planner.md)
+        - [Pocket Money](.\NeuronFarm\Central Bureaucracy\Notes\Pocket Money.md)
+      - **Products**
+        - [_Index_of_Products](.\NeuronFarm\Central Bureaucracy\Products\_Index_of_Products.md)
+        - [Index_Products](.\NeuronFarm\Central Bureaucracy\Products\Index_Products.md)
+        - [Monitor](.\NeuronFarm\Central Bureaucracy\Products\Monitor.md)
+        - [Products](.\NeuronFarm\Central Bureaucracy\Products\Products.md)
+        - [Speaker](.\NeuronFarm\Central Bureaucracy\Products\Speaker.md)
+      - **Stories**
+        - [_Index_of_Stories](.\NeuronFarm\Central Bureaucracy\Stories\_Index_of_Stories.md)
+        - [Index_Stories](.\NeuronFarm\Central Bureaucracy\Stories\Index_Stories.md)
+        - [Stories](.\NeuronFarm\Central Bureaucracy\Stories\Stories.md)
+        - [The Tornado's Rampage](.\NeuronFarm\Central Bureaucracy\Stories\The Tornado's Rampage.md)
+        - [Tinsel the ELF](.\NeuronFarm\Central Bureaucracy\Stories\Tinsel the ELF.md)
+      - **Wishlist**
+        - [_Index_of_Wishlist](.\NeuronFarm\Central Bureaucracy\Wishlist\_Index_of_Wishlist.md)
+        - [Index_Wishlist](.\NeuronFarm\Central Bureaucracy\Wishlist\Index_Wishlist.md)
+        - [iPad](.\NeuronFarm\Central Bureaucracy\Wishlist\iPad.md)
+        - [iPhone](.\NeuronFarm\Central Bureaucracy\Wishlist\iPhone.md)
+        - [Lodge Wifi](.\NeuronFarm\Central Bureaucracy\Wishlist\Lodge Wifi.md)
+        - [Office Speaker](.\NeuronFarm\Central Bureaucracy\Wishlist\Office Speaker.md)
+        - [Wishlist](.\NeuronFarm\Central Bureaucracy\Wishlist\Wishlist.md)
+      - **Wizardry**
+        - [_Index_of_Wizardry](.\NeuronFarm\Central Bureaucracy\Wizardry\_Index_of_Wizardry.md)
+        - [Index_Wizardry](.\NeuronFarm\Central Bureaucracy\Wizardry\Index_Wizardry.md)
+        - [Radzen](.\NeuronFarm\Central Bureaucracy\Wizardry\Radzen.md)
+        - [Wizardry](.\NeuronFarm\Central Bureaucracy\Wizardry\Wizardry.md)
+    - **Codex**
+      - [_Index_of_Codex](.\NeuronFarm\Codex\_Index_of_Codex.md)
+      - [Codex](.\NeuronFarm\Codex\Codex.md)
+      - [Index_Codex](.\NeuronFarm\Codex\Index_Codex.md)
+      - **720 PD**
+        - [_Index_of_720 PD](.\NeuronFarm\Codex\720 PD\_Index_of_720 PD.md)
+        - [7-7-7 Exercise](.\NeuronFarm\Codex\720 PD\7-7-7 Exercise.md)
+        - [720 PD](.\NeuronFarm\Codex\720 PD\720 PD.md)
+        - [Abandon, Embrace](.\NeuronFarm\Codex\720 PD\Abandon, Embrace.md)
+        - [Brain Dump](.\NeuronFarm\Codex\720 PD\Brain Dump.md)
+        - [Don't Objectify Yourself](.\NeuronFarm\Codex\720 PD\Don't Objectify Yourself.md)
+        - [Five Step Sleep Method](.\NeuronFarm\Codex\720 PD\Five Step Sleep Method.md)
+        - [Habits to Raise Successful Kids](.\NeuronFarm\Codex\720 PD\Habits to Raise Successful Kids.md)
+        - [How to Introduce Yourself](.\NeuronFarm\Codex\720 PD\How to Introduce Yourself.md)
+        - [How to Love](.\NeuronFarm\Codex\720 PD\How to Love.md)
+        - [How to Pose Your Face](.\NeuronFarm\Codex\720 PD\How to Pose Your Face.md)
+        - [Index_720 PD](.\NeuronFarm\Codex\720 PD\Index_720 PD.md)
+        - [Responding to Kids Behaviour](.\NeuronFarm\Codex\720 PD\Responding to Kids Behaviour.md)
+        - [Teaching Mentally Strong Children](.\NeuronFarm\Codex\720 PD\Teaching Mentally Strong Children.md)
+        - [Weekly One Touch Review](.\NeuronFarm\Codex\720 PD\Weekly One Touch Review.md)
+      - **Books**
+        - [A Waltz for Matilda](.\NeuronFarm\Codex\Books\A Waltz for Matilda.md)
+        - [Beowulf](.\NeuronFarm\Codex\Books\Beowulf.md)
+        - [Colour Demystified](.\NeuronFarm\Codex\Books\Colour Demystified.md)
+        - [Hero of two Worlds](.\NeuronFarm\Codex\Books\Hero of two Worlds.md)
+        - [How to Relax](.\NeuronFarm\Codex\Books\How to Relax.md)
+        - [Index_Books](.\NeuronFarm\Codex\Books\Index_Books.md)
+        - [Jurrasic Park Visual History](.\NeuronFarm\Codex\Books\Jurrasic Park Visual History.md)
+        - [Make it So](.\NeuronFarm\Codex\Books\Make it So.md)
+        - [Mind Mgmt Omnibus Part 1](.\NeuronFarm\Codex\Books\Mind Mgmt Omnibus Part 1.md)
+        - [Moving Pictures](.\NeuronFarm\Codex\Books\Moving Pictures.md)
+        - [Pharaoh](.\NeuronFarm\Codex\Books\Pharaoh.md)
+        - [Revelation Space](.\NeuronFarm\Codex\Books\Revelation Space.md)
+        - [Roadside Picnic](.\NeuronFarm\Codex\Books\Roadside Picnic.md)
+        - [The Fall of Gondolin](.\NeuronFarm\Codex\Books\The Fall of Gondolin.md)
+        - [The Secret Life of Hidden Places](.\NeuronFarm\Codex\Books\The Secret Life of Hidden Places.md)
+        - [The Story of Australia's History](.\NeuronFarm\Codex\Books\The Story of Australia's History.md)
+        - [The Two Towers](.\NeuronFarm\Codex\Books\The Two Towers.md)
+      - **Hairy Tails**
+        - [_Index_of_Hairy Tails](.\NeuronFarm\Codex\Hairy Tails\_Index_of_Hairy Tails.md)
+        - [Bronze Quoll](.\NeuronFarm\Codex\Hairy Tails\Bronze Quoll.md)
+        - [Hairy Tails](.\NeuronFarm\Codex\Hairy Tails\Hairy Tails.md)
+        - [Index_Hairy Tails](.\NeuronFarm\Codex\Hairy Tails\Index_Hairy Tails.md)
+        - [Kenngoor](.\NeuronFarm\Codex\Hairy Tails\Kenngoor.md)
+        - [New Guinean Quoll](.\NeuronFarm\Codex\Hairy Tails\New Guinean Quoll.md)
+        - [Numbat](.\NeuronFarm\Codex\Hairy Tails\Numbat.md)
+        - [Quoll](.\NeuronFarm\Codex\Hairy Tails\Quoll.md)
+        - [Tiger Quoll](.\NeuronFarm\Codex\Hairy Tails\Tiger Quoll.md)
+        - [Tuan](.\NeuronFarm\Codex\Hairy Tails\Tuan.md)
+        - [Wambengers](.\NeuronFarm\Codex\Hairy Tails\Wambengers.md)
+        - [Western Quoll](.\NeuronFarm\Codex\Hairy Tails\Western Quoll.md)
+      - **Index**
+        - [_Index_of_Index](.\NeuronFarm\Codex\Index\_Index_of_Index.md)
+        - [720 Personal Development](.\NeuronFarm\Codex\Index\720 Personal Development.md)
+        - [Better Living](.\NeuronFarm\Codex\Index\Better Living.md)
+        - [Books](.\NeuronFarm\Codex\Index\Books.md)
+        - [Chaos to Clarity](.\NeuronFarm\Codex\Index\Chaos to Clarity.md)
+        - [Index_Index](.\NeuronFarm\Codex\Index\Index_Index.md)
+        - [Life Goals](.\NeuronFarm\Codex\Index\Life Goals.md)
+        - [Master In Pile](.\NeuronFarm\Codex\Index\Master In Pile.md)
+        - [Prayers](.\NeuronFarm\Codex\Index\Prayers.md)
+    - **Recipies**
+      - [Index_Recipies](.\NeuronFarm\Recipies\Index_Recipies.md)
+      - [Recipies](.\NeuronFarm\Recipies\Recipies.md)
+      - [Sides](.\NeuronFarm\Recipies\Sides.md)
+      - **Codex**
+        - [_Index_of_Codex](.\NeuronFarm\Recipies\Codex\_Index_of_Codex.md)
+        - [Balsamic Vinaigrette](.\NeuronFarm\Recipies\Codex\Balsamic Vinaigrette.md)
+        - [Banana Bread](.\NeuronFarm\Recipies\Codex\Banana Bread.md)
+        - [Basic Braised Beef](.\NeuronFarm\Recipies\Codex\Basic Braised Beef.md)
+        - [Basic Salsa Verde](.\NeuronFarm\Recipies\Codex\Basic Salsa Verde.md)
+        - [Biscuit Cream Filling](.\NeuronFarm\Recipies\Codex\Biscuit Cream Filling.md)
+        - [Black Bean Beef and Broccoli](.\NeuronFarm\Recipies\Codex\Black Bean Beef and Broccoli.md)
+        - [blæd](.\NeuronFarm\Recipies\Codex\blæd.md)
+        - [Brined Turkey or Pork](.\NeuronFarm\Recipies\Codex\Brined Turkey or Pork.md)
+        - [Brown Butter](.\NeuronFarm\Recipies\Codex\Brown Butter.md)
+        - [Bunya Nut & Bacon Roll](.\NeuronFarm\Recipies\Codex\Bunya Nut & Bacon Roll.md)
+        - [Bunya Nut Biscuits](.\NeuronFarm\Recipies\Codex\Bunya Nut Biscuits.md)
+        - [Bunya Nut Damper](.\NeuronFarm\Recipies\Codex\Bunya Nut Damper.md)
+        - [Bunya Nuts](.\NeuronFarm\Recipies\Codex\Bunya Nuts.md)
+        - [Chicken Teriyaki](.\NeuronFarm\Recipies\Codex\Chicken Teriyaki.md)
+        - [Chocolate Biscuits](.\NeuronFarm\Recipies\Codex\Chocolate Biscuits.md)
+        - [Chocolate Cake](.\NeuronFarm\Recipies\Codex\Chocolate Cake.md)
+        - [Chocolate Layer Cake](.\NeuronFarm\Recipies\Codex\Chocolate Layer Cake.md)
+        - [Chocolate Water Ganache](.\NeuronFarm\Recipies\Codex\Chocolate Water Ganache.md)
+        - [Christmas Lego](.\NeuronFarm\Recipies\Codex\Christmas Lego.md)
+        - [Codex](.\NeuronFarm\Recipies\Codex\Codex.md)
+        - [Easy Flatbread](.\NeuronFarm\Recipies\Codex\Easy Flatbread.md)
+        - [Glazed Five-Spice Chicken](.\NeuronFarm\Recipies\Codex\Glazed Five-Spice Chicken.md)
+        - [Ground Beef Taco](.\NeuronFarm\Recipies\Codex\Ground Beef Taco.md)
+        - [Gyoza (Japanese dumplings)](.\NeuronFarm\Recipies\Codex\Gyoza (Japanese dumplings).md)
+        - [High Protein Foods](.\NeuronFarm\Recipies\Codex\High Protein Foods.md)
+        - [How to Use Sugar Paste](.\NeuronFarm\Recipies\Codex\How to Use Sugar Paste.md)
+        - [Index_Codex](.\NeuronFarm\Recipies\Codex\Index_Codex.md)
+        - [Korean Beef Bulgogi Recipe](.\NeuronFarm\Recipies\Codex\Korean Beef Bulgogi Recipe.md)
+        - [Lasagne](.\NeuronFarm\Recipies\Codex\Lasagne.md)
+        - [Lemony Lentils and Rice With Caramelized Onions](.\NeuronFarm\Recipies\Codex\Lemony Lentils and Rice With Caramelized Onions.md)
+        - [Lentils](.\NeuronFarm\Recipies\Codex\Lentils.md)
+        - [Light and Flaky Buttermilk Biscuits](.\NeuronFarm\Recipies\Codex\Light and Flaky Buttermilk Biscuits.md)
+        - [Mandazi](.\NeuronFarm\Recipies\Codex\Mandazi.md)
+        - [No-bake Chocolate Tart](.\NeuronFarm\Recipies\Codex\No-bake Chocolate Tart.md)
+        - [Olive Oil Magic Shell](.\NeuronFarm\Recipies\Codex\Olive Oil Magic Shell.md)
+        - [Overnight Chia Seed Pudding](.\NeuronFarm\Recipies\Codex\Overnight Chia Seed Pudding.md)
+        - [Overnight Oats](.\NeuronFarm\Recipies\Codex\Overnight Oats.md)
+        - [Pork Belly Popcorn](.\NeuronFarm\Recipies\Codex\Pork Belly Popcorn.md)
+        - [Pork Dumplings](.\NeuronFarm\Recipies\Codex\Pork Dumplings.md)
+        - [Pork Meatballs](.\NeuronFarm\Recipies\Codex\Pork Meatballs.md)
+        - [Red Velvet Cake](.\NeuronFarm\Recipies\Codex\Red Velvet Cake.md)
+        - [Salsa Verda](.\NeuronFarm\Recipies\Codex\Salsa Verda.md)
+        - [Shortbread](.\NeuronFarm\Recipies\Codex\Shortbread.md)
+        - [Sicilian Oregano Sauce](.\NeuronFarm\Recipies\Codex\Sicilian Oregano Sauce.md)
+        - [Simple Beef Lasagne](.\NeuronFarm\Recipies\Codex\Simple Beef Lasagne.md)
+        - [Simple Loaf](.\NeuronFarm\Recipies\Codex\Simple Loaf.md)
+        - [Simple Waffles](.\NeuronFarm\Recipies\Codex\Simple Waffles.md)
+        - [Snickerdoodle Cookies](.\NeuronFarm\Recipies\Codex\Snickerdoodle Cookies.md)
+        - [Socca (Chickpea Flatbread)](.\NeuronFarm\Recipies\Codex\Socca (Chickpea Flatbread).md)
+        - [Sourdough Loaf](.\NeuronFarm\Recipies\Codex\Sourdough Loaf.md)
+        - [Spelt Pancakes](.\NeuronFarm\Recipies\Codex\Spelt Pancakes.md)
+        - [Spinach Lentil Dal](.\NeuronFarm\Recipies\Codex\Spinach Lentil Dal.md)
+        - [Strawberry Cupcakes](.\NeuronFarm\Recipies\Codex\Strawberry Cupcakes.md)
+        - [Swiss Meringue Buttercream](.\NeuronFarm\Recipies\Codex\Swiss Meringue Buttercream.md)
+        - [Tempering Chocolate](.\NeuronFarm\Recipies\Codex\Tempering Chocolate.md)
+        - [Toasted Sugar](.\NeuronFarm\Recipies\Codex\Toasted Sugar.md)
+        - [Turkish Chicken Kebab (Tavuk Şiş)](.\NeuronFarm\Recipies\Codex\Turkish Chicken Kebab (Tavuk Şiş).md)
+        - [Vanilla Buttercream](.\NeuronFarm\Recipies\Codex\Vanilla Buttercream.md)
+        - [Vanilla Ice Cream](.\NeuronFarm\Recipies\Codex\Vanilla Ice Cream.md)
+        - [Vanilla Mug Cake](.\NeuronFarm\Recipies\Codex\Vanilla Mug Cake.md)
+        - [Vanilla Snap Cookies](.\NeuronFarm\Recipies\Codex\Vanilla Snap Cookies.md)
+        - [Whipped Peanut Butter Icing](.\NeuronFarm\Recipies\Codex\Whipped Peanut Butter Icing.md)
+        - **images**
+      - **Index**
+        - [_Index_of_Index](.\NeuronFarm\Recipies\Index\_Index_of_Index.md)
+        - [Baking](.\NeuronFarm\Recipies\Index\Baking.md)
+        - [Breakfast](.\NeuronFarm\Recipies\Index\Breakfast.md)
+        - [Index_Index](.\NeuronFarm\Recipies\Index\Index_Index.md)
+        - [Ingredients](.\NeuronFarm\Recipies\Index\Ingredients.md)
+        - [Mains](.\NeuronFarm\Recipies\Index\Mains.md)
+    - **Resources**
+      - [Index_Resources](.\NeuronFarm\Resources\Index_Resources.md)
+      - **Images**
+      - **Scripts**
+      - **Templates**
+        - [_blæd](.\NeuronFarm\Resources\Templates\_blæd.md)
+        - [BooksHeader](.\NeuronFarm\Resources\Templates\BooksHeader.md)
+        - [Journal](.\NeuronFarm\Resources\Templates\Journal.md)
+        - [NewsletterFooter](.\NeuronFarm\Resources\Templates\NewsletterFooter.md)
+        - [NewsletterHeader](.\NeuronFarm\Resources\Templates\NewsletterHeader.md)
+        - [NoteHeader](.\NeuronFarm\Resources\Templates\NoteHeader.md)
+        - [RecipiesFooter](.\NeuronFarm\Resources\Templates\RecipiesFooter.md)
+        - [RecipiesHeader](.\NeuronFarm\Resources\Templates\RecipiesHeader.md)
+    - **Shadow Ledger**
+      - [_Index_of_Shadow Ledger](.\NeuronFarm\Shadow Ledger\_Index_of_Shadow Ledger.md)
+      - [2024](.\NeuronFarm\Shadow Ledger\2024.md)
+      - [Cardio](.\NeuronFarm\Shadow Ledger\Cardio.md)
+      - [Hercules](.\NeuronFarm\Shadow Ledger\Hercules.md)
+      - [Index_Shadow Ledger](.\NeuronFarm\Shadow Ledger\Index_Shadow Ledger.md)
+      - [Rewards](.\NeuronFarm\Shadow Ledger\Rewards.md)
+      - [Shadow Ledger](.\NeuronFarm\Shadow Ledger\Shadow Ledger.md)
+      - [Strength Training](.\NeuronFarm\Shadow Ledger\Strength Training.md)
+      - [Week 35 - Dizzy Sound](.\NeuronFarm\Shadow Ledger\Week 35 - Dizzy Sound.md)
+      - **2024 - Moribund Aardvark**
+        - [_Index_of_2024 - Moribund Aardvark](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\_Index_of_2024 - Moribund Aardvark.md)
+        - [2024 - Moribund Aardvark](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024 - Moribund Aardvark.md)
+        - [2024-07-08](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-08.md)
+        - [2024-07-09 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-09 Tuesday.md)
+        - [2024-07-10 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-10 Wednesday.md)
+        - [2024-07-12 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-12 Friday.md)
+        - [2024-07-14 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-14 Sunday.md)
+        - [2024-07-15 Monday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-15 Monday.md)
+        - [2024-07-18 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-18 Thursday.md)
+        - [2024-07-27 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-27 Saturday.md)
+        - [2024-07-28 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-07-28 Sunday.md)
+        - [2024-08-02 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-02 Friday.md)
+        - [2024-08-07 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-07 Wednesday.md)
+        - [2024-08-12 Monday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-12 Monday.md)
+        - [2024-08-13 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-13 Tuesday.md)
+        - [2024-08-14 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-14 Wednesday.md)
+        - [2024-08-16 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-16 Friday.md)
+        - [2024-08-17 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-17 Saturday.md)
+        - [2024-08-19 Monday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-19 Monday.md)
+        - [2024-08-20 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-20 Tuesday.md)
+        - [2024-08-21 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-21 Wednesday.md)
+        - [2024-08-23 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-23 Friday.md)
+        - [2024-08-24 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-24 Saturday.md)
+        - [2024-08-25 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-25 Sunday.md)
+        - [2024-08-26 Monday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-26 Monday.md)
+        - [2024-08-27 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-27 Tuesday.md)
+        - [2024-08-28 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-28 Wednesday.md)
+        - [2024-08-29 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-08-29 Thursday.md)
+        - [2024-09-01 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-01 Sunday.md)
+        - [2024-09-06 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-06 Friday.md)
+        - [2024-09-07 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-07 Saturday.md)
+        - [2024-09-08 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-08 Sunday.md)
+        - [2024-09-09 Monday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-09 Monday.md)
+        - [2024-09-10 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-10 Tuesday.md)
+        - [2024-09-11 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-11 Wednesday.md)
+        - [2024-09-12 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-12 Thursday.md)
+        - [2024-09-25 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-25 Wednesday.md)
+        - [2024-09-30 Monday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-09-30 Monday.md)
+        - [2024-10-01 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-10-01 Tuesday.md)
+        - [2024-10-03 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-10-03 Thursday.md)
+        - [2024-10-04 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-10-04 Friday.md)
+        - [2024-10-13 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-10-13 Sunday.md)
+        - [2024-10-15 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-10-15 Tuesday.md)
+        - [2024-10-16 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-10-16 Wednesday.md)
+        - [2024-10-22 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-10-22 Tuesday.md)
+        - [2024-11-03 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-03 Sunday.md)
+        - [2024-11-05 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-05 Tuesday.md)
+        - [2024-11-06 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-06 Wednesday.md)
+        - [2024-11-17 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-17 Sunday.md)
+        - [2024-11-24 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-24 Sunday.md)
+        - [2024-11-25 Monday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-25 Monday.md)
+        - [2024-11-26 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-26 Tuesday.md)
+        - [2024-11-28 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-28 Thursday.md)
+        - [2024-11-29 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-11-29 Friday.md)
+        - [2024-12-03 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-12-03 Tuesday.md)
+        - [2024-12-08 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-12-08 Sunday.md)
+        - [2024-12-12 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-12-12 Thursday.md)
+        - [2024-12-14 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2024-12-14 Saturday.md)
+        - [2025-01-01 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-01-01 Wednesday.md)
+        - [2025-01-02 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-01-02 Thursday.md)
+        - [2025-01-03 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-01-03 Friday.md)
+        - [2025-01-05 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-01-05 Sunday.md)
+        - [2025-01-08 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-01-08 Wednesday.md)
+        - [2025-01-10 Friday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-01-10 Friday.md)
+        - [2025-01-11 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-01-11 Saturday.md)
+        - [2025-02-01 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-02-01 Saturday.md)
+        - [2025-02-22 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-02-22 Saturday.md)
+        - [2025-02-23 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-02-23 Sunday.md)
+        - [2025-02-25 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-02-25 Tuesday.md)
+        - [2025-02-26 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-02-26 Wednesday.md)
+        - [2025-02-27 Thursday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-02-27 Thursday.md)
+        - [2025-03-01 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-03-01 Saturday.md)
+        - [2025-03-02 Sunday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-03-02 Sunday.md)
+        - [2025-03-12 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-03-12 Wednesday.md)
+        - [2025-03-15 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-03-15 Saturday.md)
+        - [2025-03-19 Wednesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-03-19 Wednesday.md)
+        - [2025-04-12 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-04-12 Saturday.md)
+        - [2025-05-24 Saturday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-05-24 Saturday.md)
+        - [2025-05-27 Tuesday](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\2025-05-27 Tuesday.md)
+        - [Index_2024 - Moribund Aardvark](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\Index_2024 - Moribund Aardvark.md)
+        - [Untitled](.\NeuronFarm\Shadow Ledger\2024 - Moribund Aardvark\Untitled.md)
+      - **Newsletters**
+        - [_Index_of_Newsletters](.\NeuronFarm\Shadow Ledger\Newsletters\_Index_of_Newsletters.md)
+        - [Index_Newsletters](.\NeuronFarm\Shadow Ledger\Newsletters\Index_Newsletters.md)
+        - [Newsletters](.\NeuronFarm\Shadow Ledger\Newsletters\Newsletters.md)
+        - [Week 28 - Great Frog](.\NeuronFarm\Shadow Ledger\Newsletters\Week 28 - Great Frog.md)
+        - [Week 29 - Tiny Crow](.\NeuronFarm\Shadow Ledger\Newsletters\Week 29 - Tiny Crow.md)
+        - [Week 30 - Curly Moose](.\NeuronFarm\Shadow Ledger\Newsletters\Week 30 - Curly Moose.md)
+        - [Week 31 - Cute Bunny](.\NeuronFarm\Shadow Ledger\Newsletters\Week 31 - Cute Bunny.md)
+        - [Week 32 - Odd Pear](.\NeuronFarm\Shadow Ledger\Newsletters\Week 32 - Odd Pear.md)
+        - [Week 33 - Wise Snail](.\NeuronFarm\Shadow Ledger\Newsletters\Week 33 - Wise Snail.md)
+        - [Week 38 - Green Road](.\NeuronFarm\Shadow Ledger\Newsletters\Week 38 - Green Road.md)
+        - [Week 42 - Cute Spy](.\NeuronFarm\Shadow Ledger\Newsletters\Week 42 - Cute Spy.md)
+    - **Simmer & Stir**
+      - **Baking**
+        - [_Index_of_Baking](.\NeuronFarm\Simmer & Stir\Baking\_Index_of_Baking.md)
+        - [Baking](.\NeuronFarm\Simmer & Stir\Baking\Baking.md)
+        - [Index_Baking](.\NeuronFarm\Simmer & Stir\Baking\Index_Baking.md)
+        - [Steamed Jam Sponge](.\NeuronFarm\Simmer & Stir\Baking\Steamed Jam Sponge.md)
+      - **Breakfast**
+      - **Images**
+      - **Ingredients**
+        - [_Index_of_Ingredients](.\NeuronFarm\Simmer & Stir\Ingredients\_Index_of_Ingredients.md)
+        - [Index_Ingredients](.\NeuronFarm\Simmer & Stir\Ingredients\Index_Ingredients.md)
+        - [Ingredients](.\NeuronFarm\Simmer & Stir\Ingredients\Ingredients.md)
+        - **Sauces**
+          - [_Index_of_Sauces](.\NeuronFarm\Simmer & Stir\Ingredients\Sauces\_Index_of_Sauces.md)
+          - [Apricot Glaze](.\NeuronFarm\Simmer & Stir\Ingredients\Sauces\Apricot Glaze.md)
+          - [Index_Sauces](.\NeuronFarm\Simmer & Stir\Ingredients\Sauces\Index_Sauces.md)
+          - [Sauces](.\NeuronFarm\Simmer & Stir\Ingredients\Sauces\Sauces.md)
+          - [Sweet & Sour Stir Fry Sauce](.\NeuronFarm\Simmer & Stir\Ingredients\Sauces\Sweet & Sour Stir Fry Sauce.md)
+      - **Mains**
+        - [Index_Mains](.\NeuronFarm\Simmer & Stir\Mains\Index_Mains.md)
+        - **Dough**
+          - [Index_Dough](.\NeuronFarm\Simmer & Stir\Mains\Dough\Index_Dough.md)
+          - [Sourdough Pizza](.\NeuronFarm\Simmer & Stir\Mains\Dough\Sourdough Pizza.md)
+          - **images**
+            - [Index_images](.\NeuronFarm\Simmer & Stir\Mains\Dough\images\Index_images.md)
+        - **Proteins**
+          - [Index_Proteins](.\NeuronFarm\Simmer & Stir\Mains\Proteins\Index_Proteins.md)
+          - [Sous vide](.\NeuronFarm\Simmer & Stir\Mains\Proteins\Sous vide.md)
+      - **Snacks**
+        - [Index_Snacks](.\NeuronFarm\Simmer & Stir\Snacks\Index_Snacks.md)
+        - [Jam Nut Bars](.\NeuronFarm\Simmer & Stir\Snacks\Jam Nut Bars.md)
+        - [Quick Eton Mess](.\NeuronFarm\Simmer & Stir\Snacks\Quick Eton Mess.md)
+  - **site**
+    - **.obsidian**
+      - **plugins**
+        - **webpage-html-export**
+    - **assets**
+      - **images**
+      - **javascripts**
+        - **workers**
+      - **stylesheets**
+        - **classic**
+        - **modern**
+    - **bochord**
+      - **blaed**
+        - **A Liturgy for Domestic Days**
+        - **Anything Endless**
+        - **No Hope, No Despair**
+      - **blæd**
+        - **A Liturgy for Domestic Days**
+        - **Anything Endless**
+        - **No Hope, No Despair**
+      - **Language**
+        - **Multimodal Narrative**
+        - **Old English Word Hoard**
+        - **One Page Overview Document**
+      - **Leadership**
+        - **Agile**
+        - **How well do you know your people**
+      - **Literature**
+        - **Lord of the Dance**
+        - **The Folk of Middle Earth**
+      - **Philosophy**
+        - **Index**
+        - **Practicing Kindness**
+        - **Radical Acceptance**
+        - **Reflections on Faith and Politics**
+        - **Stop Sneering and Get to Work**
+        - **The Four Buddhist Mantras for Turning Fear into Love**
+        - **Virtues are Habits we Acquire**
+      - **Tidbits**
+        - **Universe Size**
+    - **bōchord**
+      - **blæd**
+        - **A Liturgy for Domestic Days**
+        - **Anything Endless**
+        - **No Hope, No Despair**
+      - **Language**
+        - **Multimodal Narrative**
+        - **Old English Word Hoard**
+        - **One Page Overview Document**
+      - **Leadership**
+        - **Agile**
+        - **How well do you know your people**
+      - **Literature**
+        - **Lord of the Dance**
+        - **The Folk of Middle Earth**
+      - **Philosophy**
+        - **Index**
+        - **Practicing Kindness**
+        - **Radical Acceptance**
+        - **Reflections on Faith and Politics**
+        - **Stop Sneering and Get to Work**
+        - **The Four Buddhist Mantras for Turning Fear into Love**
+        - **Virtues are Habits we Acquire**
+      - **Tidbits**
+        - **Universe Size**
+    - **Central Bureaucracy**
+      - **_Index_of_Central Bureaucracy**
+      - **Backlog**
+      - **Bathrooms**
+      - **BDC**
+      - **Central Bureaucracy**
+      - **Cloud Weather Station**
+      - **Contract Rummy**
+      - **Field Trips**
+        - **_Index_of_Field Trips**
+        - **Checklists**
+          - **_Index_of_Checklists**
+          - **32.01 Camper Trailer**
+          - **Camper Checklists**
+          - **Camping Boxes**
+          - **Checklists**
+          - **Index_Checklists**
+        - **Field Trips**
+        - **Holidays**
+          - **_Index_of_Holidays**
+          - **31.01  Berry Festival**
+          - **31.01 Caravan Park**
+          - **31.01 Stanthorpe**
+          - **31.01 Stanthorpe 1**
+          - **31.2112 Natural Bridge**
+            - **_Index_of_31.2112 Natural Bridge**
+            - **31.2112 Natural Bridge**
+            - **Index_31.2112 Natural Bridge**
+          - **312 Dragon Calling**
+            - **_Index_of_312 Dragon Calling**
+            - **312 Dragon Calling**
+            - **Index_312 Dragon Calling**
+            - **Porcupine Gorge**
+          - **DH - Stats**
+          - **Holidays**
+          - **Index_Holidays**
+        - **Index**
+          - **_Index_of_Index**
+          - **Dino Hunt**
+          - **Index**
+          - **Index_Index**
+        - **Index_Field Trips**
+        - **Notes**
+          - **_Index_of_Notes**
+          - **2022 Orchestra**
+          - **2023**
+            - **_Index_of_2023**
+            - **2023**
+            - **Brisbane Getaway**
+            - **Gold Coast**
+            - **Index_2023**
+          - **2024**
+            - **_Index_of_2024**
+            - **2024**
+            - **Charleville Itinerary**
+            - **images**
+            - **Index_2024**
+            - **Melbourne**
+            - **Melbourne - Accounting**
+            - **Melbourne - Itinerary**
+          - **Aramac**
+          - **Brad's Big Adventure**
+          - **Camping Cookbook**
+          - **Cloncurry**
+          - **DH - Food**
+          - **DH Costs**
+          - **DH Itinerary - Accomadation**
+          - **DH Itinerary - Accomadation 1**
+          - **DH Itinerary - Attractions**
+          - **DH Itinerary - Driving**
+          - **DH Itinerary - Full**
+          - **DH Itinerary Full**
+          - **Dinosaurs**
+          - **Foxbar Falls**
+          - **Gold Coast**
+          - **Hughenden**
+          - **Index_Notes**
+          - **Julia Creek**
+          - **Kookaburra Park**
+          - **Lake Sommerset**
+          - **MaMa Country**
+          - **Mouses House**
+          - **Muttaburra**
+          - **Notes**
+          - **Porcupine Gorge National Park**
+          - **Pottsville**
+          - **Richmond**
+      - **images**
+      - **Index_Central Bureaucracy**
+      - **Menu**
+      - **Notes**
+        - **_Index_of_Notes**
+        - **Budget**
+        - **Index_Notes**
+        - **Kids Schedule**
+        - **Notes**
+        - **Office Upgrade**
+        - **Planner**
+        - **Pocket Money**
+      - **Paper Pusher HQ**
+      - **Philips Hue API**
+      - **Procreate Brushes**
+      - **Products**
+        - **_Index_of_Products**
+        - **Index_Products**
+        - **Monitor**
+        - **Products**
+        - **Speaker**
+      - **Stories**
+        - **_Index_of_Stories**
+        - **Index_Stories**
+        - **Stories**
+        - **The Tornado's Rampage**
+        - **Tinsel the ELF**
+      - **Wine**
+      - **Wishlist**
+        - **_Index_of_Wishlist**
+        - **Index_Wishlist**
+        - **iPad**
+        - **iPhone**
+        - **Lodge Wifi**
+        - **Office Speaker**
+        - **Wishlist**
+      - **Wizardry**
+        - **_Index_of_Wizardry**
+        - **Index_Wizardry**
+        - **Radzen**
+        - **Wizardry**
+    - **Codex**
+      - **_Index_of_Codex**
+      - **720 PD**
+        - **_Index_of_720 PD**
+        - **7-7-7 Exercise**
+        - **720 PD**
+        - **Abandon, Embrace**
+        - **Brain Dump**
+        - **Don't Objectify Yourself**
+        - **Five Step Sleep Method**
+        - **Habits to Raise Successful Kids**
+        - **How to Introduce Yourself**
+        - **How to Love**
+        - **How to Pose Your Face**
+        - **Index_720 PD**
+        - **Responding to Kids Behaviour**
+        - **Teaching Mentally Strong Children**
+        - **Weekly One Touch Review**
+      - **Books**
+        - **A Waltz for Matilda**
+        - **Beowulf**
+        - **Colour Demystified**
+        - **Hero of two Worlds**
+        - **How to Relax**
+        - **Jurrasic Park Visual History**
+        - **Make it So**
+        - **Mind Mgmt Omnibus Part 1**
+        - **Moving Pictures**
+        - **Pharaoh**
+        - **Revelation Space**
+        - **Roadside Picnic**
+        - **The Fall of Gondolin**
+        - **The Secret Life of Hidden Places**
+        - **The Story of Australia's History**
+        - **The Two Towers**
+      - **Codex**
+      - **Hairy Tails**
+        - **_Index_of_Hairy Tails**
+        - **Bronze Quoll**
+        - **Hairy Tails**
+        - **Index_Hairy Tails**
+        - **Kenngoor**
+        - **New Guinean Quoll**
+        - **Numbat**
+        - **Quoll**
+        - **Tiger Quoll**
+        - **Tuan**
+        - **Wambengers**
+        - **Western Quoll**
+      - **Index**
+        - **_Index_of_Index**
+        - **720 Personal Development**
+        - **Better Living**
+        - **Books**
+        - **Chaos to Clarity**
+        - **Index**
+        - **Index_Index**
+        - **Life Goals**
+        - **Master In Pile**
+        - **Prayers**
+      - **Index_Codex**
+    - **Field Trips**
+      - **Resources**
+    - **Images**
+    - **Recipies**
+      - **Codex**
+        - **_Index_of_Codex**
+        - **Balsamic Vinaigrette**
+        - **Banana Bread**
+        - **Basic Braised Beef**
+        - **Basic Salsa Verde**
+        - **Biscuit Cream Filling**
+        - **Black Bean Beef and Broccoli**
+        - **blæd**
+        - **Brined Turkey or Pork**
+        - **Brown Butter**
+        - **Bunya Nut & Bacon Roll**
+        - **Bunya Nut Biscuits**
+        - **Bunya Nut Damper**
+        - **Bunya Nuts**
+        - **Chicken Teriyaki**
+        - **Chocolate Biscuits**
+        - **Chocolate Cake**
+        - **Chocolate Layer Cake**
+        - **Chocolate Water Ganache**
+        - **Christmas Lego**
+        - **Codex**
+        - **Easy Flatbread**
+        - **Glazed Five-Spice Chicken**
+        - **Ground Beef Taco**
+        - **Gyoza (Japanese dumplings)**
+        - **High Protein Foods**
+        - **How to Use Sugar Paste**
+        - **images**
+        - **Index_Codex**
+        - **Korean Beef Bulgogi Recipe**
+        - **Lasagne**
+        - **Lemony Lentils and Rice With Caramelized Onions**
+        - **Lentils**
+        - **Light and Flaky Buttermilk Biscuits**
+        - **Mandazi**
+        - **No-bake Chocolate Tart**
+        - **Olive Oil Magic Shell**
+        - **Overnight Chia Seed Pudding**
+        - **Overnight Oats**
+        - **Pork Belly Popcorn**
+        - **Pork Dumplings**
+        - **Pork Meatballs**
+        - **Red Velvet Cake**
+        - **Salsa Verda**
+        - **Shortbread**
+        - **Sicilian Oregano Sauce**
+        - **Simple Beef Lasagne**
+        - **Simple Loaf**
+        - **Simple Waffles**
+        - **Snickerdoodle Cookies**
+        - **Socca (Chickpea Flatbread)**
+        - **Sourdough Loaf**
+        - **Spelt Pancakes**
+        - **Spinach Lentil Dal**
+        - **Strawberry Cupcakes**
+        - **Swiss Meringue Buttercream**
+        - **Tempering Chocolate**
+        - **Toasted Sugar**
+        - **Turkish Chicken Kebab (Tavuk Şiş)**
+        - **Vanilla Buttercream**
+        - **Vanilla Ice Cream**
+        - **Vanilla Mug Cake**
+        - **Vanilla Snap Cookies**
+        - **Whipped Peanut Butter Icing**
+      - **Index**
+        - **_Index_of_Index**
+        - **Baking**
+        - **Breakfast**
+        - **Index**
+        - **Index_Index**
+        - **Ingredients**
+        - **Mains**
+      - **Index_Recipies**
+      - **Recipies**
+      - **Sides**
+    - **Resources**
+      - **Images**
+      - **Scripts**
+      - **Templates**
+        - **_blæd**
+        - **BooksHeader**
+        - **Index**
+        - **Journal**
+        - **NewsletterFooter**
+        - **NewsletterHeader**
+        - **NoteHeader**
+        - **RecipiesFooter**
+        - **RecipiesHeader**
+    - **Shadow Ledger**
+      - **_Index_of_Shadow Ledger**
+      - **2024**
+      - **2024 - Moribund Aardvark**
+        - **_Index_of_2024 - Moribund Aardvark**
+        - **2024 - Moribund Aardvark**
+        - **2024-07-08**
+        - **2024-07-09 Tuesday**
+        - **2024-07-10 Wednesday**
+        - **2024-07-12 Friday**
+        - **2024-07-14 Sunday**
+        - **2024-07-15 Monday**
+        - **2024-07-18 Thursday**
+        - **2024-07-27 Saturday**
+        - **2024-07-28 Sunday**
+        - **2024-08-02 Friday**
+        - **2024-08-07 Wednesday**
+        - **2024-08-12 Monday**
+        - **2024-08-13 Tuesday**
+        - **2024-08-14 Wednesday**
+        - **2024-08-16 Friday**
+        - **2024-08-17 Saturday**
+        - **2024-08-19 Monday**
+        - **2024-08-20 Tuesday**
+        - **2024-08-21 Wednesday**
+        - **2024-08-23 Friday**
+        - **2024-08-24 Saturday**
+        - **2024-08-25 Sunday**
+        - **2024-08-26 Monday**
+        - **2024-08-27 Tuesday**
+        - **2024-08-28 Wednesday**
+        - **2024-08-29 Thursday**
+        - **2024-09-01 Sunday**
+        - **2024-09-06 Friday**
+        - **2024-09-07 Saturday**
+        - **2024-09-08 Sunday**
+        - **2024-09-09 Monday**
+        - **2024-09-10 Tuesday**
+        - **2024-09-11 Wednesday**
+        - **2024-09-12 Thursday**
+        - **2024-09-25 Wednesday**
+        - **2024-09-30 Monday**
+        - **2024-10-01 Tuesday**
+        - **2024-10-03 Thursday**
+        - **2024-10-04 Friday**
+        - **2024-10-13 Sunday**
+        - **2024-10-15 Tuesday**
+        - **2024-10-16 Wednesday**
+        - **2024-10-22 Tuesday**
+        - **2024-11-03 Sunday**
+        - **2024-11-05 Tuesday**
+        - **2024-11-06 Wednesday**
+        - **2024-11-17 Sunday**
+        - **2024-11-24 Sunday**
+        - **2024-11-25 Monday**
+        - **2024-11-26 Tuesday**
+        - **2024-11-28 Thursday**
+        - **2024-11-29 Friday**
+        - **2024-12-03 Tuesday**
+        - **2024-12-08 Sunday**
+        - **2024-12-12 Thursday**
+        - **2024-12-14 Saturday**
+        - **2025-01-01 Wednesday**
+        - **2025-01-02 Thursday**
+        - **2025-01-03 Friday**
+        - **2025-01-05 Sunday**
+        - **2025-01-08 Wednesday**
+        - **2025-01-10 Friday**
+        - **2025-01-11 Saturday**
+        - **2025-02-01 Saturday**
+        - **2025-02-22 Saturday**
+        - **2025-02-23 Sunday**
+        - **2025-02-25 Tuesday**
+        - **2025-02-26 Wednesday**
+        - **2025-02-27 Thursday**
+        - **2025-03-01 Saturday**
+        - **2025-03-02 Sunday**
+        - **2025-03-12 Wednesday**
+        - **2025-03-15 Saturday**
+        - **2025-03-19 Wednesday**
+        - **2025-04-12 Saturday**
+        - **2025-05-24 Saturday**
+        - **2025-05-27 Tuesday**
+        - **Index_2024 - Moribund Aardvark**
+        - **Untitled**
+      - **Cardio**
+      - **Hercules**
+      - **Index_Shadow Ledger**
+      - **Newsletters**
+        - **_Index_of_Newsletters**
+        - **Index_Newsletters**
+        - **Newsletters**
+        - **Week 28 - Great Frog**
+        - **Week 29 - Tiny Crow**
+        - **Week 30 - Curly Moose**
+        - **Week 31 - Cute Bunny**
+        - **Week 32 - Odd Pear**
+        - **Week 33 - Wise Snail**
+        - **Week 38 - Green Road**
+        - **Week 42 - Cute Spy**
+      - **Rewards**
+      - **Shadow Ledger**
+      - **Strength Training**
+      - **Week 35 - Dizzy Sound**
+    - **Simmer & Stir**
+      - **Baking**
+        - **_Index_of_Baking**
+        - **Baking**
+        - **Index_Baking**
+        - **Steamed Jam Sponge**
+      - **Index_Simmer & Stir**
+      - **Ingredients**
+        - **_Index_of_Ingredients**
+        - **Index_Ingredients**
+        - **Ingredients**
+        - **Sauces**
+          - **_Index_of_Sauces**
+          - **Apricot Glaze**
+          - **Index_Sauces**
+          - **Sauces**
+          - **Sweet & Sour Stir Fry Sauce**
+      - **Mains**
+        - **Dough**
+          - **images**
+            - **Index_images**
+          - **Index_Dough**
+          - **Sourdough Pizza**
+        - **Index_Mains**
+        - **Proteins**
+          - **Index_Proteins**
+          - **Sous vide**
+      - **Snacks**
+        - **Index_Snacks**
+        - **Jam Nut Bars**
+        - **Quick Eton Mess**
+    - **Simmer and Stir**
+      - **Baking**
+        - **_Index_of_Baking**
+        - **Baking**
+        - **Index_Baking**
+        - **Steamed Jam Sponge**
+      - **Index_Simmer & Stir**
+      - **Ingredients**
+        - **_Index_of_Ingredients**
+        - **Index_Ingredients**
+        - **Ingredients**
+        - **Sauces**
+          - **_Index_of_Sauces**
+          - **Apricot Glaze**
+          - **Index_Sauces**
+          - **Sauces**
+          - **Sweet & Sour Stir Fry Sauce**
+      - **Mains**
+        - **Dough**
+          - **images**
+            - **Index_images**
+          - **Index_Dough**
+          - **Sourdough Pizza**
+        - **Index_Mains**
+        - **Proteins**
+          - **Index_Proteins**
+          - **Sous vide**
+      - **Snacks**
+        - **Index_Snacks**
+        - **Jam Nut Bars**
+        - **Quick Eton Mess**
+
