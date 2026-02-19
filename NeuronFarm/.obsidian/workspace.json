@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bōchord/blæd/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
@@ -156,8 +156,10 @@
   },
   "active": "baf314ef226b2ed0",
   "lastOpenFiles": [
-    "bōchord/index.md",
     "bōchord/blæd/index.md",
+    "index.md",
+    "Index_Neuron Farm.md",
+    "bōchord/index.md",
     "bōchord/Philosophy/Index.md",
     "bōchord/Index.md",
     "Resources/Scripts/CreateIndex.ps1",
@@ -174,7 +176,6 @@
     "bōchord/Index_bōchord.md",
     "Neuron Farm.md",
     "_Index_of_Neuron Farm.md",
-    "Index_Neuron Farm.md",
     "Simmer & Stir/Mains/Dough/images/Index_images.md",
     "Simmer & Stir/Index_Simmer & Stir.md",
     "Obsidian/Index_Obsidian.md",
@@ -185,7 +186,6 @@
     "Obsidian/Codex/Index_Codex.md",
     "Obsidian/Central Bureaucracy/Field Trips/Holidays/Index_Holidays.md",
     "Obsidian/Shadow Ledger/Index_Shadow Ledger.md",
-    "Obsidian/Central Bureaucracy/Field Trips/Notes/Index_Notes.md",
     "Simmer & Stir/Mains/Proteins",
     "Obsidian/Images/Pasted image 20230724172542.png",
     "Obsidian/Images/Pasted image 20230724163135.png",
