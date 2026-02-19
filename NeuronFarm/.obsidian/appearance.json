@@ -1,0 +1,9 @@
+{
+  "accentColor": "#00a1d8",
+  "baseFontSize": 16,
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "anchor"
+  ]
+}

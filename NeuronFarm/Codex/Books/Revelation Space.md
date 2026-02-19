@@ -1,0 +1,1 @@
+Khouri - soldier from sky's edge, while in crosse sent to chasm city by mistake. Was married? to Fazil

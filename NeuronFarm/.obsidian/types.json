@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "EndDate": "date",
+    "Reading Time": "number",
+    "Pages": "number",
+    "Cat": "multitext",
+    "Dinner": "multitext",
+    "SubCat": "multitext",
+    "Strength": "checkbox",
+    "Herculean": "number",
+    "Walk": "number",
+    "Basketball": "number",
+    "Lunch": "multitext",
+    "Claimed": "number",
+    "Colour": "multitext",
+    "Diet": "multitext",
+    "categories": "multitext"
+  }
+}

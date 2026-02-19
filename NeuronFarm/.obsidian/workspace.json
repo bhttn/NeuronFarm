@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4d098265797762b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "190e7493ae125c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baf314ef226b2ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bōchord/blæd/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aee833ae5d0efbbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf823cc38d39869d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dadd9306b751670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c3600c3f3a8c27ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6bd0fbef7dbb07f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ff3f518e3909097",
+    "type": "split",
+    "children": [
+      {
+        "id": "96435da54ca5e344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572dbfed01c5b4e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HQ/Bathrooms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bathrooms"
+            }
+          },
+          {
+            "id": "a6e07565ecc1f15c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2cd4c7fd9f824dc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "baf314ef226b2ed0",
+  "lastOpenFiles": [
+    "bōchord/index.md",
+    "bōchord/blæd/index.md",
+    "bōchord/Philosophy/Index.md",
+    "bōchord/Index.md",
+    "Resources/Scripts/CreateIndex.ps1",
+    "Resources/Scripts",
+    "Resources/New folder",
+    "Resources/Templates/Index.md",
+    "Resources/Templates/Templates.md",
+    "bōchord/Philosophy/Index_Philosophy.md",
+    "bōchord/Literature/Index_Literature.md",
+    "bōchord/blæd/Index_blæd.md",
+    "bōchord/bōchord.base",
+    "bōchord/Untitled.md",
+    "bōchord/bōchord.md",
+    "bōchord/Index_bōchord.md",
+    "Neuron Farm.md",
+    "_Index_of_Neuron Farm.md",
+    "Index_Neuron Farm.md",
+    "Simmer & Stir/Mains/Dough/images/Index_images.md",
+    "Simmer & Stir/Index_Simmer & Stir.md",
+    "Obsidian/Index_Obsidian.md",
+    "Obsidian/Central Bureaucracy/Index_Central Bureaucracy.md",
+    "Obsidian/bōchord/Index_bōchord.md",
+    "Obsidian/Central Bureaucracy/Field Trips/Index_Field Trips.md",
+    "Obsidian/Simmer & Stir/Index_Simmer & Stir.md",
+    "Obsidian/Codex/Index_Codex.md",
+    "Obsidian/Central Bureaucracy/Field Trips/Holidays/Index_Holidays.md",
+    "Obsidian/Shadow Ledger/Index_Shadow Ledger.md",
+    "Obsidian/Central Bureaucracy/Field Trips/Notes/Index_Notes.md",
+    "Simmer & Stir/Mains/Proteins",
+    "Obsidian/Images/Pasted image 20230724172542.png",
+    "Obsidian/Images/Pasted image 20230724163135.png",
+    "Obsidian/Central Bureaucracy/Field Trips/Notes/Pasted image 20230116083745.png",
+    "Obsidian/Central Bureaucracy/Field Trips/Holidays/FESTIVAL-PROFRAM-01.jpg",
+    "Obsidian/Images/71DBD938-9A77-4B5F-83BC-8E25C31901E4.jpeg",
+    "Obsidian/Resources/Images/71DBD938-9A77-4B5F-83BC-8E25C31901E4.jpeg",
+    "Obsidian/Recipies/Codex/images/Pasted image 20230716203001.jpg",
+    "Obsidian/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD.jpeg",
+    "Obsidian/Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD.jpeg",
+    "Obsidian/Central Bureaucracy/images/Pasted image 20241127161739.png",
+    "Obsidian/Untitled.canvas",
+    "Obsidian/Simmer & Stir/Simmer & Stir.base",
+    "Obsidian/bōchord/bōchord.base",
+    "Obsidian/Recipies/Codex/Untitled.base",
+    "Obsidian/Central Bureaucracy/Field Trips/Holidays/31.2112 Natural Bridge",
+    "Obsidian/Central Bureaucracy/Field Trips/Holidays/312 Dragon Calling",
+    "Untitled.canvas",
+    "Dashboards.canvas",
+    "Untitled 1.canvas"
+  ]
+}

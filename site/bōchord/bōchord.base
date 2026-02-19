@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.folder.startsWith("bōchord")
+    - file.ext == "md"
+views:
+  - type: list
+    name: Index
+    groupBy:
+      property: categories
+      direction: ASC
+    markers: none
