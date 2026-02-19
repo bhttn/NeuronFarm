@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
+                "file": "bochord/index.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -156,7 +156,8 @@
   },
   "active": "baf314ef226b2ed0",
   "lastOpenFiles": [
-    "bochord/blaed/index.md",
+    "bochord/bōchord.base",
+    "bochord/blæd/index.md",
     "index.md",
     "Index_Neuron Farm.md",
     "bochord/index.md",
@@ -170,7 +171,6 @@
     "bōchord/Philosophy/Index_Philosophy.md",
     "bōchord/Literature/Index_Literature.md",
     "bōchord/blæd/Index_blæd.md",
-    "bochord/bōchord.base",
     "bōchord/Untitled.md",
     "bōchord/bōchord.md",
     "bōchord/Index_bōchord.md",
@@ -185,7 +185,6 @@
     "Obsidian/Simmer & Stir/Index_Simmer & Stir.md",
     "Obsidian/Codex/Index_Codex.md",
     "Obsidian/Central Bureaucracy/Field Trips/Holidays/Index_Holidays.md",
-    "Obsidian/Shadow Ledger/Index_Shadow Ledger.md",
     "Simmer & Stir/Mains/Proteins",
     "Obsidian/Images/Pasted image 20230724172542.png",
     "Obsidian/Images/Pasted image 20230724163135.png",
