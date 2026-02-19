@@ -1,5 +1,5 @@
 param(
-    [string]$RootPath = "C:\Users\ben\OneDrive\Codex\NeuronFarm\NeuronFarm\bōchord\blæd",
+    [string]$RootPath = "C:\Users\ben\OneDrive\Codex\NeuronFarm\NeuronFarm\",
     [string]$OutputFile = "index.md"
 )
 
