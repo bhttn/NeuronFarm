@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simmer & Stir/Mains/Proteins/index.md",
+                "file": "Simmer & Stir/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -154,16 +154,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "baf314ef226b2ed0",
+  "active": "6bd0fbef7dbb07f2",
   "lastOpenFiles": [
+    "Central Bureaucracy/Unsorted",
+    "Simmer & Stir/().md",
+    "Simmer & Stir/index.md",
+    "Simmer & Stir/Ingredients/index.md",
+    "Resources/Scripts/Index.ps1",
+    "Simmer & Stir/Mains/index.md",
+    "Simmer & Stir/Mains/Proteins/index.md",
     "Simmer & Stir/Mains/Dough/images/index.md",
     "Simmer & Stir/Mains/Dough/index.md",
     "bōchord/Wonder/Hairy Tails/index.md",
     "Simmer & Stir/Snacks/index.md",
-    "Simmer & Stir/Mains/Proteins/index.md",
-    "Simmer & Stir/Mains/index.md",
     "Simmer & Stir/Ingredients/Sauces/index.md",
-    "Simmer & Stir/Ingredients/index.md",
     "Simmer & Stir/Breakfast/index.md",
     "Simmer & Stir/Baking/index.md",
     "bōchord/Wonder/index.md",
@@ -180,9 +184,6 @@
     "bōchord/Craft/Literature/Books/index.md",
     "bōchord/Craft/Literature/index.md",
     "bōchord/Craft/Language/index.md",
-    "bōchord/Craft/Art/index.md",
-    "bōchord/Craft/Literature/Books/How to Relax.md",
-    "bōchord/Craft/Literature/Books/The Secret Life of Hidden Places.md",
     "bōchord/Craft/Literature/Books",
     "bōchord/Wonder/Hairy Tails",
     "bōchord/Craft/Art",
@@ -193,7 +194,6 @@
     "bōchord/Craft/Language",
     "bōchord/Inner Life/Theology",
     "bōchord/Inner Life/Quotes",
-    "bōchord/Inner Life/Philosophy",
     "Obsidian/Images/Pasted image 20230724172542.png",
     "Obsidian/Images/Pasted image 20230724163135.png",
     "Obsidian/Central Bureaucracy/Field Trips/Notes/Pasted image 20230116083745.png",

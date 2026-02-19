@@ -1,2 +1,0 @@
-[[Central Bureaucracy/Wishlist]] 
-[[Backlog]]

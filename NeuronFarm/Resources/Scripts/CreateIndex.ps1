@@ -89,6 +89,14 @@ function Build-Index {
         $relativeFolder = "./$($sub.Name)/index.md"
 
         $content += "`n$subHeadingPrefix [$($sub.Name)]($relativeFolder)`n"
+
+        $subMdFiles = Get-ChildItem -Path $sub -Filter *.md -File |
+               Where-Object { $_.Name -notin @("index.md", "$($sub.Name).md") }
+
+        foreach ($file in $subMdFiles) {
+            $relative = "./$($file.Name)"
+            $content += "- [$($file.BaseName)]($relative)"
+    }
     }
 
     # Write index.md
