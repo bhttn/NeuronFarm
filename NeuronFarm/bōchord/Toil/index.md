@@ -1,5 +1,11 @@
-# Toil
+---
+tags: Index
+title: Toil Index
+categories:
+---
 
-  - [Agile](.\NeuronFarm\bōchord\Toil\Agile.md)
-  - [How well do you know your people](.\NeuronFarm\bōchord\Toil\How well do you know your people.md)
+## Toil
+
+- [Agile](./Agile.md)
+- [How well do you know your people](./How well do you know your people.md)
 

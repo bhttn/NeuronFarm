@@ -1,4 +1,12 @@
-# Wonder
+---
+tags: Index
+title: Wonder Index
+categories:
+---
 
-  - [Universe Size](.\NeuronFarm\bōchord\Wonder\Universe Size.md)
+## Wonder
+
+- [Universe Size](./Universe Size.md)
+
+### [Hairy Tails](./Hairy Tails/index.md)
 

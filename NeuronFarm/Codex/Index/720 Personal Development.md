@@ -1,2 +1,0 @@
-[[Life Goals]]
-[[Better Living]]
