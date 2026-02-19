@@ -1,1 +1,0 @@
-**blæd** - leaf, page (literally “leaf” - the same metaphor we still use!)
