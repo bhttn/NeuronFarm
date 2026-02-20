@@ -44,7 +44,7 @@ function Build-Index {
     $breadcrumb = $breadcrumb.TrimEnd(" / ")
 
     # Merge front matter file if exists
-    $frontMatterFile = Join-Path $FolderPath "$folderName.md"
+    $frontMatterFile = Join-Path $FolderPath "$folderName.yaml"
     $frontMatter = Get-FrontMatter $frontMatterFile
 
     # Build header
@@ -95,7 +95,7 @@ function Build-Index {
 
         foreach ($file in $subMdFiles) {
             $relative = "./$($file.Name)"
-            $content += "- [$($file.BaseName)]($relative)"
+            $content += "- [$($file.BaseName)]($relative)`n"
     }
     }
 

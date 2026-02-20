@@ -8,4 +8,6 @@ categories:
 
 
 ### [Sauces](./Sauces/index.md)
-- [Apricot Glaze](./Apricot Glaze.md)- [Sweet & Sour Stir Fry Sauce](./Sweet & Sour Stir Fry Sauce.md)
+- [Apricot Glaze](./Apricot Glaze.md)
+- [Sweet & Sour Stir Fry Sauce](./Sweet & Sour Stir Fry Sauce.md)
+

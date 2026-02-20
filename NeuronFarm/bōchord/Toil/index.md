@@ -1,8 +1,11 @@
 ---
-tags: Index
+tags:
+  - Index
 title: Toil Index
 categories:
+icon: lucide/monitor-cloud
 ---
+
 
 ## Toil
 

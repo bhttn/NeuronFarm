@@ -2,6 +2,7 @@
 tags:
 title: bōchord Index
 categories:
+icon: lucide/book-marked
 ---
 “Reflections on living well — through language, story, practice, and wonder.”
 
@@ -18,6 +19,9 @@ categories:
 ## [Inner Life](./Inner Life/index.md)
 
 ## [Toil](./Toil/index.md)
+- [Agile](./Agile.md)
+- [How well do you know your people](./How well do you know your people.md)
 
 ## [Wonder](./Wonder/index.md)
+- [Universe Size](./Universe Size.md)
 
