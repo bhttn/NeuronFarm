@@ -1,13 +1,18 @@
 ---
-tags: Index
+tags:
+  - Index
 title: Central Bureaucracy Index
 categories:
+icon: lucide/building-2
 ---
 
-## Central Bureaucracy
+
+# Central Bureaucracy
 
 
-### [Unsorted](./Unsorted/index.md)
+## [Field Trips](./Field Trips/index.md)
+
+## [Unsorted](./Unsorted/index.md)
 - [_Index_of_Central Bureaucracy](./_Index_of_Central Bureaucracy.md)
 - [Backlog](./Backlog.md)
 - [Bathrooms](./Bathrooms.md)
