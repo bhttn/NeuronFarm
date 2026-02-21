@@ -2,6 +2,7 @@
 tags: Index
 title: Mains Index
 categories:
+icon: lucide/utensils-crossed
 ---
 
 ## Mains

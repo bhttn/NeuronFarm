@@ -6,7 +6,7 @@ categories:
 icon: lucide/compass
 ---
 
-
 ### Tasmania
 
+- [Costs](./Costs.md)
 

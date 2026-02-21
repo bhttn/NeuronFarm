@@ -2,6 +2,7 @@
 tags: Index
 title: Snacks Index
 categories:
+icon: lucide/lollipop
 ---
 
 ## Snacks

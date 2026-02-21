@@ -2,6 +2,7 @@
 tags: Index
 title: Ingredients Index
 categories:
+icon: bottle-wine
 ---
 
 ## Ingredients

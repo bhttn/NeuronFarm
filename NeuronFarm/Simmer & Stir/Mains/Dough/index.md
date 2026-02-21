@@ -2,6 +2,7 @@
 tags: Index
 title: Dough Index
 categories:
+icon: lucide/wheat
 ---
 
 ### Dough

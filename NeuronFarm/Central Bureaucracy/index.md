@@ -6,7 +6,6 @@ categories:
 icon: lucide/building-2
 ---
 
-
 # Central Bureaucracy
 
 
