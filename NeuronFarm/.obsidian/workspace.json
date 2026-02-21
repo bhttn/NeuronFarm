@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simmer & Stir/Snacks/index.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -171,6 +171,9 @@
   },
   "active": "d3d5336f77c6cb0a",
   "lastOpenFiles": [
+    "Central Bureaucracy/Field Trips/Tasmania/Places.md",
+    "Central Bureaucracy/Field Trips/Tasmania/Costs.md",
+    "Simmer & Stir/Snacks/index.md",
     "Simmer & Stir/Baking/index.md",
     "Simmer & Stir/Snacks/Snacks.yaml",
     "Simmer & Stir/Snacks/Mains.yaml",
@@ -191,7 +194,6 @@
     "Central Bureaucracy/Field Trips/Tasmania/index.md",
     "Central Bureaucracy/index.md",
     "Central Bureaucracy/Unsorted/Field Trips/index.md",
-    "Central Bureaucracy/Field Trips/Tasmania/Costs.md",
     "Central Bureaucracy/Field Trips/index.md",
     "bōchord/index.md",
     "bōchord/Inner Life/index.md",
@@ -205,7 +207,6 @@
     "Resources/Scripts/index.md",
     "Resources/Images/index.md",
     "Resources/CSS/index.md",
-    "Resources/index.md",
     "Untitled.canvas",
     "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg",
     "Obsidian/Images/Pasted image 20230724172542.png",
