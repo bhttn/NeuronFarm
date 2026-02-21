@@ -2,7 +2,7 @@
 tags: Index
 title: Ingredients Index
 categories:
-icon: bottle-wine
+icon: lucide/bottle-wine
 ---
 
 ## Ingredients
