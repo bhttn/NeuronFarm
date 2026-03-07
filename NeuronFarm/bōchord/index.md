@@ -23,5 +23,9 @@ icon: lucide/book-marked
 - [How well do you know your people](./How well do you know your people.md)
 
 ## [Wonder](./Wonder/index.md)
+- [Aboriginal Migration](./Aboriginal Migration.md)
+- [Black Hole Burps](./Black Hole Burps.md)
+- [Oldest Artwork](./Oldest Artwork.md)
+- [The Great Unconformity](./The Great Unconformity.md)
 - [Universe Size](./Universe Size.md)
 

@@ -8,4 +8,7 @@ views:
     groupBy:
       property: categories
       direction: ASC
+    order:
+      - file.name
+      - tags
     markers: none

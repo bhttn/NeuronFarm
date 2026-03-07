@@ -9,6 +9,10 @@ icon: lucide/rocket
 
 ## Wonder
 
+- [Aboriginal Migration](./Aboriginal Migration.md)
+- [Black Hole Burps](./Black Hole Burps.md)
+- [Oldest Artwork](./Oldest Artwork.md)
+- [The Great Unconformity](./The Great Unconformity.md)
 - [Universe Size](./Universe Size.md)
 
 ### [Hairy Tails](./Hairy Tails/index.md)

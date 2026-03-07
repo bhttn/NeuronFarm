@@ -15,7 +15,6 @@ icon: lucide/drama
 - [How to Pose Your Face](./How to Pose Your Face.md)
 
 ### [Language](./Language/index.md)
-- [Index_Language](./Index_Language.md)
 - [Multimodal Narrative](./Multimodal Narrative.md)
 - [Old English Word Hoard](./Old English Word Hoard.md)
 - [One Page Overview Document](./One Page Overview Document.md)

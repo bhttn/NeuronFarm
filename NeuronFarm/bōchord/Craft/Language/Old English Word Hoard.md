@@ -10,6 +10,9 @@ blæd
 bōchord 
 : (book-hoard) - a treasury or collection of books
 
+fyrntíd
+: “ancient time” or “time of old”
+
 geōmor
 : [sad](https://en.wiktionary.org/wiki/sad#English "sad"), [sorrowful](https://en.wiktionary.org/wiki/sorrowful#English "sorrowful"), [mournful](https://en.wiktionary.org/wiki/mournful#English "mournful")
 : https://en.wiktionary.org/wiki/geomor
