@@ -3,7 +3,6 @@ tags:
   - Poetry
 title: To be alive
 categories:
-  - 
   - Quotes
 Author: Lucas Jones
 ---

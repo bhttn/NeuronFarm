@@ -39,13 +39,14 @@
             "id": "d283ca3d14b72b03",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Lorehouse/bōchord.base",
-                "viewName": "Reviews"
+                "file": "bōchord/Inner Life/Quotes/To be alive.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "bōchord"
+              "icon": "lucide-file",
+              "title": "To be alive"
             }
           }
         ],
