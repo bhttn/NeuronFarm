@@ -1,14 +1,17 @@
 ---
 Title: How to Relax
-Author: Hạnh, Thích Nhất
+Author: Thích Nhất Hạnh
 FirstName: Thích Nhất
 LastName: Hạnh
-Reading Time: 
+Reading Time:
 Pages: 120
 Storygraph: https://app.thestorygraph.com/books/fce408cf-aedd-436c-9714-1b95dc25913f
-LibraryThing: 
+LibraryThing:
 StartDate: 2022-09-02
 EndDate: 2022-09-19
+categories:
+  - Books
+tags:
 ---
 
 

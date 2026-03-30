@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "d283ca3d14b72b03",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lorehouse/bōchord.base",
+                "viewName": "Reviews"
+              },
+              "icon": "lucide-list",
+              "title": "bōchord"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,8 +182,33 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6bd0fbef7dbb07f2",
+  "active": "d283ca3d14b72b03",
   "lastOpenFiles": [
+    "Lorehouse.base",
+    "Lorehouse/bōchord.base",
+    "bōchord/Craft/Movies/Hotel Transylvania 3.md",
+    "bōchord/Craft/Movies/Chef.md",
+    "bōchord/Craft/Movies/Dodgeball.md",
+    "bōchord/Craft/Literature/Books/The Legend of Alberta Jacka.md",
+    "bōchord/Craft/Movies",
+    "bōchord/Inner Life/Quotes/To be alive.md",
+    "Lorehouse/Central Bureaucracy.base",
+    "Lorehouse/Simmer & Stir.base",
+    "Lorehouse",
+    "Central Bureaucracy/Dierne/Ben.md",
+    "Central Bureaucracy/Dierne/Benita.md",
+    "Central Bureaucracy/Dierne",
+    "bōchord/Inner Life/Quotes/one drop of hope.md",
+    "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
+    "Simmer & Stir/Breakfast/Light and Fluffy Pancakes.md",
+    "bōchord/Craft/Art/Procreate Brushes.md",
+    "Central Bureaucracy/Field Trips/2024 Planner.md",
+    "Resources/Images/Pasted image 20260310221752.jpg",
+    "Central Bureaucracy/Family/School/Food.md",
+    "Central Bureaucracy/Family/School",
+    "Central Bureaucracy/Family",
+    "Resources/Images/Pasted image 20260309210632.jpg",
+    "bōchord/Inner Life/Quotes/Consequence of every thread.md",
     "index.md",
     "bōchord/Craft/Literature/Books/Terraglossia.md",
     "bōchord/Wonder/Aboriginal Migration.md",
@@ -182,31 +220,8 @@
     "Simmer & Stir/Ingredients/Index_Ingredients.md",
     "Simmer & Stir/Breakfast/Index_Breakfast.md",
     "Simmer & Stir/Baking/Index_Baking.md",
-    "Simmer & Stir/Snacks/Index_Snacks.md",
-    "Resources/Index_Resources.md",
-    "Central Bureaucracy/Unsorted/Index_Unsorted.md",
-    "bōchord/Craft/Literature/Books/Index_Books.md",
-    "bōchord/Inner Life/Philosophy/Index_Philosophy.md",
-    "bōchord/Wonder/Hairy Tails/Index_Hairy Tails.md",
-    "bōchord/Inner Life/Tooling/Index_Tooling.md",
-    "Index_Neuron Farm.md",
-    "Simmer & Stir/Index_Simmer & Stir.md",
-    "bōchord/Inner Life/Theology/Index_Theology.md",
-    "bōchord/Inner Life/Index_Inner Life.md",
-    "bōchord/Index_bōchord.md",
-    "bōchord/Craft/Literature/Index_Literature.md",
-    "Simmer & Stir/Ingredients/Sauces/Index_Sauces.md",
-    "bōchord/Craft/Index_Craft.md",
     "Simmer & Stir/Snacks/Snacks.yaml",
     "Simmer & Stir/Snacks/Mains.yaml",
-    "Simmer & Stir/Baking/Baking.yaml",
-    "Simmer & Stir/Baking/Breakfast.yaml",
-    "Simmer & Stir/Breakfast/Breakfast.yaml",
-    "Simmer & Stir/Breakfast/Ingredients.yaml",
-    "Simmer & Stir/Ingredients/Ingredients.yaml",
-    "Simmer & Stir/Ingredients/Dough.yaml",
-    "Simmer & Stir/Mains/Dough/Dough.yaml",
-    "Simmer & Stir/Mains/Dough/Mains.yaml",
     "Untitled.canvas",
     "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg",
     "Obsidian/Images/Pasted image 20230724172542.png",
@@ -216,8 +231,6 @@
     "Obsidian/Images/71DBD938-9A77-4B5F-83BC-8E25C31901E4.jpeg",
     "Obsidian/Resources/Images/71DBD938-9A77-4B5F-83BC-8E25C31901E4.jpeg",
     "Obsidian/Recipies/Codex/images/Pasted image 20230716203001.jpg",
-    "Obsidian/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD.jpeg",
-    "Obsidian/Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD.jpeg",
     "Obsidian/Untitled.canvas",
     "Dashboards.canvas",
     "Untitled 1.canvas"

@@ -14,7 +14,7 @@
  [[Central Bureaucracy/Unsorted/Notes/Index_Notes|Index_Notes]]
  [[Central Bureaucracy/Unsorted/Paper Pusher HQ|Paper Pusher HQ]]
  [[Central Bureaucracy/Unsorted/Philips Hue API|Philips Hue API]]
- [[Central Bureaucracy/Unsorted/Procreate Brushes|Procreate Brushes]]
+ [[Procreate Brushes|Procreate Brushes]]
  [[Central Bureaucracy/Unsorted/Products/Index_Products|Index_Products]]
  [[Central Bureaucracy/Unsorted/Stories/Index_Stories|Index_Stories]]
  [[Central Bureaucracy/Unsorted/Wine|Wine]]

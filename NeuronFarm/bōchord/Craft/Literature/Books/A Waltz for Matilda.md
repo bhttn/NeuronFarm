@@ -1,14 +1,17 @@
 ---
 Title: Waltz for Matilda
-Author: French, Jackie
-FirstName: Jackie 
+Author: Jackie French
+FirstName: Jackie
 LastName: French
-Reading Time: 
+Reading Time:
 Pages: 496
 Storygraph: https://app.thestorygraph.com/books/71fba316-b880-4636-812f-19de18b6797d
-LibraryThing: 
+LibraryThing:
 StartDate: 2023-04-04
 EndDate: 2023-08-30
+categories:
+  - Books
+tags:
 ---
 
 

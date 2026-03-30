@@ -1,7 +1,8 @@
 ---
 title: Pharaoh
-Cat: 
 SubCat:
+categories:
+  - Books
 ---
 > It seems important to stress early on that the term 'pharaoh', regularly used in this book, comes from the ancient Egyptian word per-aa, which means the great house' and originally referred to the palace. It was not until the New Kingdom that Egyptians used it to designate the person of the king. p9
 

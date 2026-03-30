@@ -24,6 +24,13 @@ wēriġ
 : weary
 : [https://en.wiktionary.org/wiki/werig](https://en.wiktionary.org/wiki/werig)
 
+## Phrases
+
+Gief gefēan ōðrum
+: Give joy/pleasure to another
+
+Iċ þē gewilnie eal - līce and sāwle
+: I desire you entirely - body and soul
 ## Words for small pieces of wisdom
 
 Giedding

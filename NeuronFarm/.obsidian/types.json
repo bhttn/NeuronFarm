@@ -17,6 +17,10 @@
     "Claimed": "number",
     "Colour": "multitext",
     "Diet": "multitext",
-    "categories": "multitext"
+    "categories": "multitext",
+    "Author": "text",
+    "Date": "date",
+    "rating": "number",
+    "page": "number"
   }
 }

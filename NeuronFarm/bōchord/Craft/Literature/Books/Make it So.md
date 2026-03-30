@@ -1,14 +1,17 @@
 ---
 Title: Make it So
-Author: Stewart, Patrick
+Author: Patrick Stewart
 FirstName: Patrick
 LastName: Stewart
-Reading Time: 
-Pages: 
+Reading Time:
+Pages:
 Storygraph: https://app.thestorygraph.com/books/37a0140a-efb4-460c-932f-b2d423a1dacc
-LibraryThing: 
+LibraryThing:
 StartDate: 2023-10-08
 EndDate:
+categories:
+  - Books
+tags:
 ---
 
 

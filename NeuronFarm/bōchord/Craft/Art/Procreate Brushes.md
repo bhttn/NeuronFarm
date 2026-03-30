@@ -17,7 +17,7 @@ Painting | Gouache
 ### Stabilization
 The higher the Stabilization, the more it will smooth out the wobbles in a stroke. Stabilization also depends on the speed of your stroke, meaning that the faster you draw, the more it will smooth out a stroke.
 ### Motion Filtering
-Motion Filtering is very similar to stabilization but uses more advanced algorithms. While Stabilization smoothes out wobbles by squashing them towards a central line, Motion Filtering deletes the extremities of a stroke’s wobbles without any squashing.
+Motion Filtering is very similar to stabilization but uses more advanced algorithms. While Stabilization smoothes out wobbles by squashing them towards a central line, Motion Filtering dele tes the extremities of a stroke’s wobbles without any squashing.
 
 ### Motion Filtering Expression
 Motion Filtering Expression works only if Motion Filtering is on. When you use Motion Filtering it helps to average the wobbles but the problem is that it can also make your strokes too straight. And that is when you need to turn on the Motion Filtering Expression because it can put some expressive feeling back into strokes making them a bit more hand-drawn.

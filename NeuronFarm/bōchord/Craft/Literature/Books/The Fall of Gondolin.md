@@ -1,14 +1,17 @@
 ---
 Title: Fall of Gondolin
-Author: Tolkien, JRR
+Author: JRR Tolkien
 FirstName: JRR
 LastName: Tolkien
-Reading Time: 
+Reading Time:
 Pages: 304
 Storygraph: https://app.thestorygraph.com/books/847135c0-845c-4f99-9eeb-84d64f7af5fd
-LibraryThing: 
+LibraryThing:
 StartDate: 2022-11-04
 EndDate: 2022-12-11
+tags:
+categories:
+  - Books
 ---
 
 

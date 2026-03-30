@@ -1,7 +1,8 @@
 filters:
   and:
-    - file.folder.startsWith("bōchord")
+    - file.folder.startsWith("Central")
     - file.ext == "md"
+    - '!file.tags.contains("Index")'
 views:
   - type: list
     name: Index

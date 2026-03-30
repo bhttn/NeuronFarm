@@ -1,3 +1,9 @@
+---
+tags:
+title: Jurrasic Park Visual History
+categories:
+  - Books
+---
 
 - Christina Ricci (Wednesday from the 90s Adam's family show) auditioned for Lex
 - Jim Carey was considered for Malcom

@@ -1,14 +1,17 @@
 ---
 Title: "Hero of two Worlds: The Marquis de Lafayette"
-Author: Duncan, Mike
+Author: Mike Duncan
 FirstName: Mike
 LastName: Duncan
-Reading Time: 
+Reading Time:
 Pages: 384
 Storygraph: https://app.thestorygraph.com/books/77e059de-ba7c-44bd-bdb5-4e9526eda79d
-LibraryThing: 
+LibraryThing:
 StartDate: 2022-09-26
 EndDate: 2022-11-03
+categories:
+  - Books
+tags:
 ---
 
 

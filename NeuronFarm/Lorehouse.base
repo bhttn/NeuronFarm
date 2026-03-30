@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.ext == "md"
+    - '!file.tags.contains("Index")'
+formulas:
+  Last Name: Author.split(" ").slice(-1)[0]
+views:
+  - type: list
+    name: bōchord
+    filters:
+      and:
+        - file.inFolder("bōchord")
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: false
+  - type: list
+    name: Simmer & Stir
+    filters:
+      and:
+        - file.inFolder("Simmer & Stir")
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - tags
+  - type: list
+    name: Central Bureaucracy
+    filters:
+      and:
+        - file.inFolder("Central Bureaucracy")
+        - "!categories.isEmpty()"
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - tags
+  - type: table
+    name: Authors
+    filters:
+      and:
+        - "!Author.isEmpty()"
+    order:
+      - file.name
+      - Author
+    sort:
+      - property: formula.Last Name
+        direction: ASC

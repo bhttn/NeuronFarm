@@ -1,14 +1,17 @@
 ---
 Title: Two Towers
-Author: Tolkien, JRR
-FirstName: JRR 
+Author: JRR Tolkien
+FirstName: JRR
 LastName: Tolkien
-Reading Time: 
-Pages: 
+Reading Time:
+Pages:
 Storygraph: https://app.thestorygraph.com/books/1e2064bf-4ca0-4bc8-bb52-e53e32cecf0d
-LibraryThing: 
+LibraryThing:
 StartDate: 2022-06-09
 EndDate: 2022-06-22
+categories:
+  - Books
+tags:
 ---
 
 

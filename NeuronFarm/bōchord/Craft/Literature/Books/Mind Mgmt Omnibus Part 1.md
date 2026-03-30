@@ -1,14 +1,17 @@
 ---
 Title: Mind Mgmt Omnibus Part 1
-Author: Kindt, Matt
+Author: Matt Kindt
 FirstName: Matt
 LastName: Kindt
-Reading Time: 
-Pages: 
+Reading Time:
+Pages:
 Storygraph: https://app.thestorygraph.com/books/48e34d14-5e7f-40d4-b4b7-cf442c21bfc1
-LibraryThing: 
+LibraryThing:
 StartDate: 2023-10-08
 EndDate:
+categories:
+  - Books
+tags:
 ---
 
 ## Factions

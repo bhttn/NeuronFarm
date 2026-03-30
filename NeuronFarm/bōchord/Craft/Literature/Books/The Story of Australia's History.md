@@ -1,14 +1,17 @@
 ---
 Title: Story of Australia's People
-Author: Blainey, Geoffrey
+Author: Geoffrey Blainey
 FirstName: Geoffrey
-LastName: Blainey 
-Reading Time: 
+LastName: Blainey
+Reading Time:
 Pages: 377
 Storygraph: https://app.thestorygraph.com/books/5f242c82-e498-4213-b06f-18e291ff0039
-LibraryThing: 
+LibraryThing:
 StartDate: 2022-02-08
 EndDate: 2022-02-25
+categories:
+  - Books
+tags:
 ---
 
 

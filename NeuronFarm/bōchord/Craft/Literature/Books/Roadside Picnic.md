@@ -1,12 +1,12 @@
 ---
 Title: Roadside Picnic
-Author: Strugatsky, Boris
+Author: Boris Strugatsky
 FirstName: Boris
 LastName: Strugatsky
-Reading Time: 
+Reading Time:
 Pages: 224
 Storygraph: https://app.thestorygraph.com/books/0eafc602-0254-47b9-9fe1-8a421f6ac3c2
-LibraryThing: 
+LibraryThing:
 StartDate: 2023-09-04
 EndDate: 2023-09-11
 ---

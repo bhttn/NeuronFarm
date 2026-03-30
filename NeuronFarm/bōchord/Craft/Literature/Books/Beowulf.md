@@ -1,12 +1,15 @@
 ---
-Title: 
-Author: 
-Reading Time: 
-Pages: 
-Storygraph: 
-LibraryThing: 
-StartDate: 
-EndDate: 
+Title:
+Author:
+Reading Time:
+Pages:
+Storygraph:
+LibraryThing:
+StartDate:
+EndDate:
+categories:
+  - Books
+tags:
 ---
 
 Set in the 6th century but with hints of 5th century characters and practices. 

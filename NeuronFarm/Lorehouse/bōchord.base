@@ -1,0 +1,50 @@
+filters:
+  and:
+    - file.path.startsWith("bōchord")
+    - file.ext == "md"
+    - '!file.tags.contains("Index")'
+views:
+  - type: list
+    name: Index
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    markers: none
+  - type: list
+    name: Zahra
+    filters:
+      and:
+        - file.tags.contains("zahra")
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - Date
+      - page
+    sort:
+      - property: Date
+        direction: ASC
+    indentProperties: false
+    separator: "-"
+  - type: list
+    name: Reviews
+    filters:
+      and:
+        - file.tags.contains("Review")
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - stars
+    sort:
+      - property: rating
+        direction: DESC
+      - property: title
+        direction: ASC
+    indentProperties: false
+    separator: "-"
