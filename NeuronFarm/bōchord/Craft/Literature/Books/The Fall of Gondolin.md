@@ -1,5 +1,5 @@
 ---
-Title: Fall of Gondolin
+title: Fall of Gondolin
 Author: JRR Tolkien
 FirstName: JRR
 LastName: Tolkien

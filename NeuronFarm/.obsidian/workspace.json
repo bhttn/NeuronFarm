@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "190e7493ae125c68",
+        "id": "2a31ad44e3375f84",
         "type": "tabs",
         "children": [
           {
-            "id": "baf314ef226b2ed0",
+            "id": "bed3c387d52c7bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bōchord/index.md",
+                "file": "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "d3d5336f77c6cb0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "d283ca3d14b72b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bōchord/Inner Life/Quotes/To be alive.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To be alive"
+              "title": "The Fall of the House of Usher"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,46 +154,46 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d283ca3d14b72b03",
+  "active": "bed3c387d52c7bde",
   "lastOpenFiles": [
+    "bōchord/Craft/Literature/Books/The Two Towers.md",
+    "bōchord/Craft/Literature/Books/The Story of Australia's History.md",
+    "bōchord/Craft/Literature/Books/The Secret Life of Hidden Places.md",
+    "bōchord/Craft/Literature/Books/The Legend of Alberta Jacka.md",
+    "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
+    "bōchord/Craft/Literature/Books/The Fall of Gondolin.md",
+    "bōchord/Craft/Literature/Books/Terraglossia.md",
+    "bōchord/Craft/Literature/Books/Roadside Picnic.md",
+    "bōchord/Craft/Literature/Books/Revelation Space.md",
+    "bōchord/Craft/Literature/Books/Pharaoh.md",
+    "bōchord/Craft/Literature/Books/Moving Pictures.md",
+    "bōchord/Craft/Literature/Books/Mind Mgmt Omnibus Part 1.md",
+    "bōchord/Craft/Literature/Books/Make it So.md",
+    "bōchord/Craft/Literature/Books/Jurrasic Park Visual History.md",
+    "bōchord/Craft/Literature/Books/index.md",
+    "bōchord/Craft/Literature/Books/How to Relax.md",
+    "bōchord/Craft/Literature/Books/Hero of two Worlds.md",
+    "bōchord/Craft/Literature/Books/Colour Demystified.md",
+    "bōchord/Craft/Literature/Books/Beowulf.md",
+    "bōchord/Craft/Literature/Books/A Waltz for Matilda.md",
+    "index.md",
+    "bōchord/Inner Life/Quotes/To be alive.md",
+    "Resources/Overrides/partials/content.html",
+    "Resources/Overrides/partials/content.htmk",
+    "Resources/Overrides/partials",
+    "Resources/Overrides/Partials",
+    "bōchord/Craft/Movies/Project Hail Mary.md",
+    "Resources/Overrides/main.html",
+    "Resources/Overrides",
+    "Simmer & Stir/Ingredients/Pie Crust.md",
+    "Simmer & Stir/Baking/Peanut Butter Styrofoams.md",
+    "Simmer & Stir/Baking/Hot Cross Buns.md",
     "Lorehouse.base",
     "Lorehouse/bōchord.base",
-    "bōchord/Craft/Movies/Hotel Transylvania 3.md",
-    "bōchord/Craft/Movies/Chef.md",
-    "bōchord/Craft/Movies/Dodgeball.md",
-    "bōchord/Craft/Literature/Books/The Legend of Alberta Jacka.md",
     "bōchord/Craft/Movies",
-    "bōchord/Inner Life/Quotes/To be alive.md",
     "Lorehouse/Central Bureaucracy.base",
-    "Lorehouse/Simmer & Stir.base",
-    "Lorehouse",
-    "Central Bureaucracy/Dierne/Ben.md",
-    "Central Bureaucracy/Dierne/Benita.md",
-    "Central Bureaucracy/Dierne",
-    "bōchord/Inner Life/Quotes/one drop of hope.md",
-    "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
-    "Simmer & Stir/Breakfast/Light and Fluffy Pancakes.md",
-    "bōchord/Craft/Art/Procreate Brushes.md",
-    "Central Bureaucracy/Field Trips/2024 Planner.md",
     "Resources/Images/Pasted image 20260310221752.jpg",
-    "Central Bureaucracy/Family/School/Food.md",
-    "Central Bureaucracy/Family/School",
-    "Central Bureaucracy/Family",
     "Resources/Images/Pasted image 20260309210632.jpg",
-    "bōchord/Inner Life/Quotes/Consequence of every thread.md",
-    "index.md",
-    "bōchord/Craft/Literature/Books/Terraglossia.md",
-    "bōchord/Wonder/Aboriginal Migration.md",
-    "bōchord/Wonder/Oldest Artwork.md",
-    "bōchord/Inner Life/Quotes/I Wanted to Know None.md",
-    "bōchord/Inner Life/Quotes/Untitled.md",
-    "bōchord/Wonder/The Great Unconformity.md",
-    "bōchord/Wonder/Black Hole Burps.md",
-    "Simmer & Stir/Ingredients/Index_Ingredients.md",
-    "Simmer & Stir/Breakfast/Index_Breakfast.md",
-    "Simmer & Stir/Baking/Index_Baking.md",
-    "Simmer & Stir/Snacks/Snacks.yaml",
-    "Simmer & Stir/Snacks/Mains.yaml",
     "Untitled.canvas",
     "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg",
     "Obsidian/Images/Pasted image 20230724172542.png",

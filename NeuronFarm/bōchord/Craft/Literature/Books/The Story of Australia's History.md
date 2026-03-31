@@ -1,5 +1,5 @@
 ---
-Title: Story of Australia's People
+title: Story of Australia's People
 Author: Geoffrey Blainey
 FirstName: Geoffrey
 LastName: Blainey
@@ -61,5 +61,3 @@ forest met open country.
 Dick Roughsey, one of the first Aborigines to write a book
 but his people, could recount his own father's recollections of the
 roning of Europeans to a small island in the Gulf of Carpentaria.
-
-#Notes 

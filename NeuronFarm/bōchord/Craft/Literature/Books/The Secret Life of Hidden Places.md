@@ -1,3 +1,10 @@
+---
+tags:
+title: The Secret Life of Hidden Places
+categories:
+  - Books
+---
+
 ## Introduction
 neoteny, a term from evolutionary theory that means the "retention of juvenile characteristics." Physically, it means we have large brains in relation to our body size, like babies.
 

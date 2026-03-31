@@ -4,7 +4,8 @@ title: Terraglossia
 categories:
   - Books
 ---
- ## 1. The moving tide - an introduction
+
+## 1. The moving tide - an introduction
 
 As recorded in the Secret Instructions for Lieutenant James Cook Appointed to Command His Majesty's Bark the Endeavour 30 July 1768, Cook had been charged with several secret orders from George III, including 'with the Consent of the Natives to take possession of Convenient Situations in the Country in the Name of the King of Great Britain.
 P1

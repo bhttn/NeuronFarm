@@ -1,5 +1,5 @@
 ---
-Title: Roadside Picnic
+title: Roadside Picnic
 Author: Boris Strugatsky
 FirstName: Boris
 LastName: Strugatsky

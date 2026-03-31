@@ -1,5 +1,5 @@
 ---
-Title: Make it So
+title: Make it So
 Author: Patrick Stewart
 FirstName: Patrick
 LastName: Stewart
@@ -20,5 +20,3 @@ tags:
 - Still had gas streetlights as a child
 - House had no toilet, 4 toilets at end of street, one per house. 
 - No lights so would take a candle to read
-
-#Notes 

@@ -1,5 +1,5 @@
 ---
-Title: "Hero of two Worlds: The Marquis de Lafayette"
+title: "Hero of two Worlds: The Marquis de Lafayette"
 Author: Mike Duncan
 FirstName: Mike
 LastName: Duncan
@@ -59,5 +59,3 @@ tags:
 - When asked what Hamilton meant to Lafayette, he reflected on his friend, now dead twenty years, "*Hamilton was to me more than a friend, he was a brother... our friendship forged in days of peril and glory suffered no diminution from time.*" He then added wistfully, "*We were both very young*."
 - Met with Joseph Bonaparte at his farm
 - Thomas Jefferson & John Adams bother died on July 4 1826, 50 anniversary of the Declaration of Independence
-
-#Notes 

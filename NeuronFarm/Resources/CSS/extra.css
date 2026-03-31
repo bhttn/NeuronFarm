@@ -1,0 +1,43 @@
+:root  > * {
+  --md-primary-fg-color:        #2B5F75;
+  --md-heading-color: var(--md-primary-fg-color);
+  --md-code-hl-name-color: var(--md-heading-color);
+
+    /* Convert primary to HSL channels */
+  --md-primary-h: 205; /* hue */
+  --md-primary-s: 46%; /* saturation */
+  --md-primary-l: 32%; /* lightness */
+
+  /* Derived variants (±10%) */
+  --md-primary-fg-color--light: hsl(
+    var(--md-primary-h),
+    var(--md-primary-s),
+    calc(var(--md-primary-l) + 10%)
+  );
+
+  --md-primary-fg-color--dark: hsl(
+    var(--md-primary-h),
+    var(--md-primary-s),
+    calc(var(--md-primary-l) - 10%)
+  );
+}
+
+i {
+  color: var(--md-primary-fg-color--light);
+}
+
+* h1, h2, h3, h4, h5, h6 {
+  color: var(--md-heading-color);
+}
+
+.md-typeset h1 {
+  color: var(--md-heading-color);
+}
+
+.md-typeset blockquote {
+  color: var(--md-primary-fg-color--light);
+}
+
+.md-typeset strong, b {
+  color: var(--md-primary-fg-color--dark);
+}

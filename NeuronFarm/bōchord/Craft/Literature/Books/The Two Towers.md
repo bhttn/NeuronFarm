@@ -1,5 +1,5 @@
 ---
-Title: Two Towers
+title: Two Towers
 Author: JRR Tolkien
 FirstName: JRR
 LastName: Tolkien

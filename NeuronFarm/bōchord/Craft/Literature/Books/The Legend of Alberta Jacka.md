@@ -5,7 +5,10 @@ categories:
   - Books
 Author: Peter Fitzsimons
 ---
-# Notes
+
+## Notes
+
 ---
-## Nine Bullecourt Blunders
+
+### Nine Bullecourt Blunders
 Like everything in WW1, what a disaster the introduction of the tanks is. 

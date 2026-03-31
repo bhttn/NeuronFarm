@@ -1,5 +1,5 @@
 ---
-Title:
+title: Beowulf
 Author:
 Reading Time:
 Pages:

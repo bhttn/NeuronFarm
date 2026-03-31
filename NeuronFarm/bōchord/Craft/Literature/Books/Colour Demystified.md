@@ -1,4 +1,9 @@
-
+---
+tags:
+title: Colour Demystified
+categories:
+  - Books
+---
 ## Materials
 Windsor Newton Cotman is student grade
 ### Watercolour Boxes

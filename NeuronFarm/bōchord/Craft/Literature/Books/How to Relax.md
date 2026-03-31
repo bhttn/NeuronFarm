@@ -1,5 +1,5 @@
 ---
-Title: How to Relax
+title: How to Relax
 Author: Thích Nhất Hạnh
 FirstName: Thích Nhất
 LastName: Hạnh
@@ -257,5 +257,3 @@ So you may like to program your computer so that every quarter of an hour it off
 
 DEEP RELAXATION
 Deep relaxation is an opportunity for your body to rest, heal, and be restored
-
-#Notes 

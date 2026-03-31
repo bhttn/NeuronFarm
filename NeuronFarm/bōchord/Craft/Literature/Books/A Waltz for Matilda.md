@@ -1,5 +1,5 @@
 ---
-Title: Waltz for Matilda
+title: Waltz for Matilda
 Author: Jackie French
 FirstName: Jackie
 LastName: French
@@ -14,8 +14,5 @@ categories:
 tags:
 ---
 
-
 - Neat trick to start each chapter with a letter summarising what happened in the last chapter. Drives home how strange and different everything is for Matilda as her world rapidly changes.
 - After so many pesonal losses in the first third of the book I hope that it settles down now, not sure how many more I can take
-
-#Notes

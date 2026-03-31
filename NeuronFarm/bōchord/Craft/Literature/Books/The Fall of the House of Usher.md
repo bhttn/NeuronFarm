@@ -3,11 +3,11 @@ tags:
 title: The Fall of the House of Usher
 categories:
   - Books
-Author: Edga Allan Poe
+Author: Edgar Allen Poe
 ---
 ## Metzengerstein
 A cruel young nobleman becomes supernaturally obsessed with a mysterious horse that ultimately carries him to his fiery death, fulfilling an ancient prophecy and avenging the family he wronged.​​​​​​​​​​​​​​​​
-★★★
+**★★★**
 
 ---
 
@@ -21,7 +21,7 @@ A rational, skeptical castaway finds himself aboard a phantom ship crewed by gho
 - come close to New Holland
 - Ended up in "Antarctica"
 
-★★★☆
+**★★★☆**
 
 ---
 ## Silence - A fable
@@ -29,22 +29,22 @@ A demon recounts how he broke a solitary man on a cursed and desolate riverbank 
 
 - story had a hippopotamus 
 
-★★★
+**★★★**
 
 ---
 ## The Assignation
 A narrator in Venice witnesses a mysterious stranger rescue a noblewoman’s child from a canal, then visits the man the following morning only to discover that both the stranger and the married noblewoman have died simultaneously — victims of their forbidden, secret love.
-★★★☆
+**★★★☆**
 
 ---
 ## Shadow – A Parable
 A group of men feast in a plague-ridden chamber while haunted by the shadow of death, which ultimately speaks to them in the voices of a thousand departed souls.
-★★★★
+**★★★★**
 
 ---
 ## Berenice
 A deeply obsessive man becomes morbidly fixated on his ailing cousin Berenice’s teeth, leading him to commit a horrifying act during a fugue state.
-★★★☆
+**★★★☆**
 
 
 ---
@@ -55,7 +55,7 @@ A man watches his sickly, philosophy-obsessed wife slowly die, only to find her 
 
 - mentions muslims and the pilgramige to Mecca 
 
-★★★★
+**★★★★**
 
 ---
 ## Ligeia
@@ -63,7 +63,7 @@ A man watches his sickly, philosophy-obsessed wife slowly die, only to find her 
 **Age**: 29
 
 A grief-stricken narrator recounts his obsessive love for the dark, learned, and otherworldly Ligeia, who dies and appears to supernaturally possess the body of his second wife, Rowena.
-★★★☆
+**★★★☆**
 
 ---
 ## The Fall of the House of Usher
@@ -76,7 +76,7 @@ As soon as we touch it, it resonates.
 
 A nameless narrator visits his childhood friend Roderick Usher at his decaying ancestral mansion, only to witness a spiral of madness, premature burial, and the ultimate collapse of both the family line and the house itself.
 
-★★★★
+**★★★★**
 
 ---
 ## The Man That Was Used Up
@@ -87,7 +87,7 @@ Source: These lines are from the famous French tragedy Le Cid (1637) by Pierre C
 
 A narrator becomes increasingly obsessed with discovering the secret behind the impossibly perfect physique and appearance of the celebrated Brevet Brigadier General John A. B. C. Smith, only to discover the General is almost entirely composed of prosthetic parts — the result of a brutal military campaign against a Native American tribe.
 
-★★★★
+**★★★★**
 
 ---
 ## William Wilson
@@ -98,7 +98,7 @@ A narrator becomes increasingly obsessed with discovering the secret behind the 
 
 A man recounts his lifelong torment by a mysterious double who shares his name, appearance, and birthday, culminating in a confrontation that destroys them both.
 
-★★☆
+**★★☆**
 
 ---
 ## The Man of the Crowd
@@ -107,7 +107,7 @@ A man recounts his lifelong torment by a mysterious double who shares his name, 
 
 A recovering invalid in London becomes obsessed with following a mysterious old man through the city’s crowds for an entire day and night, only to conclude that the man is a living embodiment of crime who cannot bear to be alone.
 
-★★★☆
+**★★★☆**
 
 ---
 ## A Descent into the Maelström
@@ -115,8 +115,32 @@ A recovering invalid in London becomes obsessed with following a mysterious old 
 **Age**: 32
 
 A Norwegian fisherman recounts how he alone survived being caught in the vast, churning Moskstraumen whirlpool, saved not by strength but by calm observation and reasoned deduction.
-★★★☆
+**★★★☆**
 
 ---
 
 ## The Murders in the Rue Morgue
+Ourang-Outang
+Clew
+
+**First Published:** 1841   
+**Age**: 32
+
+A brilliant amateur detective, C. Auguste Dupin, uses keen analytical reasoning to solve the apparently impossible locked-room murders of two women in Paris, ultimately revealing the killer to be an escaped orangutan.
+
+**★★★★**
+
+---
+
+## Eleonora 
+"The soul is safe under the protection of its specific form."
+
+**First Published**: 1842  
+**Age**: 32
+
+A man recalls his idyllic life in the Valley of the Many-Colored Grass with his beloved cousin Eleonora, her death, the vow he made to her, and his eventual “betrayal” of that vow when he falls in love with another woman in the outside world.
+
+**★★★☆**
+
+---
+

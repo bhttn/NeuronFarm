@@ -94,7 +94,7 @@ extra_css = ["Resources/CSS/extra.css"]
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-#custom_dir = "overrides"
+custom_dir = "NeuronFarm\\Resources\\Overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -273,7 +273,9 @@ features = [
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
-#primary = "custom"
+palette.primary = "custom"
+palette.accent = "custom"
+primary = "custom"
 
 [[project.theme.palette]]
 scheme = "slate"

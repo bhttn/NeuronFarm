@@ -1,5 +1,5 @@
 ---
-Title: Moving Pictures
+title: Moving Pictures
 Author: Terry Pratchett
 FirstName: Terry
 LastName: Pratchett
@@ -13,4 +13,3 @@ tags:
 categories:
   - Books
 ---
-#Books
