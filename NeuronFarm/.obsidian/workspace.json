@@ -14,24 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "bōchord/Craft/Movies/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
-            }
-          },
-          {
-            "id": "64e42e482bb4c136",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Lorehouse/bōchord.base",
-                "viewName": "Reviews"
-              },
-              "icon": "lucide-list",
-              "title": "bōchord"
             }
           }
         ]
@@ -185,10 +172,10 @@
   "active": "bed3c387d52c7bde",
   "lastOpenFiles": [
     "Lorehouse/bōchord.base",
+    "Resources/Scripts/CSV/Reviews (1).csv",
     "bōchord/Craft/Movies/index.md",
     "bōchord/Craft/Movies/Chef.md",
     "bōchord/Craft/index.md",
-    "Resources/Scripts/CSV/Reviews (1).csv",
     "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
     "Resources/Scripts/Create-Table.ps1",
     "Resources/Scripts/CSV/Reviews.csv",

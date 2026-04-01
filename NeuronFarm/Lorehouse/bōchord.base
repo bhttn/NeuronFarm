@@ -42,7 +42,6 @@ views:
       - file.name
       - stars
       - Date
-      - file.path
     sort:
       - property: rating
         direction: DESC
