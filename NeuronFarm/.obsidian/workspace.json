@@ -13,12 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
+                "file": "bōchord/Craft/Movies/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "The Fall of the House of Usher"
+              "title": "index"
+            }
+          },
+          {
+            "id": "64e42e482bb4c136",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lorehouse/bōchord.base",
+                "viewName": "Reviews"
+              },
+              "icon": "lucide-list",
+              "title": "bōchord"
             }
           }
         ]
@@ -134,6 +147,21 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "68518329aab76d08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bōchord/Craft/Movies/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
           }
         ]
       }
@@ -156,11 +184,20 @@
   },
   "active": "bed3c387d52c7bde",
   "lastOpenFiles": [
+    "Lorehouse/bōchord.base",
+    "bōchord/Craft/Movies/index.md",
+    "bōchord/Craft/Movies/Chef.md",
+    "bōchord/Craft/index.md",
+    "Resources/Scripts/CSV/Reviews (1).csv",
+    "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
+    "Resources/Scripts/Create-Table.ps1",
+    "Resources/Scripts/CSV/Reviews.csv",
+    "Resources/Scripts/CSV",
+    "Resources/Scripts/New folder",
     "bōchord/Craft/Literature/Books/The Two Towers.md",
     "bōchord/Craft/Literature/Books/The Story of Australia's History.md",
     "bōchord/Craft/Literature/Books/The Secret Life of Hidden Places.md",
     "bōchord/Craft/Literature/Books/The Legend of Alberta Jacka.md",
-    "bōchord/Craft/Literature/Books/The Fall of the House of Usher.md",
     "bōchord/Craft/Literature/Books/The Fall of Gondolin.md",
     "bōchord/Craft/Literature/Books/Terraglossia.md",
     "bōchord/Craft/Literature/Books/Roadside Picnic.md",
@@ -182,16 +219,6 @@
     "Resources/Overrides/partials/content.htmk",
     "Resources/Overrides/partials",
     "Resources/Overrides/Partials",
-    "bōchord/Craft/Movies/Project Hail Mary.md",
-    "Resources/Overrides/main.html",
-    "Resources/Overrides",
-    "Simmer & Stir/Ingredients/Pie Crust.md",
-    "Simmer & Stir/Baking/Peanut Butter Styrofoams.md",
-    "Simmer & Stir/Baking/Hot Cross Buns.md",
-    "Lorehouse.base",
-    "Lorehouse/bōchord.base",
-    "bōchord/Craft/Movies",
-    "Lorehouse/Central Bureaucracy.base",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
     "Untitled.canvas",

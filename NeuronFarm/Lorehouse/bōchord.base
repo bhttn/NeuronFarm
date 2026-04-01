@@ -41,10 +41,12 @@ views:
     order:
       - file.name
       - stars
+      - Date
+      - file.path
     sort:
       - property: rating
         direction: DESC
       - property: title
         direction: ASC
     indentProperties: false
-    separator: "-"
+    separator: " • "
