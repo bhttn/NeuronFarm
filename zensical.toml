@@ -10,6 +10,7 @@
 emoji_index = "zensical.extensions.emoji.twemoji" 
 emoji_generator = "zensical.extensions.emoji.to_svg"
 # [project.markdown_extensions.attr_list]
+[project.markdown_extensions.tables]
 
 [project]
 
@@ -78,7 +79,7 @@ extra_css = ["Resources/CSS/extra.css"]
 # Read more: https://zensical.org/docs/customization/#additional-javascript
 extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
-    "zensical/javascript/tablesort.js"
+    "zensical/javascripts/tablesort.js"
 ]
 
 # ----------------------------------------------------------------------------
