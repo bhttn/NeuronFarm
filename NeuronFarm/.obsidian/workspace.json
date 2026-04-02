@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Lorehouse/bōchord.base",
-                "viewName": "Reviews"
+                "file": "Lorehouse.base",
+                "viewName": "Simmer & Stir"
               },
               "icon": "lucide-list",
-              "title": "bōchord"
+              "title": "Lorehouse"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lorehouse/bōchord.base",
+                "file": "Lorehouse.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bōchord"
+              "title": "Outline of Lorehouse"
             }
           }
         ]
@@ -170,6 +170,17 @@
   },
   "active": "bed3c387d52c7bde",
   "lastOpenFiles": [
+    "bōchord/Ideas/Books/index.md",
+    "bōchord/Ideas/Movies/index.md",
+    "bōchord/Ideas/index.md",
+    "bōchord/Ideas/Movies/Fantastic.md",
+    "Lorehouse/bōchord.base",
+    "Resources/Scripts/CSV/Movies.csv",
+    "Resources/Scripts/CSV/Books.csv",
+    "bōchord/index.md",
+    "Resources/zensical/javascript/tablesort.js",
+    "Resources/zensical/javascript",
+    "Resources/zensical/overrides/javascript",
     "bōchord/Ideas/Books/Safecracker.md",
     "bōchord/Ideas/Books/The Children of Húrin.md",
     "bōchord/Ideas/Books/Terraglossia.md",
@@ -177,9 +188,7 @@
     "bōchord/Ideas/Books/Becoming an Artist.md",
     "bōchord/Ideas/Books/The Wild Robot Protects.md",
     "bōchord/Ideas/Books/The Wild Robot Escapes.md",
-    "bōchord/Ideas/index.md",
     "bōchord/Ideas/Language/index.md",
-    "bōchord/Ideas/Movies/index.md",
     "bōchord/Ideas/Movies/Dr Strangelove.md",
     "bōchord/Ideas/Movies/The Amazing Maurice.md",
     "bōchord/Ideas/Movies/Animal Crackers.md",
@@ -193,19 +202,10 @@
     "bōchord/Ideas/Books/Hero of two Worlds.md",
     "bōchord/Ideas/Books/The Story of Australia's History.md",
     "bōchord/Ideas/Books/Pharaoh.md",
-    "bōchord/Ideas/Books/Colour Demystified.md",
-    "bōchord/Ideas/Literature/Lord of the Dance.md",
-    "bōchord/Ideas/Art/Procreate Brushes.md",
     "bōchord/Ideas/Literature",
     "bōchord/Ideas/Language",
     "bōchord/Ideas/Movies",
     "bōchord/Ideas/Books",
-    "bōchord/Ideas/Art",
-    "bōchord/Ideas",
-    "Lorehouse/bōchord.base",
-    "Resources/Scripts/CSV/Reviews (1).csv",
-    "Resources/Scripts/Create-Table.ps1",
-    "Resources/Scripts/CSV/Reviews.csv",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
     "Untitled.canvas",

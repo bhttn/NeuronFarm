@@ -19,6 +19,7 @@ if (-not $rows) {
 $headers = $rows[0].PSObject.Properties.Name
 
 # Remove Path column from the table
+$headers = $headers | Where-Object { $_ -ne "Path" }
 
 # Build Markdown
 $md = @()
@@ -33,7 +34,8 @@ foreach ($row in $rows) {
 
         if ($h -eq "Name") {
             $name = $row.Name
-            "[${name}](./${name}/)"
+            $path = $row.Path #-replace "\.md$", ""   # drop .md extension
+            "[${name}](/${path})"
         }
         else {
             ($row.$h -replace "\|", "\`|")
