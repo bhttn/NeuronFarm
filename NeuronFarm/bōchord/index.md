@@ -14,8 +14,8 @@ icon: lucide/book-marked
 ---
 
 #### [Ideas](/bōchord/Ideas/)
-- [Books](/bōchord/Ideas/books/index.md)
-- [Movies](/bōchord/Ideas/Movies/index.md)
+- [Books](/bōchord/Ideas/Books/)
+- [Movies](/bōchord/Ideas/Movies/)
 #### [Inner Life](./Inner Life/)
 #### [Toil](./Toil/index.md)
 #### [Wonder](./Wonder/)
