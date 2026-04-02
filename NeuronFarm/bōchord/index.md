@@ -13,10 +13,10 @@ icon: lucide/book-marked
 
 ---
 
-#### [Ideas](/bōchord/Ideas/index.md)
+#### [Ideas](/bōchord/Ideas/)
 - [Books](/bōchord/Ideas/books/index.md)
 - [Movies](/bōchord/Ideas/Movies/index.md)
-#### [Inner Life](./Inner Life/index.md)
+#### [Inner Life](./Inner Life/)
 #### [Toil](./Toil/index.md)
-#### [Wonder](./Wonder/index.md)
+#### [Wonder](./Wonder/)
 

@@ -11,13 +11,14 @@
             "id": "bed3c387d52c7bde",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Lorehouse.base",
-                "viewName": "Simmer & Stir"
+                "file": "bōchord/Inner Life/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-list",
-              "title": "Lorehouse"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lorehouse.base",
+                "file": "bōchord/Inner Life/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lorehouse"
+              "title": "Outline of index"
             }
           }
         ]
@@ -170,21 +171,21 @@
   },
   "active": "bed3c387d52c7bde",
   "lastOpenFiles": [
+    "bōchord/Ideas/index.md",
+    "bōchord/index.md",
+    "Lorehouse.base",
     "Resources/zensical/javascripts/tablesort.js",
     "Resources/zensical/javascripts",
     "Resources/zensical/overrides/partials/javascripts/base.html",
     "Resources/zensical/overrides/partials/javascripts",
     "bōchord/Ideas/Books/index.md",
     "bōchord/Ideas/Movies/index.md",
-    "bōchord/Ideas/index.md",
     "bōchord/Ideas/Movies/Fantastic.md",
     "Lorehouse/bōchord.base",
     "Resources/Scripts/CSV/Movies.csv",
     "Resources/Scripts/CSV/Books.csv",
-    "bōchord/index.md",
     "Resources/zensical/javascript/tablesort.js",
     "Resources/zensical/javascript",
-    "Resources/zensical/overrides/javascript",
     "bōchord/Ideas/Books/Safecracker.md",
     "bōchord/Ideas/Books/The Children of Húrin.md",
     "bōchord/Ideas/Books/Terraglossia.md",
@@ -205,7 +206,6 @@
     "bōchord/Ideas/Books/The Fall of the House of Usher.md",
     "bōchord/Ideas/Books/Hero of two Worlds.md",
     "bōchord/Ideas/Books/The Story of Australia's History.md",
-    "bōchord/Ideas/Literature",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
     "Untitled.canvas",

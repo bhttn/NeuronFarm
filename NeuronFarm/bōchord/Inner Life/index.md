@@ -9,7 +9,7 @@ icon: lucide/sprout
 ## Inner Life
 
 
-### [Philosophy](./Philosophy/index.md)
+### [Philosophy](./Philosophy/)
 - [Abandon, Embrace](./Abandon, Embrace.md)
 - [Don't Objectify Yourself](./Don't Objectify Yourself.md)
 - [Habits to Raise Successful Kids](./Habits to Raise Successful Kids.md)
@@ -20,17 +20,17 @@ icon: lucide/sprout
 - [The Four Buddhist Mantras for Turning Fear into Love](./The Four Buddhist Mantras for Turning Fear into Love.md)
 - [Virtues are Habits we Acquire](./Virtues are Habits we Acquire.md)
 
-### [Quotes](./Quotes/index.md)
+### [Quotes](./Quotes/)
 - [Anything Endless](./Anything Endless.md)
 - [I Wanted to Know None](./I Wanted to Know None.md)
 - [No Hope, No Despair](./No Hope, No Despair.md)
 
-### [Theology](./Theology/index.md)
+### [Theology](./Theology/)
 - [A Liturgy for Domestic Days](./A Liturgy for Domestic Days.md)
 - [Reflections on Faith and Politics](./Reflections on Faith and Politics.md)
 - [Stop Sneering and Get to Work](./Stop Sneering and Get to Work.md)
 
-### [Tooling](./Tooling/index.md)
+### [Tooling](./Tooling/)
 - [7-7-7 Exercise](./7-7-7 Exercise.md)
 - [Brain Dump](./Brain Dump.md)
 - [Five Step Sleep Method](./Five Step Sleep Method.md)
