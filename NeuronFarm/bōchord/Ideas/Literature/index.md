@@ -9,7 +9,7 @@ categories:
 - [Lord of the Dance](./Lord of the Dance.md)
 - [The Folk of Middle Earth](./The Folk of Middle Earth.md)
 
-#### [Books](./Books/index.md)
+#### [Books](bōchord/Ideas/Books/index.md)
 - [A Waltz for Matilda](./A Waltz for Matilda.md)
 - [Beowulf](./Beowulf.md)
 - [Colour Demystified](./Colour Demystified.md)

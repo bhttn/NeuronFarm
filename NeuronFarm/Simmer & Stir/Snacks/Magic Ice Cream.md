@@ -4,6 +4,8 @@ tags:
 title: Magic Ice Cream
 categories:
   - Snacks
+Year:
+Source: Baking Yesteryear
 ---
 A fruit-flavoured joy made from frugal Depression-era means. Flavoured gelatin replaces the eggs and most of the cream, keeping the mixture smooth without large ice crystals forming. More sherbet than ice cream in truth, but a wonderfully light and refreshing treat — and genuinely magical for the simplicity of its method.
 

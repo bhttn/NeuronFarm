@@ -5,7 +5,7 @@ tags:
 title: Hotel Transylvania 3
 categories:
   - Movies
-page:
+page: 12
 Date: 2026-01-02
 stars: ★★★★
 rating: 4

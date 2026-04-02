@@ -1,8 +1,15 @@
 ---
 tags:
+  - notes
+  - review
 title: Terraglossia
 categories:
   - Books
+Date: 2026-03-11
+page: 16
+rating: 3.5
+stars: ★★★☆
+Author: Debra Dank
 ---
 
 ## 1. The moving tide - an introduction

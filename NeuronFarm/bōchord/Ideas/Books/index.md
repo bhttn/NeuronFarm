@@ -7,7 +7,7 @@ categories:
 #### Books
 
 - [A Waltz for Matilda](./A Waltz for Matilda.md)
-- [Beowulf](./Beowulf.md)
+- [Beowulf](Beowulf.md)
 - [Colour Demystified](./Colour Demystified.md)
 - [Hero of two Worlds](./Hero of two Worlds.md)
 - [How to Relax](./How to Relax.md)
@@ -15,10 +15,10 @@ categories:
 - [Make it So](./Make it So.md)
 - [Mind Mgmt Omnibus Part 1](./Mind Mgmt Omnibus Part 1.md)
 - [Moving Pictures](./Moving Pictures.md)
-- [Pharaoh](./Pharaoh.md)
+- [Pharaoh](Pharaoh.md)
 - [Revelation Space](./Revelation Space.md)
 - [Roadside Picnic](./Roadside Picnic.md)
-- [Terraglossia](./Terraglossia.md)
+- [Terraglossia](Terraglossia.md)
 - [The Fall of Gondolin](./The Fall of Gondolin.md)
 - [The Secret Life of Hidden Places](./The Secret Life of Hidden Places.md)
 - [The Story of Australia's History](./The Story of Australia's History.md)

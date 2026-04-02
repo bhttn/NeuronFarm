@@ -21,6 +21,7 @@
     "Author": "text",
     "Date": "date",
     "rating": "number",
-    "page": "number"
+    "page": "number",
+    "Year": "number"
   }
 }

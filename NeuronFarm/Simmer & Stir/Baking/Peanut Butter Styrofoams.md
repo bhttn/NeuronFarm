@@ -4,6 +4,8 @@ tags:
 title: Peanut Butter Styrofoams
 categories:
   - Baking
+Year: 1940
+Source: Baking Yesteryear
 ---
 *Makes 1 dozen*
 

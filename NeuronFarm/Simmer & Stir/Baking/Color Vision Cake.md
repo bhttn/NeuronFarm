@@ -4,6 +4,8 @@ tags:
 title: Color Vision Cake
 categories:
   - Baking
+Year: 1950
+Source: Baking Yesteryear
 ---
 A gimmicky, campy, wonderfully tacky celebration of midcentury America. Jell-O finds its way into both the batter and the buttercream, producing a bright, vibrantly flavoured cake that is positively distinctive — and unmistakably 1950s in its presentation.
 

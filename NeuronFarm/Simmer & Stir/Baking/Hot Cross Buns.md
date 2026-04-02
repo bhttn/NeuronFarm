@@ -4,6 +4,8 @@ tags:
 title: Hot Cross Buns
 categories:
   - Baking
+Year: 1900
+Source: Baking Yesteryear
 ---
 Makes 1 dozen*
 

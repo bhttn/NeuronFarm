@@ -3,6 +3,13 @@ filters:
     - file.path.startsWith("bōchord")
     - file.ext == "md"
     - '!file.tags.contains("Index")'
+properties:
+  file.name:
+    displayName: Movie
+  file.path:
+    displayName: Path
+  note.stars:
+    displayName: Rating
 views:
   - type: list
     name: Index
@@ -13,7 +20,7 @@ views:
       - file.name
       - tags
     markers: none
-  - type: list
+  - type: table
     name: Zahra
     filters:
       and:
@@ -23,8 +30,9 @@ views:
       direction: ASC
     order:
       - file.name
-      - Date
+      - stars
       - page
+      - Date
     sort:
       - property: Date
         direction: ASC
@@ -34,7 +42,48 @@ views:
     name: Reviews
     filters:
       and:
-        - file.tags.contains("Review")
+        - "!stars.isEmpty()"
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - stars
+    sort:
+      - property: rating
+        direction: DESC
+      - property: title
+        direction: ASC
+    indentProperties: false
+    separator: " • "
+  - type: table
+    name: Books
+    filters:
+      and:
+        - categories == ["Books"]
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - Author
+      - stars
+      - Date
+      - file.path
+    sort:
+      - property: rating
+        direction: DESC
+      - property: title
+        direction: ASC
+    indentProperties: false
+    separator: " • "
+  - type: table
+    name: Movies
+    filters:
+      and:
+        - or:
+            - categories.contains("Movies")
+            - categories.contains("Theatre")
     groupBy:
       property: categories
       direction: ASC
@@ -42,6 +91,7 @@ views:
       - file.name
       - stars
       - Date
+      - file.path
     sort:
       - property: rating
         direction: DESC
