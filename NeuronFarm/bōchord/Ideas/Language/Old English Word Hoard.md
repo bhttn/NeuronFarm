@@ -10,6 +10,9 @@ blæd
 bōchord 
 : (book-hoard) - a treasury or collection of books
 
+folm
+: hand 
+
 fyrntíd
 : “ancient time” or “time of old”
 

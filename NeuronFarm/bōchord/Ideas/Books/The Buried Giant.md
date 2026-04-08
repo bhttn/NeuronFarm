@@ -2,6 +2,7 @@
 tags:
   - zahra
   - notes
+  - review
 title: The Buried Giant
 categories:
   - Books
@@ -11,9 +12,11 @@ stars: ★★★★
 page: 13
 Author: Kazu Ishiguro
 ---
-## Notes
-Here’s the same raw Markdown with all headings converted to H3 (###), exactly as requested:
+## Review
+Set in a post Athurian Britain an old couple fight the forgetting mist that has settled on the land to set off and visit their son. 
 
+What is the cost Of forgetting your history as a family or a society? What is the cost of remembering? A beautiful travelogue through a mythical past that becomes more unsettling as the mist clears in story and metaphor.
+## Notes
 ### **04:25**
 - The traveling party meet Sir Gawain⁉️  
 - They are stopped by a Briton soldier who reveals the Saxon knight is here to slay a dragon ⁉️

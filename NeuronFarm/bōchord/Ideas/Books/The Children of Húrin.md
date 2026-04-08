@@ -2,6 +2,7 @@
 tags:
   - zahra
   - notes
+  - review
 title: The Children of Húrin
 categories:
   - Books
@@ -11,6 +12,11 @@ stars: ★★★☆
 page: 15
 Author: JRR Tolkien
 ---
+## Review
+The family cursed by Morgoth, Túrin strugles to find his place in the world. 
+
+Construction lines and clunky glue hold together Tolkiens epic tale of terribleness. With the horrible ends of nearly all the cast and the self inflicted horror the prose is the saving grace. A guide to all ways pride and trusting in a Great Man can go wrong.
+
 ## Notes
 ### **29**
 - A thankfully brief if confusing history leading up to the book and a pronunciation guide.

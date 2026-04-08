@@ -3,13 +3,6 @@ filters:
     - file.path.startsWith("bōchord")
     - file.ext == "md"
     - '!file.tags.contains("Index")'
-properties:
-  file.name:
-    displayName: Movie
-  file.path:
-    displayName: Path
-  note.stars:
-    displayName: Rating
 views:
   - type: list
     name: Index
@@ -49,49 +42,6 @@ views:
     order:
       - file.name
       - stars
-    sort:
-      - property: rating
-        direction: DESC
-      - property: title
-        direction: ASC
-    indentProperties: false
-    separator: " • "
-  - type: table
-    name: Books
-    filters:
-      and:
-        - categories == ["Books"]
-    groupBy:
-      property: categories
-      direction: ASC
-    order:
-      - file.name
-      - Author
-      - stars
-      - Date
-      - file.path
-    sort:
-      - property: rating
-        direction: DESC
-      - property: title
-        direction: ASC
-    indentProperties: false
-    separator: " • "
-  - type: table
-    name: Movies
-    filters:
-      and:
-        - or:
-            - categories.contains("Movies")
-            - categories.contains("Theatre")
-    groupBy:
-      property: categories
-      direction: ASC
-    order:
-      - file.name
-      - stars
-      - Date
-      - file.path
     sort:
       - property: rating
         direction: DESC
