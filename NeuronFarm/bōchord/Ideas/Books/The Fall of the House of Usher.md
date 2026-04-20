@@ -4,6 +4,7 @@ title: The Fall of the House of Usher
 categories:
   - Books
 Author: Edgar Allen Poe
+Date: 2026-04-19
 ---
 ## Metzengerstein
 A cruel young nobleman becomes supernaturally obsessed with a mysterious horse that ultimately carries him to his fiery death, fulfilling an ancient prophecy and avenging the family he wronged.​​​​​​​​​​​​​​​​
@@ -146,7 +147,7 @@ A man recalls his idyllic life in the Valley of the Many-Colored Grass with his 
 
 ## The Mystery of Marie Roget 
 
-**First Published:** 1842–1843 (serialized in Snowden’s Ladies’ Companion)
+**First Published:** 1842–1843 (serialized in Snowden’s Ladies’ Companion)  
 **Age**: 33–34
 
 Dupin investigates the murder of a young Parisian perfume shop girl, Marie Rogêt, whose body is found in the Seine — a thinly veiled fictional retelling of the real-life unsolved murder of Mary Rogers in New York.
@@ -171,6 +172,8 @@ The narrator describing Dupin picking apart newspaper articles which have been s
 
 **★★★☆**
 
+---
+
 ## The Pit and the Pendulum
 
 Latin Epigraph Translation:
@@ -179,19 +182,162 @@ They were unsatiated by the blood of the innocent.
 Now that the fatherland is safe and the cave of death is destroyed,
 Where grim death once was, life and health now flourish.
 
-**First Published:** 1842
+**First Published:** 1842  
 **Age**: 33
 
 A prisoner of the Spanish Inquisition endures escalating torments in a dark dungeon — a deadly pit, a descending razor pendulum, and closing walls — before being rescued at the last possible moment by French forces.
 
 **★★★★☆**
 
+---
+
 ## The Masque of the Red Death
 Hernani 
 
-**First Published:** 1842 (Graham’s Magazine, May 1842)
+**First Published:** 1842 (Graham’s Magazine, May 1842)  
 **Age**: Poe was 33 years old
 
 A tyrannical prince seals himself and his court inside an abbey to escape a devastating plague, only for the personification of death itself to infiltrate his extravagant masked ball and claim every last reveler.
 
 **★★★★☆**
+
+--- 
+
+## The Oval Portrait 
+**First Published:** 1842  
+**Age**: 33
+
+A wounded traveler takes refuge in an Italian villa, becomes captivated by a portrait of a beautiful woman, and discovers through a book that the painting drained the life from the artist’s wife as he completed it.
+
+**★★★★**
+
+---
+
+## The Gold-bug
+
+**First Published:** 1843  
+**Age:** 34
+
+A eccentric recluse and his companion discover a mysterious cryptogram on a piece of parchment that leads them on a treasure hunt for Captain Kidd’s buried gold.
+
+Clever for its time in knowing how to decode the cypher but not enough to carry the story.
+
+**★★★☆**
+
+---
+
+## The Black Cat
+Fiend Intemperance - denotes the narrator's uncontrollable alcoholism. It is personified and capitalized to emphasize it as an overpowering force leading to violent acts.
+
+**First Published:** 1843  
+**Age**: 34
+
+A man descending into alcoholism mutilates and kills his beloved cat, commits murder, and is ultimately undone by a second cat he attempted to wall up with his wife’s corpse.
+
+**★★★**
+
+---
+
+## The Tell-Tale Heart
+**First Published:** 1843  
+**Age:** 34
+
+A murderer meticulously kills an old man to escape the perceived evil of his “vulture eye,” conceals the body beneath the floorboards, and is driven to confess by the increasingly unbearable sound of the dead man’s beating heart — audible, it seems, only to himself.
+
+**★★★★**
+
+---
+
+## The Purloined Letter
+**Latin Epigraph:** Nil sapientiæ odiosius acumine nimio. — Seneca  
+**English Translation:** "Nothing is more hateful to wisdom than excessive cleverness."
+
+**First Published:** 1844  
+**Age:** 35
+
+A stolen letter containing compromising information about a royal lady is hidden in plain sight by the cunning Minister D—, and detective C. Auguste Dupin recovers it through reasoning that outsmarts both the thief and the bumbling Parisian police.
+
+**★★★★**
+
+---
+
+## The Mesmeric Revelation 
+**First Published:** 1844  
+**Age:** 35
+
+A dying man is placed under mesmerric hypnosis by a narrator, during which he delivers an elaborate philosophical monologue about the nature of God, the soul, and the universe before expiring at the moment he awakens.
+
+**★★**
+
+---
+
+## The Premature Burial
+**First Published:** 1844  
+**Age:** 35
+
+A narrator obsessed with the terror of being buried alive recounts historical cases of premature burial before describing his own apparent experience of waking entombed — which proves to be a misperception that ultimately cures him of his morbid fixation.
+
+**★**
+
+---
+
+## 'Thou Art the Man'
+**First Published:** 1844  
+**Age:** 35
+
+A seemingly upstanding citizen is revealed as the murderer of a wealthy man when a theatrical trick — a corpse launched from a wine crate — forces a confession from the true killer.
+
+**★★★☆**
+
+---
+
+## The Oblong Box
+**First Published:** 1844  
+**Age:** 35
+
+A sea voyager grows morbidly obsessed with a mysterious nailed-shut oblong box his acquaintance Cornelius Wyatt has brought aboard, only to discover after a shipwreck that it contained not a painting as claimed, but Wyatt’s embalmed wife.
+
+**★★★**
+
+---
+
+## The Facts in the Case of M. ValdemarValdemar
+**First Published:** 1845  
+**Age:** 36
+
+A mesmerist places a dying man into a hypnotic trance at the moment of death, suspending him in a horrifying liminal state between life and death for seven months before his body catastrophically liquefies upon awakening.
+
+**★★★☆**
+
+---
+
+## The Cask of Amontillado
+**First Published:** 1846  
+**Age:** 37
+
+Montresor lures his enemy Fortunato into the catacombs under the pretense of tasting a rare wine, then walls him alive as revenge for unspecified insults.
+
+**★★**
+
+---
+
+## The Sphinx
+**First Published:** 1846  
+**Age:** 37
+
+A man staying in the Hudson Valley during a cholera epidemic becomes convinced he has seen a monstrous creature on a distant hillside, which his host reveals to be merely a death’s-head moth crawling on the window glass inches from his eye.
+
+**★★★**
+
+---
+
+## Mellonta Tauta 
+
+> On board ballon *Skylark* April 1, 2848
+
+**First Published:** 1849  
+**Age:** 40
+
+A satirical epistolary tale set in 2848, narrated by a passenger aboard a balloon, mocking 19th-century philosophy, democracy, and the hubris of progress.
+
+**★★☆**
