@@ -1,0 +1,39 @@
+summaries:
+  new summary: ""
+filters:
+  and:
+    - file.inFolder("Shadow Ledger")
+formulas:
+  Week: date.format("YYYY-[W]ww")
+  Day#: date.format("DDDD")
+  Untitled: ""
+  Birthday.Countdown: number(date("2026-08-27").format("DDDD")) - number(date.format("DDDD"))
+views:
+  - type: calendar
+    name: wynntid
+    filters:
+      and:
+        - "!file.tags.isEmpty()"
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.tags
+    startDate: note.Date
+  - type: list
+    name: þeaw
+    filters:
+      and:
+        - "!þeaw.isEmpty()"
+    groupBy:
+      property: formula.Week
+      direction: ASC
+    order:
+      - þeaw
+    summaries:
+      þeaw: Unique
+  - type: calendar
+    name: View
+    order:
+      - formula.Birthday.Countdown
+    startDate: note.Date

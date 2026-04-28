@@ -49,3 +49,6 @@ views:
         direction: ASC
     indentProperties: false
     separator: " • "
+  - type: calendar
+    name: Cal
+    startDate: note.Date

@@ -22,6 +22,7 @@
     "Date": "date",
     "rating": "number",
     "page": "number",
-    "Year": "number"
+    "Year": "number",
+    "wynntid": "multitext"
   }
 }

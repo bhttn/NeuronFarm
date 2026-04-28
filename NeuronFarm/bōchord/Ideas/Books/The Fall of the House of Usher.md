@@ -6,6 +6,24 @@ categories:
 Author: Edgar Allen Poe
 Date: 2026-04-19
 ---
+# Summary
+
+| Rating | Stories                                       | Count |                                                                                                            |     |     |     |                                                                                                                                                      |     |     |     |                                                        |     |     |     |                                                     |     |     |     |                      |     |
+| ------ | --------------------------------------------- | ----- |
+| 4.5    | Pit and the Pendulum, Masque of the Red Death | 2     |     
+| 4.0 | Shadow, Morella, Usher, Man That Was Used Up, Rue Morgue, Oval Portrait, Tell-Tale Heart, Purloined Letter | 8   |    
+| 3.5 | Ms Found in a Bottle, The Assignation, Berenice, Ligeia, Man of the Crowd, Maelström, Eleonora, Marie Rogêt, Gold-Bug, Thou Art the Man, M. Valdemar | 11  |     
+| 3.0 | Metzengerstein, Silence, Black Cat, Oblong Box, Sphinx | 5   |     
+| 2.5 | William Wilson, Mesmeric Revelation, Mellonta Tauta | 3   |     
+| 1.0 | The Premature Burial | 1   |
+
+**Total:** (2×4.5) + (8×4) + (11×3.5) + (5×3) + (3×2.5) + (1×1) = 9 + 32 + 38.5 + 15 + 7.5 + 1 = **103**
+
+**103 ÷ 30 stories = 3.43 ★**
+
+Just above ★★★☆, trending toward solid but not exceptional. The Premature Burial is the only real outlier dragging the average down.
+
+# Notes
 ## Metzengerstein
 A cruel young nobleman becomes supernaturally obsessed with a mysterious horse that ultimately carries him to his fiery death, fulfilling an ancient prophecy and avenging the family he wronged.​​​​​​​​​​​​​​​​
 **★★★**
