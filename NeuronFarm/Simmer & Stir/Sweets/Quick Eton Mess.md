@@ -2,7 +2,7 @@
 tags:
 title: Quick Eton Mess
 categories:
-  - Snacks
+  - Dessert
 ---
 
 ## Ingredients

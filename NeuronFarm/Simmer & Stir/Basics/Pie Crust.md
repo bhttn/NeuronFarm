@@ -2,7 +2,7 @@
 tags:
 title: Pie Crust
 categories:
-  - Ingredients
+  - Pastry
 Source: Baking Yesteryear
 ---
 

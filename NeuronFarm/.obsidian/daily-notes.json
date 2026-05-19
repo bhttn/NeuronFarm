@@ -1,5 +1,5 @@
 {
-  "folder": "Shadow Ledger/2026 - Curious Squid/April",
+  "folder": "Shadow Ledger/2026 - Curious Squid",
   "template": "Resources/Templates/_blædJornal",
-  "format": "YYYY-MM-DD"
+  "format": "YYYY-MM-DD dddd"
 }

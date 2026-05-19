@@ -1,9 +1,8 @@
 ---
 tags:
-  - Biscuits
 title: Peanut Butter Styrofoams
 categories:
-  - Baking
+  - Biscuits
 Year: 1940
 Source: Baking Yesteryear
 ---
@@ -16,7 +15,7 @@ A dead simple concept and a fantastic take on a truly different peanut butter co
 ## Ingredients
 
 QTY | Description
-----|----
+----:|----
 2 | large egg whites
 150g | granulated sugar
 135g | peanut butter

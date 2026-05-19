@@ -6,9 +6,21 @@ filters:
 formulas:
   Week: date.format("YYYY-[W]ww")
   Day#: date.format("DDDD")
-  Untitled: ""
+  Untitled: date.format("WW")
   Birthday.Countdown: number(date("2026-08-27").format("DDDD")) - number(date.format("DDDD"))
+  Year: date.format("YYYY")
+  WeekDay#: date.format("WW.E")
+properties:
+  formula.Week:
+    displayName: Yr-Week
+  formula.Untitled:
+    displayName: Week
 views:
+  - type: calendar
+    name: Ledger
+    order:
+      - formula.WeekDay#
+    startDate: note.Date
   - type: calendar
     name: wynntid
     filters:
@@ -26,14 +38,24 @@ views:
       and:
         - "!þeaw.isEmpty()"
     groupBy:
-      property: formula.Week
+      property: formula.Untitled
       direction: ASC
     order:
       - þeaw
+      - Date
     summaries:
       þeaw: Unique
-  - type: calendar
-    name: View
+  - type: list
+    name: On This Week
+    filters:
+      and:
+        - |
+          date(Date).format("YYYY-[W]ww") == now().format("YYYY-[W]ww")
+    groupBy:
+      property: formula.Year
+      direction: ASC
     order:
-      - formula.Birthday.Countdown
-    startDate: note.Date
+      - file.name
+    sort:
+      - property: Date
+        direction: ASC

@@ -1,9 +1,8 @@
 ---
 tags:
-  - Cake
 title: Color Vision Cake
 categories:
-  - Baking
+  - Cake
 Year: 1950
 Source: Baking Yesteryear
 ---
@@ -15,23 +14,23 @@ A gimmicky, campy, wonderfully tacky celebration of midcentury America. Jell-O f
 
 ### Cake
 
-QTY | Description
-----|----
-225g | butter, softened
-170g | cherry Jell-O package, divided
-350g | granulated sugar
-½ tsp | vanilla extract
-360g | cake flour
-3 tsp | baking powder (use 2 tsp if baking at or above 1,500m)
-¾ tsp | salt
-120ml | whole milk
-115g | sour cream
-6 | large egg whites
+| QTY   | Description                                            |
+| ----- | ------------------------------------------------------ |
+| 225g  | butter, softened                                       |
+| 170g  | cherry Jell-O package, divided                         |
+| 350g  | granulated sugar                                       |
+| ½ tsp | vanilla extract                                        |
+| 360g  | cake flour                                             |
+| 3 tsp | baking powder (use 2 tsp if baking at or above 1,500m) |
+| ¾ tsp | salt                                                   |
+| 120ml | whole milk                                             |
+| 115g  | sour cream                                             |
+| 6     | large egg whites                                       |
 
 ### Frosting
 
 QTY | Description
-----|----
+----:|----
 3 tbsp | whole milk, plus more if needed
 — | remaining Jell-O from cake ingredients
 450g | unsalted butter, softened

@@ -2,7 +2,7 @@
 tags:
 title: Light and Fluffy Pancakes
 categories:
-  - Breakfast
+  - Light
 ---
 ## Ingredients
 *Makes 12*

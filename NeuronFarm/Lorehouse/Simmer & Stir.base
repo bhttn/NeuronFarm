@@ -3,9 +3,26 @@ filters:
     - file.inFolder("Simmer & Stir")
     - file.ext == "md"
     - file.name != "index"
+formulas:
+  Folder: file.folder.split("/")[-1]
+properties:
+  formula.Folder:
+    displayName: Category
 views:
   - type: list
-    name: Index
+    name: Categories
+    groupBy:
+      property: formula.Folder
+      direction: ASC
+    order:
+      - file.name
+      - formula.Folder
+    sort:
+      - property: title
+        direction: ASC
+    image: file.file
+  - type: list
+    name: Subcategories
     groupBy:
       property: categories
       direction: ASC

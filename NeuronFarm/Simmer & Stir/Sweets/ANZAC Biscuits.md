@@ -1,9 +1,8 @@
 ---
 tags:
-  - Biscuits
 title: ANZAC Biscuits
 categories:
-  - Baking
+  - Biscuits
 ---
 
 Utterly buttery and crispy on the outside, chewy in the centre. The flavours of coconut and oats are plain tasty and wholesome. A fixture of Australian and New Zealand home baking since the 1910s, and associated with the ANZAC forces of World War I. Do not call them cookies.
@@ -12,16 +11,16 @@ Utterly buttery and crispy on the outside, chewy in the centre. The flavours of 
 
 ## Ingredients
 
-|QTY  |Description                 |
-|-----|----------------------------|
-|90g  |rolled oats                 |
-|175g |all-purpose flour           |
-|120g |unsweetened shredded coconut|
-|150g |granulated sugar            |
-|¼ tsp|salt                        |
-|150g |butter, softened            |
-|60ml |golden syrup                |
-|1 tsp|baking soda                 |
+|   QTY | Description                  |
+| ----: | ---------------------------- |
+|   90g | rolled oats                  |
+|  175g | all-purpose flour            |
+|  120g | unsweetened shredded coconut |
+|  150g | granulated sugar             |
+| ¼ tsp | salt                         |
+|  150g | butter, softened             |
+|  60ml | golden syrup                 |
+| 1 tsp | baking soda                  |
 
 ## Method
 

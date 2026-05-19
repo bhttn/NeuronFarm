@@ -3,7 +3,7 @@ tags:
   - Ice-Cream
 title: Magic Ice Cream
 categories:
-  - Snacks
+  - Dessert
 Year:
 Source: Baking Yesteryear
 ---

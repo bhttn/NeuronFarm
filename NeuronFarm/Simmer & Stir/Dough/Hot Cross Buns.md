@@ -1,9 +1,8 @@
 ---
 tags:
-  - Bread
 title: Hot Cross Buns
 categories:
-  - Baking
+  - Bread
 Year: 1900
 Source: Baking Yesteryear
 ---
@@ -17,18 +16,18 @@ A staple of Good Friday in Bermuda and Easter in the UK, this spiced currant bun
 
 ### Buns
 
-QTY | Description
-----|----
-55g | butter, softened
-75g | packed dark brown sugar
-235ml | whole milk
-230g | raisins
-14g (2 packets) | active dry yeast
-490g | bread flour, plus more if needed
-1 tsp | ground allspice
-1 tbsp | ground cinnamon
-1 tsp | salt
-3 | large eggs
+| QTY             | Description                      |
+| --------------- | -------------------------------- |
+| 55g             | butter, softened                 |
+| 75g             | packed dark brown sugar          |
+| 235ml           | whole milk                       |
+| 230g            | raisins                          |
+| 14g (2 packets) | active dry yeast                 |
+| 490g            | bread flour, plus more if needed |
+| 1 tsp           | ground allspice                  |
+| 1 tbsp          | ground cinnamon                  |
+| 1 tsp           | salt                             |
+| 3               | large eggs                       |
 
 ### Crosses
 

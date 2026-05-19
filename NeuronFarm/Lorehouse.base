@@ -23,7 +23,7 @@ views:
       and:
         - file.inFolder("Simmer & Stir")
     groupBy:
-      property: categories
+      property: file.folder
       direction: ASC
     order:
       - file.name

@@ -1,16 +1,13 @@
 ---
 title: Sourdough Pizza
 Cat:
-  - Baking
-  - Mains
-SubCat: Bread
+SubCat:
 SourceTitle: The Perfect Loaf
 SourceURL: https://www.theperfectloaf.com/sourdough-pizza-dough-and-recipes
 tags:
-  - Bread
-  - Dough
 categories:
   - Dough
+  - Weekend
 ---
 ![[IMG_0052.webp]]
 

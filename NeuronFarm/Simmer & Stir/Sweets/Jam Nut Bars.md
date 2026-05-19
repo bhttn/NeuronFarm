@@ -5,11 +5,14 @@ categories:
   - Snacks
 ---
 ## Ingredients
-1x Walnut
-1x hazelnuts
-1x almonds
-1x Oats
-3 tbsp Jam
+
+QTY | Ingredient
+---:|-
+1x |Walnut
+1x |hazelnuts
+1x |almonds
+1x |Oats
+3 tbsp |Jam
 
 ## Method
 1. Place all ingredients in a food processor, blend till smoothish
