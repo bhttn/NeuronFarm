@@ -12,6 +12,8 @@ emoji_generator = "zensical.extensions.emoji.to_svg"
 # [project.markdown_extensions.attr_list]
 [project.markdown_extensions.tables]
 [project.markdown_extensions.def_list]
+[project.markdown_extensions.zensical.extensions.glightbox]
+auto_caption = true
 
 [project]
 

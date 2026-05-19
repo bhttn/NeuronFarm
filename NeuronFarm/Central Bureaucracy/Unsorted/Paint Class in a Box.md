@@ -1,0 +1,1 @@
+Canvas size 30cm x 40 cm (16" x 12")

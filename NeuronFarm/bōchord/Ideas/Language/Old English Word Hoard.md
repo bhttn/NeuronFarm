@@ -29,6 +29,12 @@ geōmor
 muþ
 : mouth
 
+tilungbóc
+: “striving-book” (tilung + bóc) — tilung means effort, cultivation, endeavour; bóc is book or record. A ledger of one’s earnest strivings.
+
+unræd
+: ill-counsel, poor judgement, a mind that advises itself badly.
+
 wēriġ
 : weary
 : [https://en.wiktionary.org/wiki/werig](https://en.wiktionary.org/wiki/werig)
