@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bōchord/Ideas/Books/The Fall of the House of Usher.md",
-                "mode": "preview",
+                "file": "bōchord/Ideas/index.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Fall of the House of Usher"
+              "title": "index"
             }
           }
         ]
@@ -182,6 +182,13 @@
   },
   "active": "bed3c387d52c7bde",
   "lastOpenFiles": [
+    "bōchord/index.md",
+    "bōchord/Ideas/Art/index.md",
+    "bōchord/Ideas/Art/How to Pose Your Face.md",
+    "bōchord/Ideas/index.md",
+    "bōchord/bōchord.md",
+    "bōchord/Ideas/Books/The Fall of the House of Usher.md",
+    "Resources/Scripts/generate_index.py",
     "Shadow Ledger/2026 - Curious Squid/2026-05-19 Tuesday.md",
     "Shadow Ledger/2026 - Curious Squid/2026-05-18 Monday.md",
     "Simmer & Stir/Technique/How to Brew the Perfect Cup of Tea.md",
@@ -202,12 +209,6 @@
     "Shadow Ledger/2026 - Curious Squid/April/2026-05-10 Sunday.md",
     "Central Bureaucracy/Tilungbóc/Braindump.md",
     "Shadow Ledger/2026 - Curious Squid/2026-05-09 Saturday.md",
-    "Shadow Ledger/2026 - Curious Squid/April/2026-05-09 Saturday.md",
-    "Simmer & Stir/Sweets/Quick Eton Mess.md",
-    "Simmer & Stir/Sweets/Magic Ice Cream.md",
-    "Simmer & Stir/Sweets/Jam Nut Bars.md",
-    "Simmer & Stir/Sweets/Color Vision Cake.md",
-    "Simmer & Stir/Sweets/ANZAC Biscuits.md",
     "Simmer & Stir/Sweets",
     "Simmer & Stir/Technique",
     "Simmer & Stir/Dough/images/IMG_0052.webp",
@@ -218,7 +219,6 @@
     "Lorehouse/Shadow Ledger.base",
     "Shadow Ledger/2026 - Curious Squid/April",
     "Shadow Ledger/2026 - Curious Squid",
-    "Lorehouse/bōchord.base",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
     "Untitled.canvas",

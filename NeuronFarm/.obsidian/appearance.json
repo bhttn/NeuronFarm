@@ -1,9 +1,10 @@
 {
   "accentColor": "#00a1d8",
   "baseFontSize": 16,
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "anchor"
-  ]
+  ],
+  "textFontFamily": "Palatino"
 }

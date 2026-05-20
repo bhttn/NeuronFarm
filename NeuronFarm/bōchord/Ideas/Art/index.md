@@ -1,10 +1,2 @@
----
-tags: Index
-title: Art Index
-categories:
----
-
-### Art
-
-- [How to Pose Your Face](./How to Pose Your Face.md)
-
+[How to Pose Your Face](./How to Pose Your Face.md)
+[Procreate Brushes](./Procreate Brushes.md)
