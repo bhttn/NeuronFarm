@@ -64,7 +64,7 @@ def make_link(label: str, rel_prefix: str, filename: str) -> str:
     Returns e.g. [File1](./File1.md) or [File1](./SubFolder/File1.md)
     """
     path = rel_prefix + "/" + filename
-    return f"[{label}]({path})"
+    return f"- [{label}]({path})"
 
 
 def build_index_lines(folder: str, rel_prefix: str = ".", depth: int = 1) -> list[str]:
@@ -101,6 +101,26 @@ def build_index_lines(folder: str, rel_prefix: str = ".", depth: int = 1) -> lis
     return lines
 
 
+def get_frontmatter(folder: str) -> str:
+    """
+    Return frontmatter to prepend to index.md.
+    If a .yml file matching the folder name exists, use its contents.
+    Otherwise return a default frontmatter block using the folder name.
+    """
+    folder_name = os.path.basename(folder)
+    yml_path = os.path.join(folder, folder_name + ".yml")
+
+    if os.path.isfile(yml_path):
+        try:
+            with open(yml_path, "r", encoding="utf-8") as f:
+                yml_content = f.read().strip()
+            return f"---\n{yml_content}\n---\n"
+        except (PermissionError, OSError):
+            pass  # Fall through to default if unreadable
+
+    return f"---\ntitle: {folder_name} Index\n---\n"
+
+
 def write_index(folder: str) -> bool:
     """Write index.md for a single folder. Returns True on success."""
     lines = build_index_lines(folder)
@@ -109,7 +129,8 @@ def write_index(folder: str) -> bool:
     while lines and lines[0] == "":
         lines.pop(0)
 
-    content = "\n".join(lines)
+    frontmatter = get_frontmatter(folder)
+    content = frontmatter + "\n" + "\n".join(lines)
     if content and not content.endswith("\n"):
         content += "\n"
 
