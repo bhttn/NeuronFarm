@@ -112,7 +112,7 @@ def build_table_row(record: dict, include_author: bool) -> str:
     stars = format_stars(record.get("stars"))
     date_str = format_date(record.get("date"))
     encoded_filename = filename.replace(" ", "%20")
-    link = f"[{title}](.\\{encoded_filename})"
+    link = f"[{title}]({encoded_filename})"
 
     if include_author:
         author = record.get("author") or ""

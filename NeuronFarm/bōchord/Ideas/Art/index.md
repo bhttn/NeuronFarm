@@ -2,5 +2,5 @@
 title: Art Index
 ---
 
-- [How to Pose Your Face](./How to Pose Your Face.md)
-- [Procreate Brushes](./Procreate Brushes.md)
+- [How to Pose Your Face](How%20to%20Pose%20Your%20Face.md)
+- [Procreate Brushes](Procreate%20Brushes.md)

@@ -63,7 +63,7 @@ def make_link(label: str, rel_prefix: str, filename: str) -> str:
     filename:   the .md filename
     Returns e.g. [File1](./File1.md) or [File1](./SubFolder/File1.md)
     """
-    path = rel_prefix + "/" + filename
+    path = (rel_prefix + "/" + filename).lstrip("./").replace(" ", "%20")
     return f"- [{label}]({path})"
 
 
