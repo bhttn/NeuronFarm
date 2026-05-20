@@ -1,5 +1,5 @@
 ---
-title: Language Index
+title: Language
 ---
 
 - [Multimodal Narrative](Multimodal%20Narrative.md)

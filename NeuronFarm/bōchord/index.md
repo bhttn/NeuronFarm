@@ -1,5 +1,5 @@
 ---
-title: bōchord Index
+title: bōchord
 ---
 
 ## Ideas

@@ -1,5 +1,5 @@
 ---
-title: Quotes Index
+title: Quotes
 ---
 
 - [Anything Endless](Anything%20Endless.md)

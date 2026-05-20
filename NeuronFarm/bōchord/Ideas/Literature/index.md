@@ -1,5 +1,5 @@
 ---
-title: Literature Index
+title: Literature
 ---
 
 - [Lord of the Dance](Lord%20of%20the%20Dance.md)

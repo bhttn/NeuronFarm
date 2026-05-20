@@ -1,5 +1,5 @@
 ---
-title: Inner Life Index
+title: Inner Life
 ---
 
 ## Philosophy

@@ -1,5 +1,5 @@
 ---
-title: Wonder Index
+title: Wonder
 ---
 
 - [Aboriginal Migration](Aboriginal%20Migration.md)

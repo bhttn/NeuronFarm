@@ -1,5 +1,5 @@
 ---
-title: Tooling Index
+title: Tooling
 ---
 
 - [7-7-7 Exercise](7-7-7%20Exercise.md)

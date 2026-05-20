@@ -1,5 +1,5 @@
 ---
-title: Hairy Tails Index
+title: Hairy Tails
 ---
 
 - [Bronze Quoll](Bronze%20Quoll.md)

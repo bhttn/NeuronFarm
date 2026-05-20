@@ -1,5 +1,5 @@
 ---
-title: Theology Index
+title: Theology
 ---
 
 - [A Liturgy for Domestic Days](A%20Liturgy%20for%20Domestic%20Days.md)

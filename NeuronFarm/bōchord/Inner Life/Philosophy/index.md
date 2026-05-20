@@ -1,5 +1,5 @@
 ---
-title: Philosophy Index
+title: Philosophy
 ---
 
 - [Abandon, Embrace](Abandon,%20Embrace.md)

@@ -1,5 +1,5 @@
 ---
-title: Ideas Index
+title: Ideas
 ---
 
 ## Art

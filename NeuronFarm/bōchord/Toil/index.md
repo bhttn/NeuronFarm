@@ -1,5 +1,5 @@
 ---
-title: Toil Index
+title: Toil
 ---
 
 - [Agile](Agile.md)

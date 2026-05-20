@@ -118,7 +118,7 @@ def get_frontmatter(folder: str) -> str:
         except (PermissionError, OSError):
             pass  # Fall through to default if unreadable
 
-    return f"---\ntitle: {folder_name} Index\n---\n"
+    return f"---\ntitle: {folder_name}\n---\n"
 
 
 def write_index(folder: str) -> bool:
