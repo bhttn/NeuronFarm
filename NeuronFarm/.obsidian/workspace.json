@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bōchord/Ideas/Movies/index.md",
+                "file": "bōchord/Ideas/Games/High card by Suit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "High card by Suit"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "bed3c387d52c7bde",
   "lastOpenFiles": [
+    "bōchord/Ideas/Movies/index.md",
     "bōchord/Ideas/Games/index.md",
     "bōchord/Ideas/Movies/Knives Out.md",
-    "bōchord/Ideas/Movies/index.md",
     "bōchord/Ideas/Movies/Chef.md",
     "bōchord/Ideas/index.md",
     "bōchord/Ideas/Games/High card by Suit.md",
