@@ -25,12 +25,10 @@ views:
     name: wynntid
     filters:
       and:
-        - "!file.tags.isEmpty()"
-    groupBy:
-      property: tags
-      direction: ASC
+        - "!wynntid.isEmpty()"
     order:
-      - file.tags
+      - wynntid
+    sort: []
     startDate: note.Date
   - type: list
     name: þeaw
