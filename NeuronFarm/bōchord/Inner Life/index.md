@@ -1,5 +1,9 @@
 ---
+tags:
+  - Index
 title: Inner Life
+categories:
+icon: lucide/sprout
 ---
 
 ## Philosophy

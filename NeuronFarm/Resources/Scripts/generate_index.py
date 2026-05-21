@@ -108,7 +108,7 @@ def get_frontmatter(folder: str) -> str:
     Otherwise return a default frontmatter block using the folder name.
     """
     folder_name = os.path.basename(folder)
-    yml_path = os.path.join(folder, folder_name + ".yml")
+    yml_path = os.path.join(folder, folder_name + ".yaml")
 
     if os.path.isfile(yml_path):
         try:

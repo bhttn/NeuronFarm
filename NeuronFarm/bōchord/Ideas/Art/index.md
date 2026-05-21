@@ -1,5 +1,8 @@
 ---
+tags: index
 title: Art
+categories:
+icon: lucide/palette
 ---
 
 - [How to Pose Your Face](How%20to%20Pose%20Your%20Face.md)

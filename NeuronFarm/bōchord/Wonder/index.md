@@ -1,5 +1,9 @@
 ---
+tags:
+  - Index
 title: Wonder
+categories:
+icon: lucide/rocket
 ---
 
 - [Aboriginal Migration](Aboriginal%20Migration.md)

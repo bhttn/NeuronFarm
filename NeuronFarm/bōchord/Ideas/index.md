@@ -1,5 +1,8 @@
 ---
+tags: index
 title: Ideas
+categories:
+icon: lucide/lightbulb
 ---
 
 ## Art

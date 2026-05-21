@@ -1,5 +1,9 @@
 ---
+tags:
+  - Index
 title: Toil
+categories:
+icon: lucide/monitor-cloud
 ---
 
 - [Agile](Agile.md)
