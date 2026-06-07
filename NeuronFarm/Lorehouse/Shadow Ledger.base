@@ -10,11 +10,14 @@ formulas:
   Birthday.Countdown: number(date("2026-08-27").format("DDDD")) - number(date.format("DDDD"))
   Year: date.format("YYYY")
   WeekDay#: date.format("WW.E")
+  Month: date.format("MMM YYYY")
 properties:
   formula.Week:
     displayName: Yr-Week
   formula.Untitled:
     displayName: Week
+  formula.Month:
+    displayName: Month-Year
 views:
   - type: calendar
     name: Ledger
@@ -54,6 +57,33 @@ views:
       direction: ASC
     order:
       - file.name
+    sort:
+      - property: Date
+        direction: ASC
+  - type: list
+    name: hwīlrest
+    filters:
+      and:
+        - "!hwīlrest.isEmpty()"
+    groupBy:
+      property: formula.Month
+      direction: ASC
+    order:
+      - hwīlrest
+    sort:
+      - property: hwīlrest
+        direction: ASC
+  - type: list
+    name: Dinner
+    filters:
+      and:
+        - "!Dinner.isEmpty()"
+        - Date > "2026-01-01"
+    groupBy:
+      property: Dinner
+      direction: ASC
+    order:
+      - Date
     sort:
       - property: Date
         direction: ASC

@@ -23,6 +23,8 @@
     "rating": "number",
     "page": "number",
     "Year": "number",
-    "wynntid": "multitext"
+    "wynntid": "multitext",
+    "mēd": "multitext",
+    "þeaw-success": "number"
   }
 }

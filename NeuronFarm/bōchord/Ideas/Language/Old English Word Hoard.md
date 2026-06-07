@@ -92,6 +92,9 @@ title: Old English Word Hoard
 : Moral character as expressed through conduct — virtue made visible in action.
 : In the plural **þeawas** — one’s manners, virtues, the entire constellation of one’s behaviour and ethical bearing.
 
+**mēd** 
+: reward, recompense, wages; what is given in return for labour or service — but also what one is genuinely _worthy_ of receiving. The word holds both the transactional and the moral in tension: payment and desert at once.
+
 **unræd**
 : ill-counsel, poor judgement; a mind that advises itself badly.
 

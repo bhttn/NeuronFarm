@@ -1,5 +1,7 @@
 ---
 tags:
+  - zahra
+  - review
 title: Star Wars
 categories:
   - Movies

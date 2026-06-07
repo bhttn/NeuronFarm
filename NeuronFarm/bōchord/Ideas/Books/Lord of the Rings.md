@@ -19,3 +19,8 @@ The splendor of Gondor is only kept in the royal guards, an empty symbol with no
 burthen 
 
 ### The Passing of the Grey Company 
+
+## Book 6
+### The Tower of Cirith Ungol
+
+> ... hideous brooding uncertainty. 
