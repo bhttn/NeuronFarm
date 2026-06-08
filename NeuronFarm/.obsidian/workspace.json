@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bed3c387d52c7bde",
+            "id": "21b06658c6d6648e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simmer & Stir/Simmer & Stir.md",
+                "file": "Simmer & Stir/Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Simmer & Stir"
+              "title": "Index"
             }
           }
         ]
@@ -181,12 +181,23 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "bed3c387d52c7bde",
+  "active": "21b06658c6d6648e",
   "lastOpenFiles": [
-    "bōchord/Ideas/Books/Aeneid.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-07 Sunday.md",
-    "Simmer & Stir/Simmer & Stir.md",
     "Simmer & Stir/Untitled.md",
+    "Simmer & Stir/Index.md",
+    "index.md",
+    "Resources/Templates/Index.md",
+    "Resources/Templates/Untitled 1.md",
+    "Resources/Templates/Untitled.md",
+    "bōchord/Ideas/Books/Aeneid.md",
+    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir/Sweets/ANZAC Biscuits.md, Simmer & Stir/Sweets/Chocolate Biscuits.md",
+    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir/Sweets/ANZAC Biscuits.md, Simmer & Stir/Sweets",
+    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir/Sweets/ANZAC Biscuits.md, Simmer & Stir",
+    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir/Sweets",
+    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir",
+    "Simmer & Stir/Simmer & Stir.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-06-08 Monday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-06-07 Sunday.md",
     "Shadow Ledger/2026 - Curious Squid.md",
     "bōchord/Ideas/Books/The Fall of the House of Usher.md",
     "bōchord/Ideas/Books/Beowulf.md",
@@ -202,23 +213,12 @@
     "Shadow Ledger/2026 - Curious Squid/2026-06-06 Saturday.md",
     "Shadow Ledger/2026 - Curious Squid/2026-06-05 Friday.md",
     "bōchord/Ideas/Books/I Hate Fairyland.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-04 Thursday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-03 Wednesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-02 Tuesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-01 Monday.md",
-    "Simmer & Stir/Sweets/Wacky Cake.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-05-24 Sunday.md",
-    "Shadow Ledger/Sketch Ideas.md",
     "bōchord/Ideas/Shows",
     "bōchord/Ideas/Art/Art.yaml",
     "bōchord/Ideas/Art/Ideas.yaml",
     "bōchord/Ideas/Ideas.yaml",
     "bōchord/Ideas/bōchord.yaml",
     "bōchord/Ideas/Games",
-    "Resources/Scripts/md_index.py",
-    "Resources/Scripts/generate_index.py",
-    "Simmer & Stir/Sweets",
-    "Simmer & Stir/Technique",
     "Simmer & Stir/Dough/images/IMG_0052.webp",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
