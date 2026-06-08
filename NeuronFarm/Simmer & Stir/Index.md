@@ -7,7 +7,7 @@ categories:
 ---
 
 ### Biscuits
-- [[Simmer & Stir/Sweets/ANZAC Biscuits.md|ANZAC Biscuits]]
+- [[./Simmer & Stir/Sweets/ANZAC Biscuits.md|ANZAC Biscuits]]
 - [[Simmer & Stir/Sweets/Chocolate Biscuits.md|Chocolate Biscuits]]
 - [[Simmer & Stir/Sweets/Peanut Butter Styrofoams.md|Peanut Butter Styrofoams]]
 
