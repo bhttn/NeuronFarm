@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simmer & Stir/Index.md",
+                "file": "Simmer & Stir/Sweets/ANZAC Biscuits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "ANZAC Biscuits"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "21b06658c6d6648e",
   "lastOpenFiles": [
-    "Simmer & Stir/Sweets/ANZAC Biscuits.md",
     "Simmer & Stir/Index.md",
+    "Simmer & Stir/Sweets/ANZAC Biscuits.md",
     "Simmer & Stir/Sweets/Shortbread.md",
     "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md",
     "Simmer & Stir/Sweets/Steamed Jam Sponge.md",
