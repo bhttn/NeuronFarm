@@ -20,7 +20,7 @@ categories:
 |   55g | corn flour                                      |
 
 ## Method
-1.  Brush a 6 x 10 (1/8 sheet) rimmed baking sheet with a light coating of soft butter. Add 1-2 tablespoons of demerara sugar and tilt the pan until it is well coated.
+1.  Brush a 15 x 25 cm (6 x 10 ) rimmed baking sheet with a light coating of soft butter. Add 1-2 tablespoons of demerara sugar and tilt the pan until it is well coated.
 2.  Preheat the oven to 150 °C.
 3.  Combine butter, browned butter, salt, and toasted sugar in the bowl of a stand mixer. Mix well for 2-3 minutes. 
 4.  Meanwhile, combine the flour and cornstarch in a bowl. Whisk well to combine. 
@@ -31,7 +31,6 @@ categories:
 9.  Allow the shortbread to cool for 10-15 minutes
 10.  While still warm, cut the cookies to the desired size using a thin knife. 
 11.  Allow the cookies to cool in the pan for a minimum of 4 hours or up to overnight.
-    
 12.  Once the cookies are completely cooled, serve with your choice of warm beverage or cover in plastic wrap. The cookies can be kept at room temperature for up to 2 days.
 
 ---
