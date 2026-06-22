@@ -24,3 +24,7 @@ page:
 ### Issue 7
 - outside toilet
 - The robes
+
+### Issue 9: Splat in the Hat
+- The bald guy in a robe
+- The scared moon

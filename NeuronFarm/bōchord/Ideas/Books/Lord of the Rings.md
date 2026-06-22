@@ -24,3 +24,6 @@ burthen
 ### The Tower of Cirith Ungol
 
 > ... hideous brooding uncertainty. 
+
+### The Land of Shadow
+> high up in the angle where the wented spur branched away from the main range, stood the old castle of **Durthang**, now one of the many orc-holds that clustered about the dale of Udân.

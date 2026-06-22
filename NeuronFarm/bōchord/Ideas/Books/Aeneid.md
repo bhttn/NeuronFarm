@@ -12,6 +12,10 @@ Author: Virgil
 ### Aeneas
 
 Survivor of the siege of Troy. His defining characteristic is piety, a respect for the will of the gods. He is a fearsome warrior and a leader able to motivate his men in the face of adversity, but also a man capable of great compassion and sorrow. His destiny is to found the Roman race in Italy.
+
+### Ulixes
+
+**Ulixes** is the Latin name for the legendary Greek king of Ithaca, **Odysseus**, the hero of Homer's _Odyssey_ and a central figure in the _Iliad_ [*](https://logeion.uchicago.edu/Ulixe#:~:text=Ulix%C4%93s%2C%20is%2C%20e%C4%AB,2.44%2C%20et%20al.)[†](https://en.wikipedia.org/wiki/Odysseus#:~:text=Ulixes%20%29%2C%20is,Iliad%20and%20other). The name is believed to have entered the Latin language from a dialectal form of Ancient Greek, likely before the _Odyssey_ itself became widely known in Rome. 
 ## People
 
 ### Dido
@@ -42,3 +46,22 @@ The goddess of love and the mother of Aeneas. Venus (Aphrodite in Greek mytholog
 - Trojans believe that they will found a city in Italy that will rule the world
 - washed ashore in Tunisia [[#Dido]] welcomes the Trojans in  
 - [[#Dido]] is bewitched by Cupid on orders of his mother [[#Venus]] to fall for [[#Aeneas]]
+## Book 2: The Fall of Troy
+- many Trojans wanted to burn the horse out throw it in the sea
+- Sinon the next pretend traitorous Greek 
+- Cassandra the unbelieved oracle?
+- was the house bigger than the gate?
+- Hector came to [[#Aeneas]] in a dream to warn him to escape Troy and found a new city
+> Meanwhile the sky was turning and night was rosting op from the Ocean to envelop in its great shadow the earth,
+
+## Book 3: The Wanderings
+- Polydorus the doomed Priam. Buried surround by weapons that have now grown into his body?
+
+> In that instant the blood of my comrades was congealed with fear. Line 260
+
+## Book 4: Dido
+
+> Of all the ills there are, Rumour is the swiftest. She thrives on movement and gathers strength as she goes. From small and murmur of your thunde timorous beginnings she soon lifts herself up into the air, her cur land and we allower feet still on the ground and her head hidden in the clouds. They say she is the last daughter of Mother Earth who bore her in of the lace for her andrage against the gods, a sister for Cous and Enceladus. Rumour is quick of foot and swift on the wing, a huge and horrible and taken Aeneas into monster, and under every teather of her body, strange to tell, on this second Paris there lies an eye that never sleeps, a mouth and a tongue that dripping with perfum are never silent and an ear always pricked.
+
+## Book 5: Funeral Games
+- Meliboean purple?
