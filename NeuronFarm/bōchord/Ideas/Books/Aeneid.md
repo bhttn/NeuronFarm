@@ -65,3 +65,5 @@ The goddess of love and the mother of Aeneas. Venus (Aphrodite in Greek mytholog
 
 ## Book 5: Funeral Games
 - Meliboean purple?
+
+## Book 6: The Underworld 

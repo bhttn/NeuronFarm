@@ -36,11 +36,11 @@ dv.paragraph(`**${done} / ${total} tasks complete (${pct}%)**`);
 
 **Goal:** Get comfortable with the brush pen's wobble and pressure range before drawing anything representational.
 
-- [ ] Day 1 — pure scribble/line warmup, 15 min
-- [ ] Day 2 — pure scribble/line warmup, 15 min
-- [ ] Day 3 — pure scribble/line warmup, 15 min
-- [ ] Day 4 — pure scribble/line warmup, 15 min
-- [ ] Day 5 — pure scribble/line warmup, 15 min
+- [x] Day 1 — pure scribble/line warmup, 15 min
+- [x] Day 2 — pure scribble/line warmup, 15 min
+- [x] Day 3 — pure scribble/line warmup, 15 min
+- [x] Day 4 — pure scribble/line warmup, 15 min
+- [x] Day 5 — pure scribble/line warmup, 15 min
 - [ ] Trace 5–10 Young pieces for muscle memory (not for posting)
 - [ ] Note: where does his line thicken / break / go scratchy?
 
