@@ -7,7 +7,6 @@ icon: lucide/brain-cog
 ---
 "Where synthetic synapses bloom in neon rows under the watch of patient quantum shepherds."
 
-# NeuronFarm
 ## [bōchord](./bōchord/index.md)
 
 ## [Central Bureaucracy](./Central Bureaucracy/index.md)
