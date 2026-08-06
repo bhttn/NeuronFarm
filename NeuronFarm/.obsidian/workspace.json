@@ -11,12 +11,24 @@
             "id": "21b06658c6d6648e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Central Bureaucracy/Field Trips/Archive/2024/images/Pasted image 20240924195739.jpg"
+                "file": "Central Bureaucracy/Pages/Index.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240924195739"
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -93,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Central Bureaucracy/Pages/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -140,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/images/index.md",
+                "file": "Central Bureaucracy/Pages/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Index"
             }
           }
         ],
@@ -169,10 +182,13 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "6bd0fbef7dbb07f2",
+  "active": "21b06658c6d6648e",
   "lastOpenFiles": [
-    "Central Bureaucracy/Field Trips/Archive/2024/images/Pasted image 20240924195739.jpg",
+    "index.md",
+    "Central Bureaucracy/Pages/Index.md",
+    "Central Bureaucracy/Field Trips/Checklists/32.01 Camper Trailer.md",
     "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/images/index.md",
+    "Central Bureaucracy/Field Trips/Archive/2024/images/Pasted image 20240924195739.jpg",
     "Central Bureaucracy/Field Trips/Archive/2024/Melbourne - Itinerary.md",
     "Central Bureaucracy/Field Trips/Archive/2024/Melbourne - Accounting.md",
     "Central Bureaucracy/Field Trips/Archive/2024/Melbourne.md",
@@ -195,8 +211,6 @@
     "Central Bureaucracy/Field Trips/Archive/DH - Stats.md",
     "Central Bureaucracy/Unsorted/Field Trips/Holidays/31.01  Berry Festival.md",
     "Central Bureaucracy/Unsorted/Field Trips/Holidays/312 Dragon Calling/_Index_of_312 Dragon Calling.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Holidays/312 Dragon Calling/312 Dragon Calling.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Holidays/312 Dragon Calling/index.md",
     "Central Bureaucracy/Field Trips/Archive",
     "Central Bureaucracy/Unsorted/Field Trips/Holidays/FESTIVAL-PROFRAM-01.jpg",
     "Central Bureaucracy/Unsorted/images/Pasted image 20241127202957.png",
@@ -217,7 +231,6 @@
     "Simmer & Stir/Dough/images/IMG_0052.webp",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
-    "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg",
     "Obsidian/Untitled.canvas",
     "Dashboards.canvas",
     "Untitled 1.canvas"
