@@ -1,5 +1,6 @@
 summaries:
   new summary: ""
+  Unique: values.unique().length
 filters:
   and:
     - file.inFolder("Shadow Ledger")
@@ -11,6 +12,7 @@ formulas:
   Year: date.format("YYYY")
   WeekDay#: date.format("WW.E")
   Month: date.format("MMM YYYY")
+  wynntid-verb: wynntid.map(value.split(" ")[0])
 properties:
   formula.Week:
     displayName: Yr-Week
@@ -79,11 +81,18 @@ views:
       and:
         - "!Dinner.isEmpty()"
         - Date > "2026-01-01"
-    groupBy:
-      property: Dinner
-      direction: ASC
     order:
+      - Dinner
       - Date
+      - file.name
     sort:
       - property: Date
-        direction: ASC
+        direction: DESC
+  - type: list
+    name: wynntid summary
+    groupBy:
+      property: formula.wynntid-verb
+      direction: ASC
+    order:
+      - formula.wynntid-verb
+    markers: none

@@ -27,9 +27,12 @@ On the Bay Apartments
 
 ## Sunday 12
 
-| Time          | Desc                                | Location                               |
-| ------------- | ----------------------------------- | -------------------------------------- |
-| 9.00 - 9.45   | Opening Parade                      | Castle Arena                           |
-| 11:30         | Care and Keeping of Medieval Hounds | Horses, Hounds, Hunters and<br>Farmers |
-| 13:45 - 14:00 | Firing of the Trebuchet             | Castle Arena                           |
-| 16:15 - 16:30 | Closing Ceremony                    | Castle Arena                           |
+| Time          | Desc                                | Location                            |
+| ------------- | ----------------------------------- | ----------------------------------- |
+| 9.00 - 9.45   | Opening Parade                      | Castle Arena                        |
+| 10:00         | Tour of Encampment - Viking Life    | Saga Vikings                        |
+| 11:30         | Care and Keeping of Medieval Hounds | Horses, Hounds, Hunters and Farmers |
+| 11:30 - 12:00 | Dogs in Medieval Time               | PAGEANT WAGON                       |
+| 13:45 - 14:00 | Firing of the Trebuchet             | Castle Arena                        |
+| 15:30 - 16:15 | Cirque Medieval                     | Stag Inn                            |
+| 16:15 - 16:30 | Closing Ceremony                    | Castle Arena                        |

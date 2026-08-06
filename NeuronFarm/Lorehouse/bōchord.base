@@ -27,8 +27,8 @@ views:
       - page
       - Date
     sort:
-      - property: Date
-        direction: ASC
+      - property: rating
+        direction: DESC
     indentProperties: false
     separator: "-"
   - type: list
@@ -52,3 +52,21 @@ views:
   - type: calendar
     name: Cal
     startDate: note.Date
+  - type: table
+    name: Zahra Index
+    filters:
+      and:
+        - file.tags.contains("zahra")
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - stars
+      - page
+      - Date
+    sort:
+      - property: rating
+        direction: DESC
+    indentProperties: false
+    separator: "-"

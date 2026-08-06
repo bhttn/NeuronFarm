@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Bureaucracy/Field Trips/2026 - Bribie Island.md",
+                "file": "Site/Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026 - Bribie Island"
+              "title": "Index"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HQ/Bathrooms.md",
+                "file": "Site/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bathrooms"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -125,7 +125,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -151,21 +153,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bōchord/Inner Life/index.md",
+                "file": "Site/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,46 +184,46 @@
   },
   "active": "21b06658c6d6648e",
   "lastOpenFiles": [
-    "Central Bureaucracy/Field Trips/2026 - Coffs Harbor.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-10 Wednesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-08 Wednesday.md",
-    "Central Bureaucracy/Field Trips/2026 - Bribie Island.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-07 Tuesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-06 Monday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-03 Friday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-02 Thursday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-30 Tuesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-01 Wednesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-29 Monday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-28 Sunday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-27 Saturday.md",
-    "bōchord/Inner Life/Tooling/Nature Meditation.md",
-    "Central Bureaucracy/Field Trips/nationalcartoongallery.com.au.md",
+    "index.md",
+    "Site/Index.md",
+    "Site",
+    "Secret Archives",
+    "Lorehouse.base",
+    "Untitled.canvas",
+    "Shadow Ledger/2026 - Curious Squid/2026-08-05 Wednesday.md",
+    "Shadow Ledger/test.html",
+    "Shadow Ledger/Test.typ",
+    "Central Bureaucracy/Wizardry/Typst.md",
+    "Shadow Ledger/2026 - Curious Squid.md",
+    "Central Bureaucracy/Wizardry",
+    "Shadow Ledger/Test.epub",
+    "Shadow Ledger/2026 - Curious Squid/2026-05-11 Monday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-05-10 Sunday.md",
+    "Resources/Templates/_blædJornal.md",
+    "Resources/Templates/_blædReview.md",
+    "Resources/Templates/Index.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-30 Thursday.md",
+    "Shadow Ledger/Untitled.md",
+    "bōchord/Inner Life/Quotes/Beautiful Dullness.md",
+    "bōchord/Inner Life/Quotes/Untitled.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-08-04 Tuesday.md",
+    "Shadow Ledger/toP7582.pdf",
+    "Shadow Ledger/toP7581.typ",
+    "Shadow Ledger/media-be92b5135a479720",
     "Shadow Ledger/2026 - Curious Squid/2026-06-26 Friday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-25 Thursday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-24 Wednesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-23 Tuesday.md",
-    "Simmer & Stir/Mains/Bibimbap.md",
-    "Simmer & Stir/Mains/Korean Spinach.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-22 Monday.md",
-    "Central Bureaucracy/Tilungbóc/Skottie Young Art Tracker.md",
-    "Shadow Ledger/2026 - Curious Squid/Untitled.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-21 Sunday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-20 Saturday.md",
-    "Simmer & Stir/Sweets",
-    "Recipies/Codex/Untitled.base",
-    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir/Sweets/ANZAC Biscuits.md, Simmer & Stir/Sweets",
-    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir/Sweets/ANZAC Biscuits.md, Simmer & Stir",
-    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir/Sweets",
-    "Simmer & Stir/Sweets/Peanut Butter Styrofoams.md, Simmer & Stir",
-    "bōchord/Ideas/Shows",
-    "bōchord/Ideas/Art/Art.yaml",
-    "bōchord/Ideas/Art/Ideas.yaml",
-    "bōchord/Ideas/Ideas.yaml",
+    "Shadow Ledger/2026 - Curious Squid/2026-08-02 Sunday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-08-03 Monday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-08-01 Saturday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-31 Friday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-29 Wednesday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-28 Tuesday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-27 Monday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-26 Sunday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-25 Saturday.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-07-24 Friday.md",
     "Simmer & Stir/Dough/images/IMG_0052.webp",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
-    "Untitled.canvas",
     "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg",
     "Obsidian/Images/Pasted image 20230724172542.png",
     "Obsidian/Images/Pasted image 20230724163135.png",

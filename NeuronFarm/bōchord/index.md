@@ -43,7 +43,7 @@ icon: lucide/book-marked
 - [The Wild Robot Protects](Ideas/Books/The%20Wild%20Robot%20Protects.md)
 
 ### Games
-- [High card by Suit](Ideas/Games/High%20card%20by%20Suit.md)
+- [High card by Suit](High%20card%20by%20Suit.md)
 
 ### Language
 - [Multimodal Narrative](Ideas/Language/Multimodal%20Narrative.md)

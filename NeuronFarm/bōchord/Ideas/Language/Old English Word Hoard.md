@@ -130,5 +130,8 @@ title: Old English Word Hoard
 **Geaf wynreste mid handum**
 : Gave pleasurable rest with hands
 
+gemæne gefēan þurh mūþhæmed
+: Mutual joy through
+
 Onfēng gefēan
 : Recieved pleasure 

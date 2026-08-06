@@ -41,7 +41,7 @@ icon: lucide/lightbulb
 - [The Wild Robot Protects](Books/The%20Wild%20Robot%20Protects.md)
 
 ## Games
-- [High card by Suit](Games/High%20card%20by%20Suit.md)
+- [High card by Suit](High%20card%20by%20Suit.md)
 
 ## Language
 - [Multimodal Narrative](Language/Multimodal%20Narrative.md)
