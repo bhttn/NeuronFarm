@@ -11,24 +11,12 @@
             "id": "21b06658c6d6648e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Central Bureaucracy/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Central Bureaucracy/Field Trips/Archive/2024/images/Pasted image 20240924195739.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "Pasted image 20240924195739"
             }
           }
         ]
@@ -105,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Bureaucracy/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Bureaucracy/index.md",
+                "file": "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/images/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,55 +169,55 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "21b06658c6d6648e",
+  "active": "6bd0fbef7dbb07f2",
   "lastOpenFiles": [
-    "Simmer & Stir/index.md",
-    "Simmer & Stir/Mains/Beer Braised Beef.md",
-    "Simmer & Stir/Mains/Basic Braised Beef.md",
-    "Central Bureaucracy/Pages/Index.md",
-    "index.md",
+    "Central Bureaucracy/Field Trips/Archive/2024/images/Pasted image 20240924195739.jpg",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/images/index.md",
+    "Central Bureaucracy/Field Trips/Archive/2024/Melbourne - Itinerary.md",
+    "Central Bureaucracy/Field Trips/Archive/2024/Melbourne - Accounting.md",
+    "Central Bureaucracy/Field Trips/Archive/2024/Melbourne.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/Index_2024.md",
+    "Central Bureaucracy/Field Trips/Archive/2024/Charleville Itinerary.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/index.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/2024.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/_Index_of_2024.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/Index_2023.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/index.md",
+    "Central Bureaucracy/Field Trips/Archive/2023/Gold Coast.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/2023.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/_Index_of_2023.md",
+    "Central Bureaucracy/Field Trips/Archive/2023/Brisbane Getaway.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Notes/Camping Cookbook.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Index_Field Trips.md",
+    "Central Bureaucracy/Unsorted/Field Trips/index.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Field Trips.md",
+    "Central Bureaucracy/Unsorted/Field Trips/_Index_of_Field Trips.md",
+    "Central Bureaucracy/Field Trips/Archive/DH - Stats.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Holidays/31.01  Berry Festival.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Holidays/312 Dragon Calling/_Index_of_312 Dragon Calling.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Holidays/312 Dragon Calling/312 Dragon Calling.md",
+    "Central Bureaucracy/Unsorted/Field Trips/Holidays/312 Dragon Calling/index.md",
+    "Central Bureaucracy/Field Trips/Archive",
+    "Central Bureaucracy/Unsorted/Field Trips/Holidays/FESTIVAL-PROFRAM-01.jpg",
+    "Central Bureaucracy/Unsorted/images/Pasted image 20241127202957.png",
+    "Central Bureaucracy/Unsorted/images/Pasted image 20241127164511.png",
+    "Central Bureaucracy/Unsorted/images/Pasted image 20241127163523.png",
+    "Central Bureaucracy/Unsorted/images/Pasted image 20241127162104.png",
+    "Central Bureaucracy/Unsorted/images/Pasted image 20241127161739.png",
+    "Central Bureaucracy/Games",
     "Central Bureaucracy/Pages",
     "Secret Archives",
     "Lorehouse.base",
     "Untitled.canvas",
-    "Shadow Ledger/2026 - Curious Squid/2026-08-05 Wednesday.md",
     "Shadow Ledger/test.html",
     "Shadow Ledger/Test.typ",
-    "Central Bureaucracy/Wizardry/Typst.md",
-    "Shadow Ledger/2026 - Curious Squid.md",
     "Central Bureaucracy/Wizardry",
     "Shadow Ledger/Test.epub",
-    "Shadow Ledger/2026 - Curious Squid/2026-05-11 Monday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-05-10 Sunday.md",
-    "Resources/Templates/_blædJornal.md",
-    "Resources/Templates/_blædReview.md",
-    "Resources/Templates/Index.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-30 Thursday.md",
-    "Shadow Ledger/Untitled.md",
-    "bōchord/Inner Life/Quotes/Beautiful Dullness.md",
-    "bōchord/Inner Life/Quotes/Untitled.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-08-04 Tuesday.md",
     "Shadow Ledger/toP7582.pdf",
-    "Shadow Ledger/toP7581.typ",
-    "Shadow Ledger/media-be92b5135a479720",
-    "Shadow Ledger/2026 - Curious Squid/2026-06-26 Friday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-08-02 Sunday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-08-03 Monday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-08-01 Saturday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-31 Friday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-29 Wednesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-28 Tuesday.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-07-27 Monday.md",
     "Simmer & Stir/Dough/images/IMG_0052.webp",
     "Resources/Images/Pasted image 20260310221752.jpg",
     "Resources/Images/Pasted image 20260309210632.jpg",
     "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg",
-    "Obsidian/Images/Pasted image 20230724172542.png",
-    "Obsidian/Images/Pasted image 20230724163135.png",
-    "Obsidian/Central Bureaucracy/Field Trips/Notes/Pasted image 20230116083745.png",
-    "Obsidian/Central Bureaucracy/Field Trips/Holidays/FESTIVAL-PROFRAM-01.jpg",
-    "Obsidian/Images/71DBD938-9A77-4B5F-83BC-8E25C31901E4.jpeg",
-    "Obsidian/Resources/Images/71DBD938-9A77-4B5F-83BC-8E25C31901E4.jpeg",
     "Obsidian/Untitled.canvas",
     "Dashboards.canvas",
     "Untitled 1.canvas"

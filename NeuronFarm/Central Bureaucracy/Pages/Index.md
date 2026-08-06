@@ -4,4 +4,4 @@ title: b1.bhttn
 *Photon collector, Word Hoarder, Lapsed Musician*
 
 :camera: [Photos](photos.bhttn.com)  
-:square-library: [StoryGraph](https://app.thestorygraph.com/profile/jollybaboon)  
+:camera: [StoryGraph](https://app.thestorygraph.com/profile/jollybaboon)  
