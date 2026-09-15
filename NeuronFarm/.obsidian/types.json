@@ -25,6 +25,23 @@
     "Year": "number",
     "wynntid": "multitext",
     "mēd": "multitext",
-    "þeaw-success": "number"
+    "þeaw-success": "number",
+    "finalised": "checkbox",
+    "active": "checkbox",
+    "trait": "list",
+    "skills": "list",
+    "skills.0": "object",
+    "skills.status": "checkbox",
+    "skills.checked": "checkbox",
+    "mortals": "list",
+    "memories": "list",
+    "memories.0": "object",
+    "memories.ex": "object",
+    "resources": "list",
+    "resources.0": "object",
+    "resources.1": "object",
+    "resources.0.active": "checkbox",
+    "resources.active": "checkbox",
+    "Sketch Ideas": "multitext"
   }
 }

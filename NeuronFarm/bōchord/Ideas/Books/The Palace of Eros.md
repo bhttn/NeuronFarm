@@ -10,6 +10,7 @@ rating: 4
 stars: ★★★★
 page: 8
 Author: Caro De Robertis
+cover: "[[Palace of Eros.png]]"
 ---
 ## Review 
 When Psyche is deemed more beautiful than Aphrodite the god sends her daughter Eros to deal with it, instead Eros falls in love with Psyche. 

@@ -1,5 +1,6 @@
 ---
 title: b1.bhttn
+template: minimal.html
 ---
 *Photon collector, Word Hoarder, Lapsed Musician*
 

@@ -18,7 +18,7 @@ icon: lucide/book-marked
 - [Colour Demystified](Ideas/Books/Colour%20Demystified.md)
 - [Hero of two Worlds](Ideas/Books/Hero%20of%20two%20Worlds.md)
 - [How to Relax](Ideas/Books/How%20to%20Relax.md)
-- [Jurrasic Park Visual History](Ideas/Books/Jurrasic%20Park%20Visual%20History.md)
+- [Jurassic Park Visual History](Jurassic%20Park%20Visual%20History.md)
 - [Lord of the Rings](Ideas/Books/Lord%20of%20the%20Rings.md)
 - [Lupin](Ideas/Books/Lupin.md)
 - [Make it So](Ideas/Books/Make%20it%20So.md)

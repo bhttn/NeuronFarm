@@ -4,6 +4,7 @@ title: Aeneid
 categories:
   - Books
 Author: Virgil
+cover: "[[Aeneid.jpg]]"
 ---
 # Characters
 

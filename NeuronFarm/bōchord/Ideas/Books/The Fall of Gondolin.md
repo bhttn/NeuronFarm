@@ -12,6 +12,10 @@ EndDate: 2022-12-11
 tags:
 categories:
   - Books
+cover: "[[The Fall of Gondolin.jpg]]"
+rating: 4.5
+stars: ★★★★☆
+Date: 2022-12-11
 ---
 ## Notes
 - Started in 1917, same year as *Beren and Lúthien* ; while on leave after the battle of the Somme

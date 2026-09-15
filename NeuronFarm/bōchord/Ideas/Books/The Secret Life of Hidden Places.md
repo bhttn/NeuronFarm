@@ -3,6 +3,10 @@ tags:
 title: The Secret Life of Hidden Places
 categories:
   - Books
+cover: "[[The Secret Life of Hidden Places.jpg]]"
+rating: 3.5
+stars: ★★★☆
+Date: 2025-06-20
 ---
 
 ## Introduction

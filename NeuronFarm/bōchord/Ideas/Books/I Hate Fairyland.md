@@ -7,6 +7,7 @@ Date:
 rating:
 stars:
 page:
+cover: "[[I Hate Fairyland.jpg]]"
 ---
 # Notes
 ## Book 1

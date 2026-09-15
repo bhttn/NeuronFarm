@@ -10,6 +10,7 @@ stars: ★★★★★
 rating: 5
 Date: 2026-01-04
 Author: Peter Brown
+cover: "[[The Wild Robot Escapes.jpg]]"
 ---
 ## Review
 Roz seeing the world that she was built for longs for her real home, the island. 

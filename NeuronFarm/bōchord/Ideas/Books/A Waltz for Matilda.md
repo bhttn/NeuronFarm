@@ -12,6 +12,7 @@ EndDate: 2023-08-30
 categories:
   - Books
 tags:
+cover: "[[A_waltz_for_matilda.jpg]]"
 ---
 
 - Neat trick to start each chapter with a letter summarising what happened in the last chapter. Drives home how strange and different everything is for Matilda as her world rapidly changes.

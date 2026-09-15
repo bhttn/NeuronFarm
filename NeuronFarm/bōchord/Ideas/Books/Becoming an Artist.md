@@ -10,6 +10,7 @@ rating: 4.5
 stars: ★★★★☆
 page: 13
 Author: Scott Christian Sava
+cover: "[[Becoming an Artist.png]]"
 ---
 ## Notes
 Here you go — the same Markdown, but with all empty sections removed, leaving only the entries that actually contain notes.

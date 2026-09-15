@@ -3,6 +3,7 @@ tags:
 title: Colour Demystified
 categories:
   - Books
+cover: "[[Colour Demystified.jpg]]"
 ---
 ## Materials
 Windsor Newton Cotman is student grade

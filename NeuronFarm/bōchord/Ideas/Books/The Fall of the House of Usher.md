@@ -5,6 +5,7 @@ categories:
   - Books
 Author: Edgar Allen Poe
 Date: 2026-04-19
+cover: "[[The Fall of the House of Usher.jpg]]"
 ---
 
 # Summary

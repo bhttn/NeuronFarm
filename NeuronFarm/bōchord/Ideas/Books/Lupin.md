@@ -8,6 +8,7 @@ rating:
 stars:
 page:
 Author: Maurice Lupin
+cover: "[[The Best of Lupin.jpg]]"
 ---
 ## Notes
 ### Intoduction

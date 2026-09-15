@@ -18,7 +18,7 @@ title: Books
 | [Colour Demystified](Colour%20Demystified.md) |  |  |  |
 | [Hero of two Worlds: The Marquis de Lafayette](Hero%20of%20two%20Worlds.md) | Mike Duncan |  |  |
 | [How to Relax](How%20to%20Relax.md) | Thích Nhất Hạnh |  |  |
-| [Jurrasic Park Visual History](Jurrasic%20Park%20Visual%20History.md) |  |  |  |
+| [Jurassic Park Visual History](Jurassic%20Park%20Visual%20History.md) |  |  |  |
 | [Lord of the Rings](Lord%20of%20the%20Rings.md) | JRR Tolkien |  |  |
 | [The Best of Lupin](Lupin.md) | Maurice Lupin |  |  |
 | [Make it So](Make%20it%20So.md) | Patrick Stewart |  |  |

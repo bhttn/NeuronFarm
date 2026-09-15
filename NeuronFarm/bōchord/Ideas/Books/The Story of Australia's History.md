@@ -12,6 +12,8 @@ EndDate: 2022-02-25
 categories:
   - Books
 tags:
+cover: "[[The Story of Australia's History.jpg]]"
+Date: 2022-02-25
 ---
 
 

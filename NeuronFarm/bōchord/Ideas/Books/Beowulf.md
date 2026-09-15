@@ -10,6 +10,7 @@ EndDate:
 categories:
   - Books
 tags:
+cover: "[[Beowulf.jpg]]"
 ---
 
 Set in the 6th century but with hints of 5th century characters and practices. 

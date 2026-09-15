@@ -3,6 +3,9 @@ filters:
     - file.path.startsWith("bōchord")
     - file.ext == "md"
     - '!file.tags.contains("Index")'
+properties:
+  note.stars:
+    displayName: Rating
 views:
   - type: list
     name: Index
@@ -70,3 +73,34 @@ views:
         direction: DESC
     indentProperties: false
     separator: "-"
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - categories.contains("Books")
+    order:
+      - file.name
+      - stars
+      - Author
+    sort:
+      - property: rating
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    image: note.cover
+    imageAspectRatio: 1.5
+    cardSize: 190
+  - type: cards
+    name: Movies
+    filters:
+      and:
+        - categories.contains("Movies")
+    order:
+      - file.name
+      - stars
+    sort:
+      - property: Date
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 1.5
+    cardSize: 190

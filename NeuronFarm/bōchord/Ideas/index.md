@@ -16,7 +16,7 @@ icon: lucide/lightbulb
 - [Colour Demystified](Books/Colour%20Demystified.md)
 - [Hero of two Worlds](Books/Hero%20of%20two%20Worlds.md)
 - [How to Relax](Books/How%20to%20Relax.md)
-- [Jurrasic Park Visual History](Books/Jurrasic%20Park%20Visual%20History.md)
+- [Jurassic Park Visual History](Jurassic%20Park%20Visual%20History.md)
 - [Lord of the Rings](Books/Lord%20of%20the%20Rings.md)
 - [Lupin](Books/Lupin.md)
 - [Make it So](Books/Make%20it%20So.md)

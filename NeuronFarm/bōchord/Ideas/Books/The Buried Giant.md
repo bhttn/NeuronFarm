@@ -11,6 +11,7 @@ rating: 4
 stars: ★★★★
 page: 13
 Author: Kazu Ishiguro
+cover: "[[The Buried Giant.jpg]]"
 ---
 ## Review
 Set in a post Athurian Britain an old couple fight the forgetting mist that has settled on the land to set off and visit their son. 

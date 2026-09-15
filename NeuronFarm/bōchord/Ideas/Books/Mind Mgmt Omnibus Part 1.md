@@ -12,6 +12,10 @@ EndDate:
 categories:
   - Books
 tags:
+Date: 2023-11-15
+cover: "[[Mind Mgmt Omnibus Part 1.jpg]]"
+rating: 4.5
+stars: ★★★★☆
 ---
 
 ### Factions

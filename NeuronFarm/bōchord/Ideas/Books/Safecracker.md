@@ -10,6 +10,7 @@ rating: 2.5
 stars: ★★☆
 page: 3
 Author: Dave McOmie
+cover: "[[Safecracker.jpg]]"
 ---
 ## Review
 A chronicle of the life of a safecracker. 

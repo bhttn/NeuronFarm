@@ -13,9 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Bureaucracy/Pages/Index.md",
+                "file": "Shadow Ledger/2026 - Curious Squid/2026-09-08 Tuesday.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-08 Tuesday"
+            }
+          },
+          {
+            "id": "e8667927e680970e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Central Bureaucracy/Pages/Index.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -31,7 +55,8 @@
               "title": "Index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +91,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -78,7 +106,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -105,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Bureaucracy/Pages/Index.md",
+                "file": "bōchord/Ideas/RPGs/Isla Corona del Raptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for Isla Corona del Raptor"
             }
           },
           {
@@ -153,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Bureaucracy/Pages/Index.md",
+                "file": "Shadow Ledger/2026 - Curious Squid/2026-08-06 Thursday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline"
             }
           }
         ],
@@ -167,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,55 +213,55 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "21b06658c6d6648e",
+  "active": "e8667927e680970e",
   "lastOpenFiles": [
-    "index.md",
-    "Central Bureaucracy/Pages/Index.md",
-    "Central Bureaucracy/Field Trips/Checklists/32.01 Camper Trailer.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/images/index.md",
-    "Central Bureaucracy/Field Trips/Archive/2024/images/Pasted image 20240924195739.jpg",
-    "Central Bureaucracy/Field Trips/Archive/2024/Melbourne - Itinerary.md",
-    "Central Bureaucracy/Field Trips/Archive/2024/Melbourne - Accounting.md",
-    "Central Bureaucracy/Field Trips/Archive/2024/Melbourne.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/Index_2024.md",
-    "Central Bureaucracy/Field Trips/Archive/2024/Charleville Itinerary.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/index.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/2024.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2024/_Index_of_2024.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/Index_2023.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/index.md",
-    "Central Bureaucracy/Field Trips/Archive/2023/Gold Coast.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/2023.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/2023/_Index_of_2023.md",
-    "Central Bureaucracy/Field Trips/Archive/2023/Brisbane Getaway.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Notes/Camping Cookbook.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Index_Field Trips.md",
-    "Central Bureaucracy/Unsorted/Field Trips/index.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Field Trips.md",
-    "Central Bureaucracy/Unsorted/Field Trips/_Index_of_Field Trips.md",
-    "Central Bureaucracy/Field Trips/Archive/DH - Stats.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Holidays/31.01  Berry Festival.md",
-    "Central Bureaucracy/Unsorted/Field Trips/Holidays/312 Dragon Calling/_Index_of_312 Dragon Calling.md",
-    "Central Bureaucracy/Field Trips/Archive",
-    "Central Bureaucracy/Unsorted/Field Trips/Holidays/FESTIVAL-PROFRAM-01.jpg",
-    "Central Bureaucracy/Unsorted/images/Pasted image 20241127202957.png",
-    "Central Bureaucracy/Unsorted/images/Pasted image 20241127164511.png",
-    "Central Bureaucracy/Unsorted/images/Pasted image 20241127163523.png",
-    "Central Bureaucracy/Unsorted/images/Pasted image 20241127162104.png",
-    "Central Bureaucracy/Unsorted/images/Pasted image 20241127161739.png",
-    "Central Bureaucracy/Games",
-    "Central Bureaucracy/Pages",
-    "Secret Archives",
-    "Lorehouse.base",
+    "Central Bureaucracy/Field Trips/Tasmania/Places.md",
+    "Central Bureaucracy/Field Trips/2026 - Bribie Island.md",
+    "Lorehouse/Shadow Ledger.base",
+    "Resources/zensical/overrides/minimal.html",
+    "Resources/zensical/overrides/main - Copy.html",
+    "Lorehouse/Simmer & Stir.base",
+    "Lorehouse/bōchord.base",
+    "Resources/Images/movies/F9.webp",
+    "Resources/Images/movies/Crime 101.webp",
+    "Resources/Images/movies",
+    "bōchord/Ideas/Books/Lord of the Rings.md",
+    "bōchord/Ideas/Books/The Two Towers.md",
+    "bōchord/Ideas/Books/The Story of Australia's History.md",
+    "Resources/Images/books/The Story of Australia's History.jpg",
+    "bōchord/Ideas/Books/The Secret Life of Hidden Places.md",
+    "Resources/Images/books/The Secret Life of Hidden Places.jpg",
+    "bōchord/Ideas/Books/The Fall of Gondolin.md",
+    "Resources/Images/books/The Fall of Gondolin.jpg",
+    "bōchord/Ideas/Books/Revelation Space.md",
+    "Resources/Images/books/Revelation Space.jpg",
+    "bōchord/Ideas/Books/Pharaoh.md",
+    "Resources/Images/books/Pharaoh.jpg",
+    "bōchord/Ideas/Books/Mythopedia.md",
+    "Resources/Images/books/Mythopedia.jpg",
+    "bōchord/Ideas/Books/Moving Pictures.md",
+    "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD.jpeg",
+    "Resources/Images/0A6AE2CA-C5E1-4B58-BA4F-B22E2CC978FD 1.jpeg",
+    "Shadow Ledger/2026 - Curious Squid/2026-09-08 Tuesday.md",
+    "Resources/Images/books",
+    "Shadow Ledger/2026 - Curious Squid/2026-09-15 Tuesday.md",
+    "Shadow Ledger/2026 - Curious Squid/Weekly/2026-W38.md",
+    "Shadow Ledger/2026 - Curious Squid/Weekly",
+    "Shadow Ledger/2026 - Curious Squid/2026-09-14 Monday.md",
+    "Secret Archives/Things/Kakadu Plum.md",
+    "Secret Archives/Things/Leapfrogging.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-09-13 Sunday.md",
+    "Secret Archives/Things/Aus Whiskey - L1.md",
+    "Secret Archives/Things/Movie Night.md",
+    "Secret Archives/Day of Touch.md",
+    "Secret Archives/Things/Cafe.md",
+    "Secret Archives/Things/To The Nines.md",
+    "Shadow Ledger/2026 - Curious Squid/2026-09-12 Saturday.md",
+    "Secret Archives/Things/Anticipation.md",
+    "Lorehouse/Secret Archives.base",
+    "Secret Archives/Things/Mini E-ink Display.md",
+    "Secret Archives/Things",
     "Untitled.canvas",
-    "Shadow Ledger/test.html",
-    "Shadow Ledger/Test.typ",
-    "Central Bureaucracy/Wizardry",
-    "Shadow Ledger/Test.epub",
-    "Shadow Ledger/toP7582.pdf",
-    "Simmer & Stir/Dough/images/IMG_0052.webp",
-    "Resources/Images/Pasted image 20260310221752.jpg",
-    "Resources/Images/Pasted image 20260309210632.jpg",
     "Obsidian/Untitled.canvas",
     "Dashboards.canvas",
     "Untitled 1.canvas"

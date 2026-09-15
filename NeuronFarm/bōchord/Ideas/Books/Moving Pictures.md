@@ -12,4 +12,8 @@ EndDate: 2023-10-07
 tags:
 categories:
   - Books
+rating: 4.5
+stars: ★★★★☆
+Date: 2023-10-07
+cover: "[[Moving Pictures.jpg]]"
 ---

@@ -1,8 +1,13 @@
 ---
 tags:
-title: Jurrasic Park Visual History
+title: Jurassic Park Visual History
 categories:
   - Books
+rating: 4
+stars: ★★★★
+cover: "[[Jurassic Park Visual History.jpg]]"
+Author: James Mottram
+Date: 2025-11-05
 ---
 
 - Christina Ricci (Wednesday from the 90s Adam's family show) auditioned for Lex

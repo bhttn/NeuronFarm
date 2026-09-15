@@ -10,6 +10,7 @@ rating: 3.5
 stars: ★★★☆
 page: 9
 Author: Peter Brown
+cover: "[[Wild Robot Protects.jpg]]"
 ---
 ## Review
 The island is threatened by a poison in the ocean sending Roz out to protect her home.

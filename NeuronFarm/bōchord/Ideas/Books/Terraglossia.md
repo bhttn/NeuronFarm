@@ -10,6 +10,7 @@ page: 16
 rating: 3.5
 stars: ★★★☆
 Author: Debra Dank
+cover: "[[Terraglossia.jpg]]"
 ---
 
 ## 1. The moving tide - an introduction

@@ -133,5 +133,12 @@ title: Old English Word Hoard
 gemæne gefēan þurh mūþhæmed
 : Mutual joy through
 
+handa ofer þām līchoman wandriaþ
+: hands wander over the body
+
 Onfēng gefēan
 : Recieved pleasure 
+
+Weleras belocene
+: Lips locked
+

@@ -8,4 +8,5 @@ Date: 2026-01-22
 rating: 4.5
 stars: ★★★★☆
 page: 5
+cover: "[[Zootopia 2.webp]]"
 ---

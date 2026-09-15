@@ -12,6 +12,7 @@ EndDate: 2022-11-03
 categories:
   - Books
 tags:
+cover: "[[Hero of Two Worlds.jpg]]"
 ---
 
 

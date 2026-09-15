@@ -8,6 +8,7 @@ rating:
 stars:
 page:
 Author: Adrienne Mayor
+cover: "[[Mythopedia.jpg]]"
 ---
 # Notes
 ## Preface 

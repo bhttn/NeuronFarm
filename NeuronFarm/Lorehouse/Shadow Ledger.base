@@ -20,6 +20,8 @@ properties:
     displayName: Week
   formula.Month:
     displayName: Month-Year
+  file.name:
+    displayName: Date
 views:
   - type: calendar
     name: Ledger
@@ -96,3 +98,22 @@ views:
     order:
       - formula.wynntid-verb
     markers: none
+  - type: list
+    name: Draft
+    filters:
+      and:
+        - finalised == null
+        - file.inFolder("Shadow Ledger/2026 - Curious Squid")
+    groupBy:
+      property: formula.Month
+      direction: DESC
+  - type: table
+    name: Sketch Ideas
+    filters:
+      and:
+        - file.hasProperty("Sketch Ideas")
+        - finalised != true
+    order:
+      - file.name
+      - Sketch Ideas
+    indentProperties: true

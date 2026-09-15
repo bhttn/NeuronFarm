@@ -12,6 +12,8 @@ EndDate:
 categories:
   - Books
 tags:
+cover: "[[Make it So.jpg]]"
+Date: 2023-11-28
 ---
 
 

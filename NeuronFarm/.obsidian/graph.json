@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Rev",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 3.3989566898606896,
+  "scale": 0.42697147973708344,
   "close": true
 }

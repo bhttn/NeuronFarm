@@ -11,6 +11,7 @@ rating: 3.5
 stars: ★★★☆
 page: 15
 Author: JRR Tolkien
+cover: "[[The Children of Hurin.jpg]]"
 ---
 ## Review
 The family cursed by Morgoth, Túrin strugles to find his place in the world. 
