@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Bureaucracy/Pages/Weekly Planner.md",
+                "file": "Central Bureaucracy/Pages/Weekly Goals.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly Planner"
+              "title": "Weekly Goals"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "e8667927e680970e",
   "lastOpenFiles": [
+    "Central Bureaucracy/index.md",
     "Central Bureaucracy/Pages/Weekly Goals.md",
     "Central Bureaucracy/Pages/Weekly Planner.md",
     "Resources/CSS/minimal.css",
@@ -259,7 +260,6 @@
     "Secret Archives/Things/Movie Night.md",
     "Secret Archives/Day of Touch.md",
     "Secret Archives/Things/Cafe.md",
-    "Secret Archives/Things/To The Nines.md",
     "Lorehouse/Secret Archives.base",
     "Untitled.canvas",
     "Obsidian/Untitled.canvas",

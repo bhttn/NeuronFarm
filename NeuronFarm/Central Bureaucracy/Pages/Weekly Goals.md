@@ -17,3 +17,6 @@ template: minimal.html
 
 Kakadu Plum
 
+---
+
+[Weekly Planner](/Central Bureaucracy/Pages/Weekly Planner/)1
