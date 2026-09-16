@@ -3,20 +3,27 @@ title: Weekly Goals
 template: minimal.html
 ---
 
-## Goals
+<div class="grid cards" markdown>
 
-| Goal | Description |
-| ---- | ----------- |
-| 0    | folm        |
-| 0    | unræd       |
-| 3    | hale        |
-| 4    | ān þing     |
-|      |             |
+-   **Goals**
+	
+	---
+	
+    | Goal | Description |
+    | ---- | ----------- |
+    | 0    | folm        |
+    | 0    | unræd       |
+    | 3    | hale        |
+    | 4    | ān þing     |
 
-## Reward
+-   **Reward**
+	
+	---
+	
+    Kakadu Plum
 
-Kakadu Plum
+</div>
 
 ---
 
-[Weekly Planner](/Central Bureaucracy/Pages/Weekly Planner/)1
+[Weekly Planner](/Central Bureaucracy/Pages/Weekly Planner/)

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Bureaucracy/Pages/Weekly Goals.md",
+                "file": "Central Bureaucracy/Pages/Weekly Planner.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly Goals"
+              "title": "Weekly Planner"
             }
           }
         ],
@@ -215,9 +215,9 @@
   },
   "active": "e8667927e680970e",
   "lastOpenFiles": [
-    "Central Bureaucracy/index.md",
     "Central Bureaucracy/Pages/Weekly Goals.md",
     "Central Bureaucracy/Pages/Weekly Planner.md",
+    "Central Bureaucracy/index.md",
     "Resources/CSS/minimal.css",
     "Central Bureaucracy/Pages/Index.md",
     "Shadow Ledger/2026 - Curious Squid/Weekly/2026-W38.md",
