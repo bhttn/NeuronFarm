@@ -5,12 +5,13 @@
    ============================================ */
 
 :root {
-  --color-bg: #fffffb;
-  --color-text: #5b622e;
-  --color-headings: #096148;
-  --color-muted: #666;
+  --color-bg: #fff;
+  --color-bg-card: #f5fcfd;
+  --color-text: #0c4842;
+  --color-headings: #0d5661;
+  --color-muted: #577c8a;
   --color-link: var(--color-text);
-  --color-border: #e0e0e0;
+  --color-border: var(--color-muted);
   --font-sans: system-ui, -apple-system, "Segoe UI", sans-serif;
   --measure: 42rem;
   --space: 1.5rem;
@@ -79,6 +80,13 @@ nav ul {
   padding: 0;
 }
 
+/* Kiosk mode: double text size on iPad and larger screens */
+@media (min-width: 768px) {
+  html {
+    font-size: 200%;
+  }
+}
+
 /* Post list */
 .posts {
   list-style: none;
@@ -141,7 +149,8 @@ hr {
 .grid.cards li {
   padding: var(--space);
   border: 1px solid var(--color-border);
-  border-radius: 4px;
+  border-radius: 0.5rem;
+  background: var(--color-bg-card);
 }
  
 .grid.cards li p {

@@ -11,10 +11,10 @@ template: minimal.html
 	
     | Goal | Description |
     | ---- | ----------- |
-    | 0    | folm        |
-    | 0    | unræd       |
-    | 3    | hale        |
-    | 4    | ān þing     |
+    | 0 / 0    | folm        |
+    | 0 / 0   | unræd       |
+    | 1 / 3    | hale        |
+    | 2 / 4    | ān þing     |
 
 -   **Reward**
 	
