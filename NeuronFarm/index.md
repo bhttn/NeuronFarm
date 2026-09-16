@@ -21,6 +21,6 @@ hide:
 
 - :lucide-book-marked: [bōchord](./bōchord/index.md)
 - :lucide-building-2: [Central Bureaucracy](./Central Bureaucracy/index.md)
-- :lucide-cooking-pot: [Simmer & Stir](./Simmer & Stir/index.md)
+- :lucide-cooking-pot: [Simmer & Stir](./Simmer %26 Stir/index.md)
 
 </div>
