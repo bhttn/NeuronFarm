@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Bureaucracy/Pages/Index.md",
-                "mode": "preview",
-                "source": false,
+                "file": "Central Bureaucracy/Pages/Weekly Planner.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Weekly Planner"
             }
           }
         ],
@@ -215,6 +215,11 @@
   },
   "active": "e8667927e680970e",
   "lastOpenFiles": [
+    "Central Bureaucracy/Pages/Weekly Goals.md",
+    "Central Bureaucracy/Pages/Weekly Planner.md",
+    "Resources/CSS/minimal.css",
+    "Central Bureaucracy/Pages/Index.md",
+    "Shadow Ledger/2026 - Curious Squid/Weekly/2026-W38.md",
     "Central Bureaucracy/Field Trips/Tasmania/Places.md",
     "Central Bureaucracy/Field Trips/2026 - Bribie Island.md",
     "Lorehouse/Shadow Ledger.base",
@@ -245,7 +250,6 @@
     "Shadow Ledger/2026 - Curious Squid/2026-09-08 Tuesday.md",
     "Resources/Images/books",
     "Shadow Ledger/2026 - Curious Squid/2026-09-15 Tuesday.md",
-    "Shadow Ledger/2026 - Curious Squid/Weekly/2026-W38.md",
     "Shadow Ledger/2026 - Curious Squid/Weekly",
     "Shadow Ledger/2026 - Curious Squid/2026-09-14 Monday.md",
     "Secret Archives/Things/Kakadu Plum.md",
@@ -256,11 +260,7 @@
     "Secret Archives/Day of Touch.md",
     "Secret Archives/Things/Cafe.md",
     "Secret Archives/Things/To The Nines.md",
-    "Shadow Ledger/2026 - Curious Squid/2026-09-12 Saturday.md",
-    "Secret Archives/Things/Anticipation.md",
     "Lorehouse/Secret Archives.base",
-    "Secret Archives/Things/Mini E-ink Display.md",
-    "Secret Archives/Things",
     "Untitled.canvas",
     "Obsidian/Untitled.canvas",
     "Dashboards.canvas",

@@ -1,0 +1,132 @@
+/* ============================================
+   Minimal editorial theme
+   Inspired by piccalil.li/links/
+   Easy to update: all values live in :root
+   ============================================ */
+
+:root {
+  --color-bg: #fff;
+  --color-text: #1a1a1a;
+  --color-muted: #666;
+  --color-link: #1a1a1a;
+  --color-border: #e0e0e0;
+  --font-sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --measure: 42rem;
+  --space: 1.5rem;
+}
+
+/* Dark theme: add class="dark" to <html> or <body> */
+.dark {
+  --color-bg: #111;
+  --color-text: #f0f0f0;
+  --color-muted: #999;
+  --color-link: #f0f0f0;
+  --color-border: #333;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: var(--space);
+  max-width: var(--measure);
+  margin-inline: auto;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+a {
+  color: var(--color-link);
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+/* Site header */
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 1rem;
+  padding-block: var(--space);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.site-header p {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
+/* Nav */
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+/* Post list */
+.posts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  counter-reset: post;
+}
+
+.post {
+  padding-block: var(--space);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+
+.post p {
+  margin: 0 0 0.5rem;
+  color: var(--color-text);
+}
+
+.post .meta {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+.post .meta a {
+  color: var(--color-muted);
+  text-decoration: underline;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  gap: 0.75rem;
+  padding-block: var(--space);
+  color: var(--color-muted);
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding-block: var(--space);
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+.site-footer ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  margin: 0;
+  padding: 0;
+}
