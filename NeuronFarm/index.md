@@ -4,13 +4,23 @@ tags:
 title: Neuron Farm Index
 categories:
 icon: lucide/brain-cog
+hide: 
+  - navigation
+  - path
+  - toc
+  - tags
 ---
-"Where synthetic synapses bloom in neon rows under the watch of patient quantum shepherds."
 
-## [bōchord](./bōchord/index.md)
+<div class="grid cards" markdown>
 
-## [Central Bureaucracy](./Central Bureaucracy/index.md)
+- :lucide-brain-cog: *"Where synthetic synapses bloom in neon rows under the watch of patient quantum shepherds."*
 
-## [Simmer & Stir](./Simmer & Stir/index.md)
+</div>
 
+<div class="grid cards" markdown>
 
+- :lucide-book-marked: [bōchord](./bōchord/index.md)
+- :lucide-building-2: [Central Bureaucracy](./Central Bureaucracy/index.md)
+- :lucide-cooking-pot: [Simmer & Stir](./Simmer & Stir/index.md)
+
+</div>

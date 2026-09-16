@@ -4,6 +4,7 @@ tags:
 title: Central Bureaucracy Index
 categories:
 icon: lucide/building-2
+hide: toc
 ---
 
 # Central Bureaucracy

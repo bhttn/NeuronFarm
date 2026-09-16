@@ -3,6 +3,7 @@ tags: index
 title: bōchord
 categories:
 icon: lucide/book-marked
+hide: toc
 ---
 
 ## Ideas

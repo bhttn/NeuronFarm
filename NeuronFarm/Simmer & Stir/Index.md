@@ -5,6 +5,7 @@ title: Simmer & Stir
 categories:
   - Simmer & Stir
 icon: lucide/cooking-pot
+hide: toc
 ---
 
 ### Biscuits
