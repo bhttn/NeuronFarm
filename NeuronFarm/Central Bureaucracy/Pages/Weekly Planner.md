@@ -4,30 +4,42 @@ template: minimal.html
 ---
 
 <div class="grid cards" markdown>
-
--	**Wednesday**
+-	**Monday**
 	
 	---
 	
-	Performing Arts Concert
+	Teenage Mutant Ninga Turtle Unmatched  
+
+-	**Tuesday**
+	
+	---
+	
+	Jurassic Park  
 
 -	**Thursday**
-
-	---
-
-	Colour Run
 	
+	---
+	
+	Dodo's Riding Dinosaurs  
+
 -	**Friday**
-
+	
 	---
 	
-	End of Term  
-	Bill Bailey  
+	Mission: Impossible - Fallout  
 
 -	**Saturday**
-
+	
 	---
 	
-	Project Hail Mary  
+	Project Hail Mary / The Mandalorian and Grogu  
 
+-	**Sunday**
+	
+	---
+	
+	Banquet  
+ 
 </div>
+
+

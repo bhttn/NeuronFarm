@@ -11,16 +11,17 @@ template: minimal.html
 	
     | Goal | Description |
     | ---- | ----------- |
-    | 0 / 0    | folm        |
-    | 0 / 0   | unræd       |
-    | 1 / 3    | hale        |
-    | 2 / 4    | ān þing     |
+    | 0 / 0    | folm |
+    | 0 / 0    | unræd |
+    | 0 / 0    | wrǣnnes |
+    | 0 / 3    | hale |
+    | 0 / 4    | ān þing |
 
 -   **Reward**
 	
 	---
 	
-    Kakadu Plum
+    Mini E-ink Display
 
 </div>
 

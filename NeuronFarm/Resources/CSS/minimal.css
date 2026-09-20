@@ -83,7 +83,7 @@ nav ul {
 /* Kiosk mode: double text size on iPad and larger screens */
 @media (min-width: 768px) {
   html {
-    font-size: 200%;
+    font-size: 175%;
   }
 }
 

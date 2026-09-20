@@ -98,6 +98,9 @@ title: Old English Word Hoard
 **unræd**
 : ill-counsel, poor judgement; a mind that advises itself badly.
 
+wrǣnnes
+: wantonness, lasciviousness, lust ^80a46f
+
 -----
 
 ## 💬 Sayings & Wisdom

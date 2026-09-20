@@ -111,8 +111,8 @@ views:
     name: Sketch Ideas
     filters:
       and:
-        - file.hasProperty("Sketch Ideas")
         - finalised != true
+        - '!note["Sketch Ideas"].isEmpty()'
     order:
       - file.name
       - Sketch Ideas
